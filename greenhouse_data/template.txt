@@ -1,0 +1,23 @@
+===JD_START===
+TITLE: {job_title}
+DEPARTMENT: {job_department}
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated Backend Engineer to help us build the next generation of financial products.
+
+---RESPONSIBILITIES---
+- Build backend services to meet critical product and business needs
+- Collaborate with engineers, designers, product managers to turn requirements into products
+- Participate in discussions from the initial product ideas to launch
+- Write high quality and well tested code, and review code from other team members
+
+---REQUIREMENTS---
+- 3+ years of software engineering experience
+- 3+ years of experience across Golang, Typescript, or similar
+- Designed, built, and maintained a production system at scale
+- Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

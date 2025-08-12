@@ -1,0 +1,173 @@
+[
+  {
+    "job_id": "senior_manager_data_science_and_analytics",
+    "title": "Senior Manager, Data Science and Analytics",
+    "department": "Data Science",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. As the Senior Manager, Data Science and Analytics, you will lead our efforts in leveraging data to drive strategic decisions, optimize our products, and enhance user experiences across our platforms. You will build and lead a high-performing team of data scientists and analysts to unlock insights from on-chain and ...",
+      "responsibilities": [
+        "Lead and manage the data science and analytics team, providing mentorship, guidance, and professional development opportunities.",
+        "Collaborate closely with cross-functional teams including Product, Engineering, Marketing, and Finance to define data-driven strategies and priorities (how can data be used to drive 10x business impact?) and set the data science roadmap, optimizing for impact.",
+        "Drive collaboration between data science + product/eng to deliver insights that drive current product development and help to prioritize future product roadmap items.",
+        "Ensure high quality, timely work by the data science team that is translated in the most impactful way to stakeholders.",
+        "Design and execute experiments to measure the impact of new product features and initiatives.",
+        "Establish and maintain scalable processes for data collection, preprocessing, modeling, and analysis.",
+        "Communicate findings and recommendations to executive leadership and stakeholders in a clear and concise manner on regular basis that allows insights to inform actions on an ongoing basis.",
+        "Stay current with industry trends and advancements in data science, machine learning, AI, and blockchain technology, and apply them to enhance our products and services."
+      ],
+      "requirements": [
+        "Master’s or PhD in Computer Science, Statistics, Mathematics, Economics, or a related quantitative field.",
+        "Proven experience (12+ years) in a data science or analytics role, with at least 5 years in a leadership position.",
+        "Strong proficiency in statistical analysis, machine learning techniques, and programming languages such as Python, R, and SQL.",
+        "Experience working with large-scale datasets and distributed computing frameworks",
+        "Deep understanding of blockchain technology and cryptocurrency markets is highly desirable.",
+        "Excellent communication skills with the ability to translate complex findings into actionable insights for non-technical stakeholders.",
+        "Entrepreneurial mindset with a track record of driving innovation and delivering results in a fast-paced environment.",
+        "Minimum full-time salary of $240,000 - $266,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).",
+        "Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "AI",
+        "API",
+        "Analytics",
+        "Data Science",
+        "Design",
+        "Finance",
+        "Marketing",
+        "Python",
+        "SQL",
+        "analytics",
+        "data science",
+        "machine learning"
+      ],
+      "salary_range": "$240,000 - $266,000",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/data_science/Senior Manager, Data Science and Analytics.txt"
+    }
+  },
+  {
+    "job_id": "senior_data_scientist",
+    "title": "Senior Data Scientist",
+    "department": "Data Science",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet. We are seeking a Senior Data Scientist who will work in a highly collaborative and cross-functional setting to empower data-driven decision-making at the company level. The successful candidate should possess exceptional analytical and problem-solving skills, as well as the ability to communicate results in a ...",
+      "responsibilities": [
+        "Tackle open-ended business questions through in-depth analysis using on-chain and off-chain data, delivering insights and strategic recommendations that influence team direction.",
+        "Take responsibility for the end-to-end data pipelines—ranging from data collection and instrumentation to building clear, impactful visualizations.",
+        "Lead technical reviews, support teammates with strong SQL and Python skills, and develop reliable, well-documented ETL processes.",
+        "Uphold strong standards for analytical rigor—design and execute experiments and causal studies that earn stakeholder trust and support sound decisions."
+      ],
+      "requirements": [
+        "Bachelors degree in a quantitative field (Computer Science, Statistics, Math, Economics) with 5+ years of relevant Data Science experience, or a Master’s/PhD in a quantitative field with with ≥3+ years of relevant Data Science experience",
+        "Proven track record of leading high-impact data science projects in ambiguous problem spaces",
+        "Hands-on experience using advanced modeling techniques to solve real-world business challenges",
+        "Familiarity with blockchain data and analytics tools",
+        "Professional experience or personal project experience in crypto",
+        "Demonstrated proficiency in SQL and Python",
+        "Previous experience using data modeling and pipeline tools like dbt, Dataflow",
+        "Strong communication skills and the ability to present insights to team members in other domains",
+        "Ability to prioritize effectively in a highly dynamic start-up environment with limited guidance"
+      ],
+      "nice_to_haves": [
+        "Experience working in fast-paced, high-growth technology companies",
+        "Professional experience with DeFi/web3",
+        "Fondness for the color pink",
+        "Minimum full-time salary of $195,000-$217,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility)."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "API",
+        "Data Science",
+        "Python",
+        "SQL",
+        "analytics",
+        "data science",
+        "design"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/data_science/Senior Data Scientist.txt"
+    }
+  },
+  {
+    "job_id": "data_science_intern",
+    "title": "Data Science Intern",
+    "department": "Data Science",
+    "sections": {
+      "intro": "Data Science and Research Intern",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "Data Science"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/data_science/Data Science Intern.txt"
+    }
+  },
+  {
+    "job_id": "senior_data_scientist_marketing",
+    "title": "Senior Data Scientist, Marketing",
+    "department": "Data Science",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. At Uniswap Labs, we are on a mission to enable financial freedom for everyone by building open, decentralized protocols on the blockchain. Our products, including the Uniswap Web App & Uniswap Wallet, are trusted by millions around the world to facilitate decentralized trading and liquidity. We believe in the power of data to drive our decision-making and are looking for a Senior Data Scientist to join our Marketing...",
+      "responsibilities": [
+        "Partner with stakeholders to frame business challenges and develop data models that inform acquisition and retention strategies.",
+        "Design and implement predictive models and marketing frameworks, analyzing customer cohorts to track KPIs such as LTV, CAC, and churn.",
+        "Use data-driven insights to guide marketing strategies, budget allocation, targeting, and personalization across multiple digital channels, with a strong emphasis on performance in the decentralized finance ecosystem.",
+        "Build and maintain essential reporting tools to monitor the performance of marketing campaigns, including attribution models, media mix models, and cohort analysis.",
+        "Expand the company’s marketing analytics capabilities, integrating advanced techniques such as Media Mix Modeling (MMM), predictive lifetime value (pLTV), data-driven attribution, and recommendation systems.",
+        "Work with third-party data sources and in-house AI-powered prediction engines to enhance marketing efforts and optimize user acquisition strategies.",
+        "Measure and analyze the impact of integrated brand campaigns and ensure alignment with Uniswap’s long-term goals.",
+        "What We’re Looking For:",
+        "5+ years of experience in data science or advanced analytics, with a focus on B2C industries, preferably in tech, blockchain, or fintech environments.",
+        "Proven expertise in segmentation, predictive modeling, and retention strategies, especially within digital marketing channels in the context of DeFi and blockchain."
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience",
+        "AI",
+        "API",
+        "Design",
+        "Marketing",
+        "analytics",
+        "data science",
+        "finance",
+        "marketing"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/data_science/Senior Data Scientist, Marketing.txt"
+    }
+  }
+]

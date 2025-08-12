@@ -1,0 +1,26 @@
+===JD_START===
+TITLE: Senior Backend Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Build backend services to meet critical product and business needs.
+- Collaborate with engineers, designers, product managers to turn requirements into products.
+- Participate in discussions from the initial product ideas to launch.
+- Own products end to end
+- Write high quality and well tested code, and review code from other team members.
+
+---REQUIREMENTS---
+- 5+ years of software engineering experience
+- 5+ years of experience across Golang, Rust, Typescript, or similar
+- Designed, built, and maintained a production system at scale
+- Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services
+
+---NICE_TO_HAVES---
+- Worked on large-scale distributed systems
+- Love for unicorns :)
+- Minimum full-time salary of $180,000-$220,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

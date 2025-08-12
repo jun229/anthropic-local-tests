@@ -1,0 +1,36 @@
+===JD_START===
+TITLE: FP&A Manager
+DEPARTMENT: Legal & Policy
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. As the Financial Planning & Analysis (FP&A) Manager, you will play a crucial role in driving our financial planning, forecasting, reporting, and analysis by working closely with Finance, Accounting, and the company’s Fu...
+
+---RESPONSIBILITIES---
+- Conduct forecasting, budgeting, and month-end close reporting and analysis
+- Maintain and update the company's financial model
+- Work cross-functionally across the company to create accurate forecasts, optimize spend, and review historical data
+- Develop and maintain financial dashboards and reports
+- Conduct ad-hoc financial analysis to support strategic decision making
+- Identify and understand business challenges and propose data-driven solutions
+- Stay up-to-date with industry trends and best practices in the blockchain and crypto space
+
+---REQUIREMENTS---
+- Bachelor's degree in Finance, Accounting, Economics, or a related field; MBA preferred
+- 5+ years of experience in financial planning and analysis, preferably in the blockchain or tech industry
+- Strong understanding/interest in the blockchain and crypto ecosystem
+- Excellent financial modeling skills and proficiency in Excel
+- Ability to work cross-functionally and communicate effectively with both technical and non-technical teams
+- Strong problem-solving skills and attention to detail
+- Excellent written and verbal communication skills
+- Self-starter with the ability to work independently and manage multiple projects simultaneously
+- Experience working in a fast-paced, high-growth startup environment
+- "Roll up the sleeves" mentality and willingness to take on any task, big or small, to contribute to the company's success
+
+---NICE_TO_HAVES---
+- CFA, CPA, or other relevant professional certifications
+- Experience with ERP systems and financial planning software
+- Experience working in a fast-paced, high-growth startup environment
+- Knowledge of data analytics and programming languages such as SQL and Python
+- Minimum full-time salary of $144,000-$176,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

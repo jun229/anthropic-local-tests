@@ -1,0 +1,26 @@
+===JD_START===
+TITLE: Developer Experience Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Work closely with Product, Design and other members of the Engineering team to define and build an interactive developer experience across Uniswap Labs’ portfolio
+- Build tools, SDKs, and documentation to help developers use Uniswap
+- Review existing offerings and be part of all new launches to ensure a high bar for documentation
+- Interact with developers in the Uniswap community to better understand their needs and solve their problems
+
+---REQUIREMENTS---
+- Passionate and opinionated about developer tooling
+- Enjoy working across the stack, from frontend to backend with developers as the ultimate customers
+- Passion for explaining complicated subjects to a wide range of technical audiences
+- BS in CS or related field
+- 2+ years writing software
+
+---NICE_TO_HAVES---
+- Interested to engage with developers over Slack, Discord, Email, or hackathons
+- Experience working in Web3
+- Experience maintaining open source projectsLove for unicorns :)
+
+===JD_END===

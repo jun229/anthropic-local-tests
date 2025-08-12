@@ -1,0 +1,369 @@
+[
+  {
+    "job_id": "community",
+    "title": "Community",
+    "department": "Communications",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Community.txt"
+    }
+  },
+  {
+    "job_id": "business_job_template",
+    "title": "Business Job Template",
+    "department": "Communications",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Business Job Template.txt"
+    }
+  },
+  {
+    "job_id": "communications_intern_onsite_in_nyc",
+    "title": "Communications Intern (Onsite in NYC)",
+    "department": "Communications",
+    "sections": {
+      "intro": "We are looking for a Communications Intern to join Uniswap Labs this summer! Reporting into the Head of Communications, you will support and contribute to Uniswap Lab’s content, from press work to marketing plans to social media and everything in between. Location and timing: The internship will take place in New York City over 12 weeks during the summer of 2023 (40hrs/week). The Communications Intern must be willing to work from our SoHo HQ office. Pay: $18/hour minimum for undergrads and $20/hour minimum for graduate students. Housing Stipend not available. What you’ll do: What you need:",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "marketing"
+      ],
+      "salary_range": "$18",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Communications Intern (Onsite in NYC).txt"
+    }
+  },
+  {
+    "job_id": "community_manager",
+    "title": "Community Manager",
+    "department": "Communications",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Community Manager.txt"
+    }
+  },
+  {
+    "job_id": "technical_writer",
+    "title": "Technical Writer",
+    "department": "Communications",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Technical Writer_1.txt"
+    }
+  },
+  {
+    "job_id": "senior_content_writer",
+    "title": "Senior Content Writer",
+    "department": "Communications",
+    "sections": {
+      "intro": "As a Content Writer, you'll be working closely with our Head of Communications and Social Media Manager, our community and customer experience teams, and product managers to create content for Uniswap Labs. You’ll work with the team to write blog posts, talking points, and messaging documents for internal and external use, as well as help edit and proofread content for our users and community across various platforms. Interest and experience with web3 communities and products needed.",
+      "responsibilities": [
+        "Collaborate with team members to create blog posts, talking points, op-eds, and FAQ-style articles",
+        "Work with a team to edit all public communications across channels like Twitter, Discord, and our blog",
+        "Collaborate with community and user focused teams and create a consistent voice across our different platforms and maintain consistent style guidelines",
+        "Monitor external channels (like Discord, Twitter) where target audience of our products may provide feedback"
+      ],
+      "requirements": [
+        "3+ years of experience working closely with communications and product teams in a writing and editing capacity",
+        "Excellent English writing skills (and please submit a link to a sample as part of your application)",
+        "Understanding of web3 and financial issues, particularly in the DeFi space",
+        "Keen eye for honing in on the most important bits to explain a complex topic, without skipping the details",
+        "Creative skills and usage of pictures, drawings, diagrams, animation, and charts that may increase understanding"
+      ],
+      "nice_to_haves": [
+        "Love for the unicorns 🦄"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "3+ years experience"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Senior Content Writer.txt"
+    }
+  },
+  {
+    "job_id": "head_of_communications",
+    "title": "Head of Communications",
+    "department": "Communications",
+    "sections": {
+      "intro": "Reporting to the CMO and working closely with our CEO and COO, we are looking for a savvy, self-starter to lead communications. Ideal candidates will have experience in regulated fields (i.e. financial services, transportation, healthcare) and should be just as comfortable advising executives and developing company-wide strategy as they are interacting with journalists and drafting blog posts We are based out of SoHo in New York City with the option to be partially or fully remote depending on the role.",
+      "responsibilities": [
+        "Develop and execute company-wide communications strategy",
+        "Manage media relations, including relationships with reporters, messaging and tactics for all media engagements",
+        "Serve as company spokesperson",
+        "Establish and own key messaging for use by Uniswap Labs spokespeople and team",
+        "Establish and own communications policies",
+        "Draft communications for CEO and COO",
+        "Oversee content creation efforts",
+        "8+ years of experience in a communications/strategy role in a regulated industry",
+        "Established relationships with reporters",
+        "Experience developing and implementing influencer and social media communications strategies, specifically Twitter"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for the unicorns 🦄"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "8+ years experience",
+        "strategy"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Head of Communications.txt"
+    }
+  },
+  {
+    "job_id": "social_media_manager",
+    "title": "Social Media Manager",
+    "department": "Communications",
+    "sections": {
+      "intro": "We’re looking for an enthusiastic, self-motivated Social Media Manager to reach audiences online and creatively tell the story of the transformative possibilities of crypto, Defi, and Web3. The Social Media Manager will lead and launch social campaigns, owning all components of content from end-to-end across all platforms, including Twitter, Instagram, TikTok, and YouTube. This role will collaborate with internal teams including community, marketing, product, engineering, design, and research. The SMM will manage multiple social campaigns simultaneously, use data driven strategies to reach users, and craft thoughtful strategies that will serve unique audiences. The Social Media Manager must have strong relationships with key social media and digital platforms, as well as seek out emerging ...",
+      "responsibilities": [
+        "Drive our overall social strategy from concepting ideas, to coordinating among teams, to executing, to creatively bringing messages to life",
+        "Own content creation and execution from start to finish for all platforms, in coordination with multiple teams and while maintaining Uniswap's distinct brand tone",
+        "Coordinate across the organization to develop a deep understanding of product offerings and help plan innovative go-to-market plans for new announcements",
+        "Develop social media calendar for all platforms, which is integrated with communications and product timelines",
+        "Cultivate relationships with users across platforms",
+        "Identify growth opportunities across platforms",
+        "Run analytics and develop insights that are relevant to our core audiences and integrate findings into engagement planning"
+      ],
+      "requirements": [
+        "3-5 years of experience running multiple social media platforms for an organization or agency",
+        "Informed and passionate about crypto, DeFi, and Web3 as transformative opportunities",
+        "Proven ability to to use social media to maintain or build a brand, with experience in everything from explainer threads, to product marketing, to playful memes",
+        "Excellent copywriting skills and ability to develop and adapt tone of voice",
+        "Deep understanding of social media platforms, especially Twitter, Instagram, TikTok, and YouTube",
+        "Experience with social analytics tools like Sprout Social to inform decision making",
+        "Graphic design experience and familiarity with basic design tools to create image content"
+      ],
+      "nice_to_haves": [
+        "Ability to create video content",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $104,000-$117,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience",
+        "analytics",
+        "design",
+        "go",
+        "marketing",
+        "strategy"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Social Media Manager.txt"
+    }
+  },
+  {
+    "job_id": "communications_lead",
+    "title": "Communications Lead",
+    "department": "Communications",
+    "sections": {
+      "intro": "tbd",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Communications Lead_1.txt"
+    }
+  },
+  {
+    "job_id": "community_lead",
+    "title": "Community Lead",
+    "department": "Communications",
+    "sections": {
+      "intro": "As Community Lead you will play a pivotal role in shaping Uniswap’s presence in our users lives - fostering meaningful relationships with users and partners. Your primary responsibility will be to autonomously lead and execute user engagement strategies that resonate with our community, ensuring their engagement and loyalty. Target audience is the current community and larger Web3 ecosystem. You will be responsile for conceptualizing, planning, and executing our events and activations strategy that not only promote our products or services but also create memorable experiences for our users. With your knowledge and experience, capable of creatively unblocking and driving forward initiatives on your own. Additionally, you will oversee community engagement initiatives, ensuring that our user...",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "strategy"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Community Lead.txt"
+    }
+  },
+  {
+    "job_id": "communications_lead",
+    "title": "Communications Lead",
+    "department": "Communications",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Communications Lead.txt"
+    }
+  },
+  {
+    "job_id": "technical_writer",
+    "title": "Technical Writer",
+    "department": "Communications",
+    "sections": {
+      "intro": "As a technical writer, you'll be working closely with the product development team to explain how Uniswap Protocol works at every level. There's some catchup we want to play in terms of our docs, as well as supporting new functionality on our existing roadmap.",
+      "responsibilities": [
+        "Work closely with the team to create and maintain a central docs site for the Uniswap Protocol - targeted at fast growing audience of external developers, traders and crypto curious visitors",
+        "Identify and write User Guides and Tutorials targeting popular user actions/flows on the site (like trading, adding liquidity, etc)",
+        "Monitor external channels (like Discord) where target audience of these docs may provide feedback"
+      ],
+      "requirements": [
+        "2+ years of experience working closely with engineers to document, understand and explain technical concepts",
+        "Excellent English writing skills (and please submit a link to a sample as part of your application)",
+        "Comfortable reading code (with some pointers when necessary) to parse out salient steps",
+        "Creative skills and usage of pictures, drawings, diagrams, animation, and charts that may increase understanding",
+        "Keen eye for honing in on the most important bits to explain a complex topic, without skipping the details"
+      ],
+      "nice_to_haves": [
+        "Prior experience in crypto/finance industry",
+        "Prior experience as a writer, technical writer, community manager, developer evangelist/relations, etc.",
+        "Comfortable submitting changes via Github (website UI or otherwise)",
+        "Love for Unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "2+ years experience"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/communications/Technical Writer.txt"
+    }
+  }
+]

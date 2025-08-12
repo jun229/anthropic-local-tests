@@ -1,0 +1,35 @@
+===JD_START===
+TITLE: Senior Site Reliability Engineer (SRE)
+DEPARTMENT: Engineering
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. As a Senior Site Reliability Engineer, you will play a critical role in architecting, building, and maintaining our infrastructure. You’ll lead initiatives to improve the reliability and scalability of our services, working cross-functionally with development, product, and security teams to ensure our systems are r...
+
+---RESPONSIBILITIES---
+- Design, implement, and maintain systems and processes that enhance the reliability, availability, and performance of our services.
+- Design, implement and maintain CICD tools and processes to increase reliability
+- Design, implement and maintain cloud constructs to increase reliability
+- Develop and manage monitoring, alerting, and incident response strategies to minimize downtime and ensure rapid recovery from incidents.
+- Conduct root cause analysis of system failures and implement preventative measures.
+- Optimize system performance and automate repetitive tasks to improve operational efficiency..
+- Work closely with software engineering, infrastructure, and product teams to integrate reliability practices into the development lifecycle.
+- Advocate for SRE best practices and foster a culture of reliability and operational excellence across the organization.
+- Communicate effectively with stakeholders, providing regular updates on reliability metrics, incidents, and improvement initiatives.
+- Stay abreast of the latest industry trends and technologies in SRE, reliability, and performance.
+
+---REQUIREMENTS---
+- Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+- 5+ years of experience in site reliability engineering, DevOps, or a related field
+- Strong understanding of reliability engineering principles, practices, and tools.
+- Proficiency in monitoring and alerting tools (e.g., Prometheus, Grafana, Nagios).
+- Experience with cloud platforms (AWS, Azure, GCP) and container orchestration systems (Kubernetes, Docker).
+- Proficiency in scripting and automation tools, such as Python, Bash, Ansible, or Terraform.
+- Excellent problem-solving skills and the ability to work under pressure in a fast-paced environment.
+- Strong communication and interpersonal skills, with the ability to influence and lead teams.
+- Experience with continuous integration and continuous deployment (CI/CD) practices and tools.
+- Knowledge of configuration management tools (e.g., Puppet, Chef).
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

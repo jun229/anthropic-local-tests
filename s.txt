@@ -1,0 +1,10 @@
+anthropic
+openai
+cohere
+elasticsearch
+pandas
+numpy
+matplotlib
+tqdm
+python-dotenv
+supabase

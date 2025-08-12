@@ -1,0 +1,35 @@
+===JD_START===
+TITLE: Growth Marketer
+DEPARTMENT: Business Operations & Strategy
+
+---INTRO---
+We are seeking an experienced Growth Marketer to join our team and drive the growth of our consumer web and mobile app. You will be responsible for developing and executing strategies to acquire and retain users, increase engagement, and optimize conversion rates. This role requires a strong background in digital marketing, including expertise in running paid ads, as well as experience managing agency relationships. An added bonus if this individual has experience with designing and running affiliate and incentive based campaigns as well. The ideal candidate should be highly analytical, creative, and results-driven.
+
+---RESPONSIBILITIES---
+- Drive new users through paid digital marketing channels: social media advertising, digital ad networks and search ads. This includes running and optimizing always on campaigns, and supporting integrated campaigns.
+- Conduct thorough analysis of campaign performance and optimize ads to improve key metrics, including conversion rates, click-through rates, and return on ad spend.
+- Manage relationship with external agency to align paid marketing initiatives with overall marketing goals and KPIs.
+- Continuously test and iterate on marketing strategies, messaging, and creative assets to drive user acquisition. This includes managing app store presences and SEO optimization of website landing pages.
+- Collaborate with internal teams, including product, design, and content, to align marketing campaigns and landing pages with overall marketing goals and company brand guidelines
+- Collaborate with cross-functional teams to develop, manage, and execute affiliate campaigns and incentive-based programs that align with overall growth goals and strategies.
+- Track and report key performance indicators (KPIs) across all acquisition channels and provide regular updates to the management team, highlighting successes, challenges, and recommendations. Work with data to implement proper acquisition attribution.
+- Monitor and analyze user behavior, market trends, and competitor activities to identify growth opportunities and provide actionable insights.
+
+---REQUIREMENTS---
+- Experience 5-7 years experience as a Growth Marketer or similar role, preferably in the consumer web and mobile app space.
+- A track record of running successful paid campaigns (hands on execution).
+- Experience managing agency relationships and coordinating external partners to achieve marketing objectives.
+- Strong analytical skills and the ability to derive actionable insights from data to drive decision-making. Solid understanding of A/B testing methodologies and conversion rate optimization (CRO) techniques.
+- Proficiency in using digital marketing tools and platforms, such as Google Ads, Facebook Business Manager, and marketing automation tools.
+- Experience with product and business analytics tools such as Amplitude
+- Excellent written and verbal communication skills, with the ability to effectively communicate complex ideas and strategies.
+- Creative mindset with a demonstrated ability to think outside the box and develop innovative marketing campaigns.
+- Strong project management skills with the ability to prioritize and manage multiple initiatives simultaneously.
+- Exceptional communication and interpersonal skills.
+
+---NICE_TO_HAVES---
+- Consumer fintech experience
+- Web3 or DeFi specific experience
+- Minimum full-time salary of $130,000-$145,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

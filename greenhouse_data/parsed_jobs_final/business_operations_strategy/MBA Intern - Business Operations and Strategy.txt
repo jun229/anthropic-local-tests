@@ -1,0 +1,33 @@
+===JD_START===
+TITLE: MBA Intern - Business Operations and Strategy
+DEPARTMENT: Business Operations & Strategy
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet.
+
+---RESPONSIBILITIES---
+- We are seeking a highly analytical and strategic MBA Intern to join our Business Operations team for Summer 2025. In this role, you will work closely with cross-functional teams, including Data, Product, and Engineering, to drive critical business initiatives and contribute to Uniswap’s growth. This is a unique opportunity to gain hands-on experience in the DeFi space while making a meaningful impact at one of the most influential companies in crypto. The internship will take place in New York City at our office in Soho during the summer of 2025.
+- Hello future interns! We will be receiving applications until 5 pm ET on Thursday, 3/27. We'll review your resume and application responses, and we will be in touch if it's a good fit. Thanks for your interest and patience.
+- Partner with functional leadership to analyze business performance, identify opportunities for growth, and develop data-driven recommendations.
+- Conduct market research and competitive analysis to inform strategic decisions and product development.
+- Support operational improvements by designing and implementing scalable processes.
+- Collaborate with Product and Engineering teams to enhance business insights as they relate to product planning
+- Assist in financial modeling, forecasting, and key metric tracking.
+- Contribute to strategic initiatives such as partnerships, new market expansion, and ecosystem development.
+- Present findings and recommendations to senior stakeholders.
+
+---REQUIREMENTS---
+- Currently pursuing an MBA.
+- 2+ years of prior experience in management consulting, investment banking, venture capital, private equity, tech, or fintech.
+- Strong analytical skills, with experience in data analysis, financial modeling, and market research.
+- Excellent problem-solving abilities and strategic thinking.
+- Exceptional communication and presentation skills.
+- A proactive, entrepreneurial mindset with a passion for Web3, DeFi, and emerging technologies.
+- Experience in crypto, blockchain, or financial services is a plus but not required.
+- Hourly rate of $70. Disclosure in accordance with New York City's Pay Transparency Law.
+- Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

@@ -1,0 +1,27 @@
+===JD_START===
+TITLE: Senior Product Manager, Consumer Apps
+DEPARTMENT: Product Management
+
+---INTRO---
+We’re looking for an enthusiastic, self-motivated Product thinker and doer. You’ll work closely with engineers and designers to prioritize and build new products and features in our consumer app experiences, with a focus on improving the main Uniswap web dapp. The ideal candidate has a solid technical background, experience collaborating closely with Product Designers, sound strategic judgment, a proven ability to ship consumer-facing web or mobile products at scale.
+
+---RESPONSIBILITIES---
+- Work closely with designers and engineers to create high-craft products that deliver the best user experiences in DeFi
+- Be the glue that runs our product development process for our main consumer team
+- Launch new products and features, test their performance, and iterate quickly
+- Understand DeFi markets, competition, and user requirements in depth to influence the product we’re building
+
+---REQUIREMENTS---
+- 5+ years of experience working on consumer-facing products in the web or mobile space
+- Proven ability to collaborate with Product Designers to ship high-craft products at scale
+- Strong communication and collaboration skills with internal and external stakeholders
+- Experience building & shipping consumer products at scale to millions of users
+- Ability to leverage data to create products with best-in-class user experiences
+- Strong interest in Crypto/blockchain space
+
+---NICE_TO_HAVES---
+- Prior experience building in crypto/DeFi
+- Technical degree in Computer Science or related field
+- Love for unicorns :)
+
+===JD_END===

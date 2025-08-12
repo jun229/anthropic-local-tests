@@ -1,0 +1,833 @@
+[
+  {
+    "job_id": "senior_technical_sourcer",
+    "title": "Senior Technical Sourcer",
+    "department": "People",
+    "sections": {
+      "intro": "As we enter into this next phase of growth, we are looking to more than double our team and implement creative talent processes and strategies that can preserve and grow our culture of innovation. We are looking to make our first talent sourcer to help us scale and build out a world-class engineering team.",
+      "responsibilities": [
+        "Develop creative and effective sourcing strategies across multiple engineering skillsets",
+        "Monitor pipeline health, identify bottlenecks, and propose solutions to areas of opportunity",
+        "Provide exceptional candidate experience",
+        "Leverage data to influence strategy and decisions",
+        "Partner effectively with recruiting team & internal stakeholders to understand goals and drive outcomes"
+      ],
+      "requirements": [
+        "5+ years of technical sourcing experience at a high-growth company",
+        "Experience sourcing for technical positions, such as mobile, frontend, backend, and full-stack",
+        "Proficiency using data to propose solutions and drive results",
+        "Passion for crypto and decentralized finance"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns <3",
+        "Experienced with our core recruiting product suite - Greenhouse, Gem, LinkedIn Recruiter, etc."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "finance",
+        "strategy"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Senior Technical Sourcer.txt"
+    }
+  },
+  {
+    "job_id": "recruiting_coordinator",
+    "title": "Recruiting Coordinator",
+    "department": "People",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Recruiting Coordinator_1.txt"
+    }
+  },
+  {
+    "job_id": "recruiting_coordinator",
+    "title": "Recruiting Coordinator",
+    "department": "People",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are headquartered in SoHo in New York City and this role will be NYC based. The Uniswap Labs team is looking to add a Recruiting Coordinator as we continue to build the team that's creating the next generation of fin...",
+      "responsibilities": [
+        "Coordinate phone, video, and in-person interviews for candidates, ensuring a smooth and efficient process for all",
+        "Take ownership of candidates' interview process by working closely with recruiters, interviewers, and hiring managers",
+        "Host candidates in our office",
+        "Ensure candidates have a great experience throughout the recruiting process",
+        "Assist in planning, coordinating and setting up networking and recruiting events",
+        "1+ years of previous recruiting coordination experience",
+        "Proficiency with an Applicant Tracking System (we use Greenhouse!) or willingness to quickly learn",
+        "Comfortable working with Google Calendar and managing events on multiple calendars",
+        "Autonomy and ability to work without heavy direction",
+        "Ability to multi-task and shuffle priorities"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Recruiting Coordinator_2.txt"
+    }
+  },
+  {
+    "job_id": "recruiting_lead",
+    "title": "Recruiting Lead",
+    "department": "People",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Recruiting Lead.txt"
+    }
+  },
+  {
+    "job_id": "workplace_experience_manager",
+    "title": "Workplace Experience Manager",
+    "department": "People",
+    "sections": {
+      "intro": "We’re looking for a Workplace Experience Manager to organize and maintain the daily operations of our SoHo headquarters office. This office manager will create a welcoming and fun work environment for our employees and guests. This role requires outstanding skills in planning, communication, time management and organization, as well as an ability to juggle multiple internal and external requests in a calm, friendly and efficient way. This position is full-time and onsite at our SoHo office.",
+      "responsibilities": [
+        "Be main point of contact and create a great experience for guests and candidates",
+        "Manage building access for employees and visitors",
+        "Liaise with building and landlord",
+        "Manage office food and beverages supply, including team daily lunches",
+        "Manage office supply inventory and assist with ordering supplies",
+        "Receive and distribute mail and incoming packages",
+        "Manage workstation setups and coordinate conference room scheduling and reservations",
+        "Partner with the people team for new employee onboarding including communications with our IT vendor for account set up",
+        "Manage office Covid protocol and testing",
+        "Research vendors, obtain quotes, and manage vendor relationships (current ones include our cleaners, window washers, HVAC building team)"
+      ],
+      "requirements": [
+        "Superior attention to detail",
+        "A can-do attitude",
+        "Excellent communication and research skills",
+        "This position is required to be full-time in our SoHo office every day"
+      ],
+      "nice_to_haves": [
+        "Prior Workplace Ops experience",
+        "Excited and curious about blockchain, crypto and/or DeFi",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "operations"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Workplace Experience Manager.txt"
+    }
+  },
+  {
+    "job_id": "people_project_manager",
+    "title": "People Project Manager",
+    "department": "People",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Intro paragraph/ about the role: As a People Team Project Manager at Uniswap, you will play a pivotal role in coordinating People team programs that enhance team member experience. Your responsibilities will include man...",
+      "responsibilities": [
+        "In partnership with HRBP and People Ops, support in the following areas for all People programs. Programs include, feedback and engagement cycles, learning & development, team events & on sites, compensation, DEI, employee relations, and team design.",
+        "Project Coordination: Assist in the planning and coordination of People team activities, ensuring all tasks are completed on time and within scope.",
+        "Communication: Maintain clear and effective communication with team members and stakeholders, providing updates on project status and any issues that arise.",
+        "Task Management: Track and manage project-related tasks, ensuring team members are participating in programs and alert HRBP if engagement is low.",
+        "Documentation: Prepare and maintain project documentation, including meeting notes, progress reports, and project plans.",
+        "Support Senior Managers: Provide support to senior project managers by helping with administrative tasks, data collection, and report generation.",
+        "Resource Scheduling: Assist in scheduling resources, including personnel and equipment, to ensure project tasks are adequately staffed and equipped.",
+        "Workshop Coordination: Organize and coordinate sessions for team members, in partnership with HRBP & People Ops.",
+        "Increase impact through data: Help identify potential project issues and areas of improvement through data, and suggest strategies to improve the program.",
+        "Continuous Improvement: Gather feedback from team members and stakeholders to identify areas for improvement in project processes and workflows."
+      ],
+      "requirements": [
+        "Ability to analyze data and generate reports.",
+        "Critical thinking skills to identify issues and recommend solutions.",
+        "Strong interpersonal skills with the ability to build relationships and work collaboratively in a team environment.",
+        "Excellent organizational and time management abilities.",
+        "Attention to detail and ability to manage multiple tasks simultaneously.",
+        "Strong problem-solving abilities, including identifying issues, proposing solutions, and implementing corrective actions."
+      ],
+      "nice_to_haves": [
+        "Entry-level project management certification such as CAPM (Certified Associate in Project Management) and/or HR-related certification such as SHRM-CP or PHR.",
+        "Familiarity with HRIS and other HR-related software (eg Lattice).",
+        "Conclusion",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).",
+        "Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/People Project Manager.txt"
+    }
+  },
+  {
+    "job_id": "senior_recruiter",
+    "title": "Senior Recruiter",
+    "department": "People",
+    "sections": {
+      "intro": "As we enter into this next phase of growth, we are looking to more than double our team and implement creative talent processes and strategies that can preserve and grow our culture of innovation. We are looking to make our first talent acquisition hire to help us scale and build out a world-class team. While the majority of our hiring will be for technical roles, we are looking for a technical recruiter to help us build a leading and diverse engineering team.",
+      "responsibilities": [
+        "Develop overall talent acquisition strategy",
+        "Build out processes and tools necessary to manage TA at scale",
+        "End-to-end recruitment from sourcing through to close",
+        "Understand business goal and manage internal stakeholders to drive outcomes",
+        "Partner with hiring managers to develop and execute systematic hiring process across all searches",
+        "Develop and maintain an excellent candidate experience",
+        "Identify, source, and interview candidates",
+        "Manage recruiting support team"
+      ],
+      "requirements": [
+        "2+ years of talent acquisition at a high growth company",
+        "Experience recruiting for technical and non technical positions",
+        "Ability to think strategically about how to achieve goals and the humility and execution orientation necessary to achieve them",
+        "Equally comfortable sourcing candidates as you interviewing and building relationships with them",
+        "Team management experience desired but not required",
+        "Passion for crypto and decentralized finance"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns <3"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "finance",
+        "strategy"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Senior Recruiter.txt"
+    }
+  },
+  {
+    "job_id": "hr_business_partner",
+    "title": "HR Business Partner",
+    "department": "People",
+    "sections": {
+      "intro": "As an HR Business Partner you partner directly with senior leadership in all strategic areas of Human Resources; your primary role will be to align our People, Talent and Culture priorities with our business objectives.  You will play a key role in supporting our rapidly growing organization and provide a world-class experience to our talented team. What you will do: Who you are: What you have:",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/HR Business Partner.txt"
+    }
+  },
+  {
+    "job_id": "executive_assistant",
+    "title": "Executive Assistant",
+    "department": "People",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol and Uniswap Platform. The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an experienced Executive Assistant to support our COO at Uniswap Labs. While mainly focused on the COO, this role will work closely with the executive team and leaders across the co...",
+      "responsibilities": [
+        "Calendar & Meeting Management",
+        "Manage the COO’s calendar, including scheduling meetings, appointments, and events.",
+        "Triage and prioritize meeting requests based on importance and relevance.",
+        "Collect and organize agenda items, ensuring the executive has reviewed all prep materials in advance. Follow up with partners & team members to ensure meetings have an agenda & materials shared in advance.",
+        "Help the COO prioritize calendar & commitments.",
+        "Keep the executive on time throughout the day and follow up with meeting attendees on action items or resources as needed.",
+        "Administrative Support",
+        "Take minutes during select meetings, create follow up actions.",
+        "Arrange catering and logistics for meetings at the office.",
+        "Arrange monthly dinners at the COO’s home or restaurants for key partners and investors."
+      ],
+      "requirements": [
+        "5+ years of experience in a similar role.",
+        "Excellent organization, time management and prioritization skills",
+        "Demonstrated problem-solving abilities and a proactive mindset to fix problems as they arise",
+        "Strong interpersonal skills and ability to build rapport and trust with internal and external stakeholders",
+        "Proven track record handling sensitive information with discretion.",
+        "Strong written & verbal communication skills."
+      ],
+      "nice_to_haves": [
+        "Love of Unicorns",
+        "Minimum full-time salary of $130,000-$150,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).",
+        "Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Executive Assistant.txt"
+    }
+  },
+  {
+    "job_id": "senior_recruiter",
+    "title": "Senior Recruiter",
+    "department": "People",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Senior Recruiter_1.txt"
+    }
+  },
+  {
+    "job_id": "senior_recruiter",
+    "title": "Senior Recruiter",
+    "department": "People",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Senior Recruiter_2.txt"
+    }
+  },
+  {
+    "job_id": "head_of_people",
+    "title": "Head of People",
+    "department": "People",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Head of People.txt"
+    }
+  },
+  {
+    "job_id": "people_programs_manager",
+    "title": "People Programs Manager",
+    "department": "People",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable.Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains.When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Overview: We are looking for an experienced People Programs Manager to drive the development, implementation, and optimization of key People programs enhancing employee experience and engagement. In this role, you will co...",
+      "responsibilities": [
+        "Design, implement, and manage People programs focused on employee engagement,learning & development, and performance management.",
+        "Act as a key partner to People Business Partner, People Ops, and other stakeholders to ensure seamless program execution.",
+        "Analyze data and employee feedback to assess program effectiveness, recommending improvements based on insights and industry best practices.",
+        "Partner on change management efforts related to People program rollouts, ensuring clear communication and adoption across the organization.",
+        "Support Uniswap in being an inclusive space through initiatives, integrating DEI principles into People programs.",
+        "Partner with People leads to develop scalable strategies that enhance employee experience and drive business outcomes.",
+        "Stay updated on People trends, emerging technologies, and best practices to continuously evolve People programs."
+      ],
+      "requirements": [
+        "5 years of related experience with a Bachelor’s degree; or 3 years and a Master’s degree; or a PhD without experience; or equivalent work experience.",
+        "Ability to work in our New York City based SoHo offices.",
+        "Proven track record of managing People programs with measurable impact on employee engagement and business success.",
+        "Strong analytical skills with the ability to interpret People data and translate insights into action.",
+        "Excellent communication, presentation, and stakeholder management skills.",
+        "Ability to manage multiple projects simultaneously in a dynamic environment.",
+        "Proficiency in common people/HR software (HRIS, Lattice, Google Suite).",
+        "Experience working in a  growing or evolving organization is a plus.",
+        "Minimum full-time salary of $156,000 - $172,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility)."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "Design"
+      ],
+      "salary_range": "$156,000 - $172,000",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/People Programs Manager.txt"
+    }
+  },
+  {
+    "job_id": "people_project_manager",
+    "title": "People Project Manager",
+    "department": "People",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Intro paragraph/ about the role: As a People Team Project Manager at Uniswap, you will play a pivotal role in coordinating People team programs that enhance team member experience. Your responsibilities will include man...",
+      "responsibilities": [
+        "In partnership with HRBP and People Ops, support in the following areas for all People programs. Programs include, feedback and engagement cycles, learning & development, team events & on sites, compensation, DEI, employee relations, and team design.",
+        "Project Coordination: Assist in the planning and coordination of People team activities, ensuring all tasks are completed on time and within scope.",
+        "Communication: Maintain clear and effective communication with team members and stakeholders, providing updates on project status and any issues that arise.",
+        "Task Management: Track and manage project-related tasks, ensuring team members are participating in programs and alert HRBP if engagement is low.",
+        "Documentation: Prepare and maintain project documentation, including meeting notes, progress reports, and project plans.",
+        "Support Senior Managers: Provide support to senior project managers by helping with administrative tasks, data collection, and report generation.",
+        "Resource Scheduling: Assist in scheduling resources, including personnel and equipment, to ensure project tasks are adequately staffed and equipped.",
+        "Workshop Coordination: Organize and coordinate sessions for team members, in partnership with HRBP & People Ops.",
+        "Increase impact through data: Help identify potential project issues and areas of improvement through data, and suggest strategies to improve the program.",
+        "Continuous Improvement: Gather feedback from team members and stakeholders to identify areas for improvement in project processes and workflows."
+      ],
+      "requirements": [
+        "Ability to analyze data and generate reports.",
+        "Critical thinking skills to identify issues and recommend solutions.",
+        "Strong interpersonal skills with the ability to build relationships and work collaboratively in a team environment.",
+        "Excellent organizational and time management abilities.",
+        "Attention to detail and ability to manage multiple tasks simultaneously.",
+        "Strong problem-solving abilities, including identifying issues, proposing solutions, and implementing corrective actions."
+      ],
+      "nice_to_haves": [
+        "Entry-level project management certification such as CAPM (Certified Associate in Project Management) and/or HR-related certification such as SHRM-CP or PHR.",
+        "Familiarity with HRIS and other HR-related software (eg Lattice).",
+        "Conclusion",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).",
+        "Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/People Project Manager_1.txt"
+    }
+  },
+  {
+    "job_id": "workplace_operations_coordinator",
+    "title": "Workplace Operations Coordinator",
+    "department": "People",
+    "sections": {
+      "intro": "We’re looking for a Workplace Experience Coordinator to organize and maintain the daily operations of our SoHo headquarters office. The Workplace Experience Coordinator will help to create a welcoming and fun work environment for our employees and guests. This role requires outstanding skills in planning, communication, time management and organization, as well as an ability to juggle multiple internal and external requests in a calm, friendly and efficient way. This position is full-time and onsite at our SoHo office.",
+      "responsibilities": [
+        "Be main point of contact for the office creating a great experience for anyone who walks in the door",
+        "Maintain a well-organized, stocked, secure and presentable working environment for the office",
+        "Take lead on our office food and beverage program including being point of contact for daily lunches, weekly treats, and maintaining our food and beverages supply",
+        "Develop and manage a strong relationship with the on-site building management team submitting any requests for key cards, sharing guest lists for events, and booking freight elevator for deliveries when needed",
+        "Assist with coordinating and executing company events including onsites, team bonding, and in person meetings",
+        "Coordinate with People Ops team for onboarding, recognition efforts, and other people-related initiatives",
+        "Manage vendor relationships including our cleaners, window washers, HVAC team",
+        "Receive and distribute mail and incoming packages",
+        "Manage workstation setups and coordinate conference room scheduling and reservations"
+      ],
+      "requirements": [
+        "Proactive, team player, and problem-solver with superb attention to detail",
+        "Strong interpersonal and communication skills, and the capacity to build positive working relationships across functions and seniority levels",
+        "Strong organizational and collaboration skills",
+        "Showcase effective coordination skills to contribute effectively to team projects",
+        "Eager to learn and grow in a dynamic work environment",
+        "This position is required to be full-time in our SoHo office every day"
+      ],
+      "nice_to_haves": [
+        "Prior Workplace Operations experience",
+        "Loves Unicorns :)",
+        "Full time hourly rate ranges from $27-$41. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "operations"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Workplace Operations Coordinator.txt"
+    }
+  },
+  {
+    "job_id": "recruiting_coordinator_fixed_term",
+    "title": "Recruiting Coordinator (Fixed Term)",
+    "department": "People",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are headquartered in SoHo in New York City and this role will be NYC based. The Uniswap Labs team is looking to add a Recruiting Coordinator as we continue to build the team that's creating the next generation of fin...",
+      "responsibilities": [
+        "Coordinate phone, video, and in-person interviews for candidates, ensuring a smooth and efficient process for all",
+        "Take ownership of candidates' interview process by working closely with recruiters, interviewers, and hiring managers",
+        "Host candidates in our office",
+        "Ensure candidates have a great experience throughout the recruiting process",
+        "Assist in planning, coordinating and setting up networking and recruiting events",
+        "1+ years of previous recruiting coordination experience",
+        "Proficiency with an Applicant Tracking System (we use Greenhouse!) or willingness to quickly learn",
+        "Comfortable working with Google Calendar and managing events on multiple calendars",
+        "Autonomy and ability to work without heavy direction",
+        "Ability to multi-task and shuffle priorities"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Recruiting Coordinator (Fixed Term).txt"
+    }
+  },
+  {
+    "job_id": "workplace_operations_coordinator",
+    "title": "Workplace Operations Coordinator",
+    "department": "People",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are headquartered in SoHo in New York City and this role will be NYC based. We’re looking for a Workplace Experience Coordinator to organize and maintain the daily operations of our SoHo headquarters office. The Work...",
+      "responsibilities": [
+        "Be main point of contact for the office creating a great experience for anyone who walks in the door",
+        "Maintain a well-organized, stocked, secure and presentable working environment for the office",
+        "Take lead on our office food and beverage program including being point of contact for daily lunches, weekly treats, and maintaining our food and beverages supply",
+        "Develop and manage a strong relationship with the on-site building management team submitting any requests for key cards, sharing guest lists for events, and booking freight elevator for deliveries when needed",
+        "Assist with coordinating and executing company events including onsites, team bonding, and in person meetings",
+        "Coordinate with People Ops team for onboarding, recognition efforts, and other people-related initiatives",
+        "Manage vendor relationships including our cleaners, window washers, HVAC team",
+        "Receive and distribute mail and incoming packages",
+        "Manage workstation setups and coordinate conference room scheduling and reservations"
+      ],
+      "requirements": [
+        "Proactive, team player, and problem-solver with superb attention to detail",
+        "Strong interpersonal and communication skills, and the capacity to build positive working relationships across functions and seniority levels",
+        "Strong organizational and collaboration skills",
+        "Showcase effective coordination skills to contribute effectively to team projects",
+        "Eager to learn and grow in a dynamic work environment",
+        "This position is required to be full-time in our SoHo office every day"
+      ],
+      "nice_to_haves": [
+        "Prior Workplace Operations experience",
+        "Loves Unicorns :)",
+        "Full time hourly rate ranges from $27-$41. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include unlimited and encouraged time off, company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) participation, annual $1,500 education stipend, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).",
+        "Uniswap Labs is proud to be an equal opportunity employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "operations"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Workplace Operations Coordinator_1.txt"
+    }
+  },
+  {
+    "job_id": "office_manager",
+    "title": "Office Manager",
+    "department": "People",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Office Manager.txt"
+    }
+  },
+  {
+    "job_id": "hr_business_partner",
+    "title": "HR Business Partner",
+    "department": "People",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/HR Business Partner_1.txt"
+    }
+  },
+  {
+    "job_id": "hrpeople_business_partner",
+    "title": "HR/People Business Partner",
+    "department": "People",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/HRPeople Business Partner.txt"
+    }
+  },
+  {
+    "job_id": "recruiter",
+    "title": "Recruiter",
+    "department": "People",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Recruiter.txt"
+    }
+  },
+  {
+    "job_id": "recruiting_coordinator",
+    "title": "Recruiting Coordinator",
+    "department": "People",
+    "sections": {
+      "intro": "We are looking for an energetic, people person to assist us with finding, attracting and hiring talent across Uniswap Labs. You'll be responsible for keeping the recruiting trains running on time - making sure no candidate gets less than the attention they deserve. This will be the second Recruiting Coordinator of our growing team and will be a hybrid position out of our SoHo office.",
+      "responsibilities": [
+        "Work closely with recruiters and hiring managers to manage various hiring pipelines",
+        "Schedule interviews and debriefs",
+        "Help create a stellar candidate experience, inclusive of maintaining an office space that candidates and employees love going to",
+        "Stay closely in touch with candidates and their timelines throughout the process",
+        "Assist in planning, coordinating and setting up networking and recruiting events",
+        "Onboard new hires so that they are up and running as soon as possible"
+      ],
+      "requirements": [
+        "Proficiency with an Applicant Tracking System or willingness to quickly learn",
+        "Comfortable working with Google Calendar and managing events on multiple calendars",
+        "Energetic and strong interpersonal skills to represent us externally",
+        "Self-motivated to get things done without waiting for directions"
+      ],
+      "nice_to_haves": [
+        "Experience with Greenhouse",
+        "1+ years of experience recruiting at a fast growing company",
+        "Excited and curious about blockchain, crypto and/or DeFi",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Recruiting Coordinator.txt"
+    }
+  },
+  {
+    "job_id": "hr_specialist_people_operations_manager",
+    "title": "HR Specialist (People Operations Manager)",
+    "department": "People",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/HR Specialist (People Operations Manager).txt"
+    }
+  },
+  {
+    "job_id": "head_of_people",
+    "title": "Head of People",
+    "department": "People",
+    "sections": {
+      "intro": "We are seeking a creative, experienced, and empathetic problem-solver to be our Head of People. Talent is the key ingredient of our success, and we need to hire top talent at scale and codify a culture and people processes that foster innovation. This is where you come in - we are looking for a seasoned but innovative people leader, with a focus on HR, to help Uniswap Labs scale and realize our vision for its next chapter.",
+      "responsibilities": [
+        "Partnering with c-suite to establish company culture and processes to help solidify it",
+        "Developing & running end-to-end talent management best practices across hiring, onboarding, learning & development, retention and offboarding",
+        "Determining and implementing a comprehensive DEI strategy and program",
+        "Scaling headcount; hiring & managing talent acquisition team to achieve goals"
+      ],
+      "requirements": [
+        "7+ years of experience in high growth environments",
+        "5+ years of people management experience",
+        "Experience establishing culture from the ground up",
+        "Experience designing and implementing people processes, including performance management, compensation, employee relations and employee development",
+        "You are tapped into the HR ecosystem and up on the latest trends, best practices and innovations in the space"
+      ],
+      "nice_to_haves": [
+        "High achievement orientation; goal-oriented with a strong ownership mentality; willingness to roll up your sleeves and do whatever it takes to achieve goals",
+        "Agile & strategic thinker who is able to see the big picture as well as map out the details to achieve goals",
+        "Results-oriented project manager who can map out plans to achieve goals and keeps the trains running on time with little oversight",
+        "Exceptional interpersonal skills / EQ with the ability to manage up, down, and laterally and collaborate and build relationships across the business",
+        "Analytical thinker with strong quantitative skills; able to break down problems into their aggregate parts and use data to drive business decisions"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "7+ years experience",
+        "strategy"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Head of People_1.txt"
+    }
+  },
+  {
+    "job_id": "senior_technical_sourcer",
+    "title": "Senior Technical Sourcer",
+    "department": "People",
+    "sections": {
+      "intro": "As we enter into this next phase of growth, we are looking to more than double our team and implement creative talent processes and strategies that can preserve and grow our culture of innovation. We are looking to make our first talent sourcer to help us scale and build out a world-class engineering team.",
+      "responsibilities": [
+        "Develop creative and effective sourcing strategies across multiple engineering skillsets",
+        "Monitor pipeline health, identify bottlenecks, and propose solutions to areas of opportunity",
+        "Provide exceptional candidate experience",
+        "Leverage data to influence strategy and decisions",
+        "Partner effectively with recruiting team & internal stakeholders to understand goals and drive outcomes"
+      ],
+      "requirements": [
+        "5+ years of technical sourcing experience at a high-growth company",
+        "Experience sourcing for technical positions, such as mobile, frontend, backend, and full-stack",
+        "Proficiency using data to propose solutions and drive results",
+        "Passion for crypto and decentralized finance"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns <3",
+        "Experienced with our core recruiting product suite - Greenhouse, Gem, LinkedIn Recruiter, etc."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "finance",
+        "strategy"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/people/Senior Technical Sourcer_1.txt"
+    }
+  }
+]

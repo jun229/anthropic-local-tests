@@ -1,0 +1,655 @@
+[
+  {
+    "job_id": "community_manager_-_apac",
+    "title": "Community Manager - APAC",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet.",
+      "responsibilities": [
+        "To grow Uniswap Labs via organic and community efforts in APAC. Also, to continually share product feedback and market intel to drive Uniswap Labs’ growth and success in APAC.",
+        "Be in the mix, be deep in the local crypto community. Represent Uniswap Labs everywhere — and share market intel back with HQ",
+        "Serve as representative in Discord, triaging across internal Uniswap Labs teams, spanning support, developer relations, and community",
+        "Actively advocate for Uniswap Labs’ brand and technology in relevant community channels, including Telegram,  to develop a local, loyal and growing community",
+        "Organize small local meet-ups with clear outcome of educating and promoting Uniswap Labs’ developer tools",
+        "Propose joint efforts with relevant crypto projects in the region to increase activation",
+        "Provide weekly reports on activities, metrics, and new proposals",
+        "Background as a community manager with deep technical expertise on trading protocols",
+        "Self-identified crypto degen who has deep involvement in the crypto and in particular the crypto trading community over several years in APAC.",
+        "Deep understanding of Uniswap protocol and related products to the point where they can answer most questions about how to use, value props, comparison to other products/protocols, etc."
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "API"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Community Manager - APAC.txt"
+    }
+  },
+  {
+    "job_id": "legal_counsel",
+    "title": "Legal Counsel",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Legal Counsel.txt"
+    }
+  },
+  {
+    "job_id": "customer_support_associate",
+    "title": "Customer Support Associate",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Uniswap Labs is hiring a Customer Support Associate. You will have the opportunity to shape our customer support values, function, systems and processes. We are often an early touch point for web3 users, and receive inq...",
+      "responsibilities": [
+        "Provide user support via Zendesk",
+        "Act as an advocate and onboarding specialist for users",
+        "The first touch point for all user issues, responsible for ensuring that every inquiry is handled in accordance to our SLAs",
+        "Synthesize insights from user interactions and surface critical issues to the Engineering team",
+        "Assist in designing, implementing and operating user support processes to ensure the team meets goals",
+        "Systematically communicate feedback to key stakeholders, providing guidance and input on new product features",
+        "Keep internal and external informational resources up to date in an environment of rapid iteration"
+      ],
+      "requirements": [
+        "2+ years experience doing customer support in a high growth environment",
+        "Strong written and verbal communication skills that can effectively distill complex concepts into simple ones",
+        "You are motivated by helping others and are the type of person who prides themselves on turning an angry user into a 5-star rating",
+        "You can help solve complex problems end-to-end so as to mitigate delegation as much as possible"
+      ],
+      "nice_to_haves": [
+        "Experience with user onboarding at a software company",
+        "Experience with DeFi, knowledge of blockchains, and experience using crypto wallets is a (big) plus!",
+        "Love for the unicorns 🦄",
+        "Minimum full-time salary of $134,000-$142,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility)."
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "2+ years experience"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Customer Support Associate.txt"
+    }
+  },
+  {
+    "job_id": "operations_manager",
+    "title": "Operations Manager",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Operations Manager.txt"
+    }
+  },
+  {
+    "job_id": "executive_assistant",
+    "title": "Executive Assistant",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Executive Assistant.txt"
+    }
+  },
+  {
+    "job_id": "customer_support_specialist",
+    "title": "Customer Support Specialist",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "The Uniswap Protocol is the largest decentralized trading and automated market making protocol (often called a DEX, “Decentralized Exchange”) on Ethereum. The Uniswap Labs team was a major contributor to the Uniswap Protocol and now focuses on building a suite of products to support the Uniswap Labs ecosystem. Our team is one of the most impactful in crypto. We are headquartered in SoHo in New York City with the option to be partially or fully remote. Uniswap Labs is hiring a Customer Support Specialist. You will have the opportunity to shape our customer support values, function, systems and processes. We are often an early touch point for web3 users, and receive inquiries outside of our product space. You will create a way for folks to feel heard and supported externally, and also work i...",
+      "responsibilities": [
+        "Provide user support via Zendesk",
+        "Act as an advocate and onboarding specialist for users",
+        "The first touch point for all user issues, responsible for ensuring that every inquiry is handled in accordance to our SLAs",
+        "Synthesize insights from user interactions and surface critical issues to the Engineering team",
+        "Assist in designing, implementing and operating user support processes to ensure the team meets goals",
+        "Systematically communicate feedback to key stakeholders, providing guidance and input on new product features",
+        "Keep internal and external informational resources up to date in an environment of rapid iteration"
+      ],
+      "requirements": [
+        "2+ years experience doing customer support in a high growth environment",
+        "Strong written and verbal communication skills that can effectively distill complex concepts into simple ones",
+        "You are motivated by helping others and are the type of person who prides themselves on turning an angry user into a 5-star rating",
+        "You can help solve complex problems end-to-end so as to mitigate delegation as much as possible"
+      ],
+      "nice_to_haves": [
+        "Experience with user onboarding at a software company",
+        "Experience with DeFi, knowledge of blockchains, and experience using crypto wallets is a (big) plus!",
+        "Love for the unicorns 🦄",
+        "Minimum full-time salary of $67,000-$93,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include unlimited and encouraged time off, company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) participation, annual $1,500 education stipend, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility)."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "2+ years experience"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Customer Support Specialist_1.txt"
+    }
+  },
+  {
+    "job_id": "customer_support_associate_nights__weekends",
+    "title": "Customer Support Associate, Nights & Weekends",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. As a Customer Support Associate, Nights & Weekends at Uniswap Labs, you’ll be the frontline for assisting users, triaging issues, and ensuring smooth platform operations outside of Eastern Time (EST/EDT) business hours. You’ll engage directly with the community, troubleshoot and diagnose technical concerns, and esc...",
+      "responsibilities": [
+        "Provide Tier 1 user support via Zendesk email",
+        "Act as an advocate and onboarding specialist for users",
+        "Communicate effectively with the broader support and engineering teams to flag incidents or issues that require escalation",
+        "Be the first touch point for all user issues, responsible for ensuring that every inquiry is handled in accordance to our SLAs",
+        "Synthesize insights from user interactions and surface critical issues to the Engineering team",
+        "Provide prompt, accurate, and friendly support, answering customer queries via Zendesk email. Ensuring that every inquiry is handled in accordance to our SLAs",
+        "Diagnose and resolve non-complex technical issues, escalating complex problems to the appropriate teams and following up to ensure resolution",
+        "Act as the voice of the customer, sharing feedback and insights with the Product and Engineering teams",
+        "Maintain accurate records of customer interactions and communications",
+        "Contribute to the ongoing improvement of the Customer Support processes and resources"
+      ],
+      "requirements": [
+        "Experience in customer support or similar in a high growth environment is ideal, but not required to apply",
+        "Strong written and verbal communication skills that can effectively distill complex concepts into simple ones",
+        "You are motivated by helping others and are the type of person who prides themselves on turning an angry user into a 5-star rating",
+        "You can help solve complex problems end-to-end so as to mitigate delegation as much as possible"
+      ],
+      "nice_to_haves": [
+        "Experience with DeFi, knowledge of blockchains, and experience using crypto wallets is a (big) plus!",
+        "Love for the unicorns 🦄",
+        "Minimum hourly rate of $37-$41/hr. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "API",
+        "operations"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Customer Support Associate, Nights & Weekends.txt"
+    }
+  },
+  {
+    "job_id": "it_infrastructure_engineer",
+    "title": "IT Infrastructure Engineer",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "What you will do What you are like",
+      "responsibilities": [
+        "Office and employee IT infrastructure",
+        "Evaluating solutions and collaborating with the team on new technologies",
+        "Corporate Security Operations",
+        "Administration of various SaaS products and tooling"
+      ],
+      "requirements": [
+        "3+ Years working in IT/Corporate security or similar role",
+        "Effective interpersonal and communications skills",
+        "Critical thinking and an ability to creatively solve complex issues",
+        "Willing to come into the office 3 days a week (NYC)",
+        "Knowledge of Google SaaS products as well as corporate security",
+        "Experience setting up Apple MDM and DEP",
+        "Love for the unicorns 🦄",
+        "Minimum full-time salary of $110,000-$130,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "Operations"
+      ],
+      "salary_range": "$110,000-$130,000",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/IT Infrastructure Engineer.txt"
+    }
+  },
+  {
+    "job_id": "community_manager_-_latam",
+    "title": "Community Manager - LATAM",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "The Uniswap Labs team is building DeFi protocols to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. The Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol. The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet.",
+      "responsibilities": [
+        "To grow Uniswap Labs via organic and community efforts in LATAM. Also, to continually share product feedback and market intel to drive Uniswap Labs’ growth and success in LATAM.",
+        "Be in the mix, be deep in the local crypto community. Represent Uniswap Labs everywhere — and share market intel back with HQ",
+        "Serve as representative in Discord, triaging across internal Uniswap Labs teams, spanning support, developer relations, and community",
+        "Actively advocate for Uniswap Labs’ brand and technology in relevant community channels, including Telegram,  to develop a local, loyal and growing community",
+        "Organize small local meet-ups with clear outcome of educating and promoting Uniswap Labs’ developer tools",
+        "Propose joint efforts with relevant crypto projects in the region to increase activation",
+        "Provide weekly reports on activities, metrics, and new proposals",
+        "Background as a community manager with deep technical expertise on trading protocols",
+        "Self-identified crypto degen who has deep involvement in the crypto and in particular the crypto trading community over several years in LATAM",
+        "Deep understanding of Uniswap protocol and related products to the point where they can answer most questions about how to use, value props, comparison to other products/protocols, etc."
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Community Manager - LATAM.txt"
+    }
+  },
+  {
+    "job_id": "customer_support_associate",
+    "title": "Customer Support Associate",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Uniswap Labs is hiring a Customer Support Specialist. You will have the opportunity to shape our customer support values, function, systems and processes. We are often an early touch point for web3 users, and receive inquiries outside of our product space. You will create a way for folks to feel heard and supported...",
+      "responsibilities": [
+        "Provide user support via Zendesk",
+        "Act as an advocate and onboarding specialist for users",
+        "The first touch point for all user issues, responsible for ensuring that every inquiry is handled in accordance to our SLAs",
+        "Synthesize insights from user interactions and surface critical issues to the Engineering team",
+        "Assist in designing, implementing and operating user support processes to ensure the team meets goals",
+        "Systematically communicate feedback to key stakeholders, providing guidance and input on new product features",
+        "Keep internal and external informational resources up to date in an environment of rapid iteration"
+      ],
+      "requirements": [
+        "2+ years experience doing customer support in a high growth environment",
+        "Strong written and verbal communication skills that can effectively distill complex concepts into simple ones",
+        "You are motivated by helping others and are the type of person who prides themselves on turning an angry user into a 5-star rating",
+        "You can help solve complex problems end-to-end so as to mitigate delegation as much as possible"
+      ],
+      "nice_to_haves": [
+        "Experience with compliance and/or providing support in a regulated industry",
+        "Experience with user onboarding at a software company",
+        "Experience with DeFi, knowledge of blockchains, and experience using crypto wallets is a (big) plus!",
+        "Love for the unicorns 🦄",
+        "Minimum full-time salary of $134,000-$142,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "2+ years experience",
+        "API"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Customer Support Associate_1.txt"
+    }
+  },
+  {
+    "job_id": "customer_experience_content_manager",
+    "title": "Customer Experience Content Manager",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Uniswap Labs is seeking a proactive and detail-oriented Customer Experience Content Manager to join our team. This role will focus on creating and managing content for our Help Center, ensuring users have access to accu...",
+      "responsibilities": [
+        "Content Creation & Management: Develop, write, and manage Help Center articles, ensuring content is clear, accurate, and accessible to our users. Collaborate with Product, Design, and Engineering teams to align content with product launches and updates.",
+        "Issue Identification & Resolution: Proactively identify gaps and opportunities in current Help Center content, proposing and implementing solutions to enhance user experience and improve ticket deflection ratios.",
+        "Systems Thinking: Approach challenges with a systems-thinking mindset, understanding how different components interact and influence the overall user experience.",
+        "Cross-Functional Collaboration: Work closely with cross-functional partners to set goals, plan content strategies, and ensure that constraints and dependencies are addressed.",
+        "Project Leadership: Lead the design and execution of content-related projects, operating at the team level and starting to engage in cross-team initiatives. Accountable for planning and executing tasks within a 1-2 quarter horizon.",
+        "Autonomy & Accountability: Operate independently on day-to-day tasks, with work reviewed at critical milestones. Receive general instructions on new assignments as needed."
+      ],
+      "requirements": [
+        "5+ years of relevant experience",
+        "Proven experience in content creation, preferably in a technical or customer support environment.",
+        "Bachelor’s degree; or equivalent work experience.",
+        "Strong problem-solving skills and ability to take initiative.",
+        "Experience working with cross-functional teams.",
+        "Excellent written and verbal communication skills.",
+        "Systems thinker with the ability to see the big picture and understand the interconnectedness of various components."
+      ],
+      "nice_to_haves": [
+        "Familiarity with cryptocurrency and blockchain technology.",
+        "Minimum full-time salary of $152,000-$170,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).",
+        "Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "Design",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Customer Experience Content Manager.txt"
+    }
+  },
+  {
+    "job_id": "community_-_apac",
+    "title": "Community - APAC",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. This role is a 6 month contract, requiring 40 hours/week.",
+      "responsibilities": [
+        "To grow Uniswap via organic and community efforts across the APAC Region.. Also, to continually share product feedback and market intel to drive Uniswap’s growth and success globally.",
+        "Be in the mix, be deep in the local crypto community. Represent Uniswap everywhere — and share market intel back with HQ",
+        "Serve as representative in Discord, triaging across internal Uniswap Labs teams, spanning support, developer relations, and community",
+        "Actively advocate for Uniswap in relevant community channels, including Telegram (potentially also Reddit and Signal) and social platforms to develop a loyal and growing community",
+        "Organize small meet-ups with clear outcome of educating and promoting Uniswap developer tools",
+        "Propose joint efforts with relevant crypto projects in the region to increase activation",
+        "Provide weekly reports on activities, metrics, and next proposals",
+        "Fluent in Vietnamese",
+        "Background as a community manager with deep technical expertise on trading protocols",
+        "Self-identified crypto degen who has deep involvement in the crypto and in particular the"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Community - APAC.txt"
+    }
+  },
+  {
+    "job_id": "executive_assistant",
+    "title": "Executive Assistant",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Executive Assistant_1.txt"
+    }
+  },
+  {
+    "job_id": "technical_partner_success_manager",
+    "title": "Technical Partner Success Manager",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Uniswap Labs is seeking a Technical Partner Success Manager to support the growing ecosystem of businesses and developers integrating with UniswapX and our Trading APIs. This role sits at the intersection of B2B custome...",
+      "responsibilities": [
+        "Develop a deep understanding of UniswapX, Trading APIs, and Uniswap protocols (v2, v3, v4, and UniswapX) to support integrations effectively.",
+        "Own and manage all technical partner relationships, acting as the bridge between business partners and internal engineering teams.",
+        "Improve and scale processes, such as ticketing systems and automation, to enhance partner support efficiency.",
+        "Maintain a timely response rate for integration requests, technical questions, and configuration changes.",
+        "Proactively troubleshoot and resolve issues, escalating only when necessary to engineering or product teams.",
+        "Oversee API key creation and management, ensuring partners have the correct configurations.",
+        "Be present and communicate with partners in all relevant communication channels, including private partner groups and public developer forums.",
+        "Update and maintain developer documentation to enhance self-serve integration capabilities.",
+        "Advocate for partner needs internally, influencing product improvements based on feedback."
+      ],
+      "requirements": [
+        "5+ years of relevant experience in a technical customer success function or similar relevant work experience",
+        "Customer-focused and relationship-driven, comfortable engaging with executives, business partners, and developers to ensure a high-quality experience.",
+        "Technically proficient, able to understand and troubleshoot complex integration challenges.",
+        "Strategic thinker who can identify inefficiencies and build scalable processes for managing partner interactions.",
+        "Proactive and independent, taking ownership of challenges and driving solutions.",
+        "Interested in DeFi and blockchain technologies, with a willingness to learn and grow in the space.",
+        "Minimum full-time salary of $171,000-$189,000 Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).",
+        "Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "API"
+      ],
+      "salary_range": "$171,000-$189,000",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Technical Partner Success Manager.txt"
+    }
+  },
+  {
+    "job_id": "test",
+    "title": "Test",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Test.txt"
+    }
+  },
+  {
+    "job_id": "general_opportunity",
+    "title": "General Opportunity",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/General Opportunity.txt"
+    }
+  },
+  {
+    "job_id": "customer_support_associate_technicalapi",
+    "title": "Customer Support Associate, Technical/API",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Uniswap Labs is hiring a Customer Support Specialist - API to support our B2B customers, primarily developers integrating their trading software with our API. You will have the opportunity to shape our customer support values, function, systems, and processes. You will be an early touchpoint for strategic customers...",
+      "responsibilities": [
+        "Provide tier 1 and tier 2 support for B2B customers via Zendesk",
+        "Issue production API keys and guide customers through documentation and workflow walkthroughs",
+        "Assist with Q&A sessions to help developers understand and integrate our API",
+        "Handle tier 1 support tasks, including basic troubleshooting, answering service-related questions, and directing customers to the right resources",
+        "Handle tier 2 support tasks, including resolving deeper technical issues, assisting with architectural and workflow inquiries, and troubleshooting complex integration challenges",
+        "Synthesize insights from developer interactions and surface critical issues to the Engineering team",
+        "Assist in designing, implementing, and operating user support processes to ensure the team meets goals",
+        "Systematically communicate feedback to key stakeholders, providing guidance and input on new product features",
+        "Keep internal and external informational resources up to date in an environment of rapid iteration"
+      ],
+      "requirements": [
+        "2+ years of experience in customer support, ideally in a B2B or developer-focused environment",
+        "Familiarity with DeFi, blockchains, and experience using crypto wallets",
+        "Strong written and verbal communication skills that effectively distill complex technical concepts into simple explanations",
+        "Ability to support developers in integrating APIs and troubleshooting technical issues",
+        "Motivated by helping others and skilled at turning customer frustrations into positive experiences",
+        "Capable of solving complex problems end-to-end to minimize the need for escalation"
+      ],
+      "nice_to_haves": [
+        "Experience providing technical support or developer advocacy at a software company",
+        "Prior experience with API support, including reviewing architectures and workflows",
+        "Minimum full-time salary of $134,000-$142,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).",
+        "Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here."
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "2+ years experience",
+        "API"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Customer Support Associate, TechnicalAPI.txt"
+    }
+  },
+  {
+    "job_id": "community_manager_-_apac",
+    "title": "Community Manager - APAC",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet.",
+      "responsibilities": [
+        "To grow Uniswap Labs via organic and community efforts in APAC. Also, to continually share product feedback and market intel to drive Uniswap Labs’ growth and success in APAC.",
+        "Be in the mix, be deep in the local crypto community. Represent Uniswap Labs everywhere — and share market intel back with HQ",
+        "Serve as representative in Discord, triaging across internal Uniswap Labs teams, spanning support, developer relations, and community",
+        "Actively advocate for Uniswap Labs’ brand and technology in relevant community channels, including Telegram,  to develop a local, loyal and growing community",
+        "Organize small local meet-ups with clear outcome of educating and promoting Uniswap Labs’ developer tools",
+        "Propose joint efforts with relevant crypto projects in the region to increase activation",
+        "Provide weekly reports on activities, metrics, and new proposals",
+        "Background as a community manager with deep technical expertise on trading protocols",
+        "Self-identified crypto degen who has deep involvement in the crypto and in particular the crypto trading community over several years in APAC.",
+        "Deep understanding of Uniswap protocol and related products to the point where they can answer most questions about how to use, value props, comparison to other products/protocols, etc."
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "API"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Community Manager - APAC_1.txt"
+    }
+  },
+  {
+    "job_id": "customer_support_specialist",
+    "title": "Customer Support Specialist",
+    "department": "Customer Experience",
+    "sections": {
+      "intro": "Uniswap Labs is hiring a Customer Support Specialist. You will have the opportunity to shape our customer support values, function, systems and processes. We are often an early touch point for web3 users, and receive inquires outside of our product space. You will create a way for folks to feel heard and supported externally, and also work internally to represent our users within our team and improve their experiences.",
+      "responsibilities": [
+        "Provide user support via Zendesk",
+        "Act as an advocate and onboarding specialist for users",
+        "The first touch point for all user issues, responsible for ensuring that every inquiry is handled in accordance to our SLAs",
+        "Synthesize insights from user interactions and surface critical issues to the Engineering team",
+        "Assist in designing, implementing and operating user support processes to ensure the team meets goals",
+        "Systematically communicate feedback to key stakeholders, providing guidance and input on new product features",
+        "Keep internal and external informational resources up to date in an environment of rapid iteration"
+      ],
+      "requirements": [
+        "2+ years experience doing customer support in a high growth environment",
+        "Strong written and verbal communication skills that can effectively distill complex concepts into simple ones",
+        "You are motivated by helping others and are the type of person who prides themselves on turning an angry user into a 5-star rating",
+        "You can help solve complex problems end-to-end so as to mitigate delegation as much as possible"
+      ],
+      "nice_to_haves": [
+        "Experience with user onboarding at a software company",
+        "Experience with DeFi, knowledge of blockchains, and experience using crypto wallets is a (big) plus!",
+        "Love for the unicorns 🦄",
+        "Minimum full-time salary of $48,000-$72,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "2+ years experience"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/customer_experience/Customer Support Specialist.txt"
+    }
+  }
+]

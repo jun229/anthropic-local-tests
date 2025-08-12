@@ -1,0 +1,21 @@
+===JD_START===
+TITLE: Security Engineer Intern
+DEPARTMENT: Engineering
+
+---INTRO---
+Hello future interns! We will be receiving applicants through 12 pm EST on February 23rd. We'll review your resume and will be in touch if it's a good fit. Thanks for your interest and patience. We’re looking for an enthusiastic, self-motivated security intern to help us build the next generation of financial products. You will be responsible (with support from a mentor) for writing detections, automation, engaging in security research and more. Location and timing: The Security Engineering Internship will take place in New York City at our office in Soho during the summer of 2024. Responsibilities: Requirements: Nice to have: Hourly rate of $57.69. Disclosure in accordance with New York City's Pay Transparency Law.
+
+---RESPONSIBILITIES---
+- Collaborate with team members to achieve goals
+- Contribute to project planning and execution
+- Maintain high quality standards in all work
+
+---REQUIREMENTS---
+- Relevant experience in the field
+- Strong communication and collaboration skills
+- Ability to work in a fast-paced environment
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

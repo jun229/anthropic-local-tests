@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Software Engineer, Protocols
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap Protocol is the largest decentralized trading and automated market making protocol (often called a DEX, “Decentralized Exchange”) on Ethereum. The Uniswap Labs team was a major contributor to the Uniswap Protocol and now focuses on building a suite of products to support the Uniswap Labs ecosystem. Our team is one of the most impactful in crypto. We are headquartered in SoHo in New York City with the option to be partially or fully remote depending on the position. We are looking for a junior engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for designing and implementing systems and protocols that build upon the Ethereum blockchain.
+
+---RESPONSIBILITIES---
+- Build and maintain low level backend services that interact with the Uniswap Protocol
+- Research and contribute to Ethereum Improvement Proposals (EIPs)
+- Participate in discussions from the initial product ideas to launch
+
+---REQUIREMENTS---
+- 1+ years of experience working on blockchains, consensus algorithms, p2p, or applied cryptography
+- Deep knowledge of Ethereum and the EVM
+- Broad understanding of the Ethereum roadmap
+- Understanding of different blockchain designs, their tradeoffs, and the cryptography underpinning blockchains
+- Strong understanding of distributed systems and computer science fundamentals
+- Fluency in Typescript, Go, Rust, or a similar language
+
+---NICE_TO_HAVES---
+- Experience with cloud infrastructure, networking or orchestration with AWS (e.g. Docker, ECS, CDK, DynamoDB)
+- Experience writing smart contracts
+- Love for unicorns :)
+- Minimum full-time salary of $180,000-$210,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) participation, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+
+===JD_END===

@@ -1,0 +1,33 @@
+===JD_START===
+TITLE: Senior Data Scientist, Product
+DEPARTMENT: Business Operations & Strategy
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are seeking a Product Data Scientist who will work in a highly collaborative and cross-functional setting to empower data-driven decision-making at the company level. The successful candidate should possess exception...
+
+---RESPONSIBILITIES---
+- Develop core metrics and create dashboards to track and measure business performance
+- Design, conduct and analyze A/B tests to guide product decisions
+- Model production transformations of data to support analytics and reporting requirements (using tools like DBT / Dataflow)
+- Perform explorative data analyses and build models to distill insights from user behavior and identify new strategic opportunities
+- Partner with Product, Growth, Research, Engineering and Leadership to inform, influence, support and execute strategy and product and growth decisions
+- Collaborate with multiple subject matter experts to drive new data initiatives, automate business intelligence reporting, and establish best practices
+- Support growth and marketing teams in quantifying and measuring the performance and cost efficiency of marketing campaigns
+
+---REQUIREMENTS---
+- Bachelors in quantitative field (CS, Stats, economics, etc) with 5+ years work experience in a data science role at a tech company, or Ph.D. in quantitative field with 3+ years data science work experience at a tech company
+- Proficiency in SQL and Python
+- Ability to develop and analyze algorithms to extract insights from large datasets
+- Strong statistical acumen with ability to interpret experiment results and set-up statistical tests from scratch as necessary
+- Strong communication skills and the ability to present insights to team members in other domains
+- Ability to prioritize in a highly dynamic start-up environment
+- An inquisitive mindset and ability to tackle challenges with limited guidance
+
+---NICE_TO_HAVES---
+- Experience with consumer-facing software
+- Experience with blockchain data and analytics tools
+- Experience with DeFi/web3
+- Fondness for the color pink
+- Minimum full-time salary of $195,000-$217,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

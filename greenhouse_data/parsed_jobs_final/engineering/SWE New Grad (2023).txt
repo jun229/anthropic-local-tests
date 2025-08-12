@@ -1,0 +1,25 @@
+===JD_START===
+TITLE: SWE New Grad (2023)
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Work closely with product and design to rapidly iterate, experiment and launch products
+- Participate in discussions from the initial product ideas to launch
+- Own products end to end - including UI, backend, testing, etc
+
+---REQUIREMENTS---
+- 3+ years of experience across React, Redux, Node, Python, etc.
+- Experience building and maintaining a production system at scale
+- A deep understanding of the architecture of modern React applications and backends
+- Prior experience working closely with a designer to iterate on a product
+- A desire to keep up with modern best practices in web development
+
+---NICE_TO_HAVES---
+- Experience with TypeScript in React
+- Degree in computer science
+- Love for unicorns :)
+
+===JD_END===

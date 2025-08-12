@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Application Security Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+We’re looking for an Application Security Engineer to join Uniswap Labs. You’ll collaborate with engineers from many disciplines to design and implement secure and usable solutions, tooling, and detection mechanisms to protect Uniswap’s users and applications.
+
+---RESPONSIBILITIES---
+- Work with developers to improve the security of our products and services
+- Develop technical solutions to address security weaknesses and work with stakeholders to implement them
+- Own application security review as well as security guidance documentation
+- Build systems at scale to prevent classes of vulnerabilities
+- Assist with security incident response as needed
+
+---REQUIREMENTS---
+- 2+ years of experience in web security, mobile security, or cryptography
+- Demonstrated proficiency in software development
+- Excitement for user privacy and security
+- Expertise in authentication protocols
+- Expertise in embedded security and wireless protocols
+
+---NICE_TO_HAVES---
+- Prior experience building in crypto/DeFi
+- Technical degree in Computer Science or related field
+- Love for unicorns :)
+- Minimum full-time salary of $210,000-$230,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

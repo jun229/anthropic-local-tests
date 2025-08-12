@@ -1,0 +1,37 @@
+===JD_START===
+TITLE: Data Scientist - Analytics
+DEPARTMENT: Business Operations & Strategy
+
+---INTRO---
+We are seeking a Data Scientist who will work in a highly collaborative and cross-functional setting to empower data-driven decision-making at the company level. This Data Scientist will use analytical skills and machine learning to make better customer experiences. Specifically, they will use knowledge of causal inference and statistics to setup and evaluate experiments, advise the Uniswap Labs team on understanding the drivers of user engagement, and suggest product and business (growth/marketing) directions that could increase future engagement. While keeping a pulse on the product and company, they will predict future changes in business KPIs.
+
+---RESPONSIBILITIES---
+- Develop core metrics and create dashboards to track and measure business performance
+- Design, conduct and analyze experiments such as A/B tests to guide product decisions
+- Perform exploratory data analyses and build models to distill insights from data and identify new strategic opportunities
+- Partner with Product, Growth, Research, Engineering and Leadership to inform, influence, support and execute strategy and product and growth decisions
+- Design and analyze product experiments to guide product launches
+- Collaborate with multiple subject matter experts to drive new data initiatives, automate business intelligence reporting, and establish best practices
+- Create growth/marketing attribution logic and measurement system that enables UL to quantify channel performance / ROI and make spend and resource allocation decisions accordingly
+
+Both for product launches as well as ongoing marketing campaigns
+- Both for product launches as well as ongoing marketing campaigns
+- Both for product launches as well as ongoing marketing campaigns
+
+---REQUIREMENTS---
+- 2+ years of professional work experience
+- Bachelors/Masters/Ph.D. in quantitative fields (CS, Stats, economics, etc)
+- Experience with SQL and Python/R
+- Ability to analyze large data sets in order to quantify performance via metrics or KPIs
+- Strong communication skills and the ability to present insights to team members in other domains
+- Ability to prioritize in a highly dynamic start-up environment
+- An inquisitive mindset and ability to tackle challenges with limited guidance
+
+---NICE_TO_HAVES---
+- Experience in finance
+- Experience with blockchain data and analytics tools
+- Experience with DeFi/web3
+- Fondness for the color pink
+- Minimum full-time salary of $135,000-$165,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

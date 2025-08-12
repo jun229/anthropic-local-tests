@@ -1,0 +1,34 @@
+===JD_START===
+TITLE: Customer Support Associate, Technical/API
+DEPARTMENT: Customer Experience
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Uniswap Labs is hiring a Customer Support Specialist - API to support our B2B customers, primarily developers integrating their trading software with our API. You will have the opportunity to shape our customer support values, function, systems, and processes. You will be an early touchpoint for strategic customers...
+
+---RESPONSIBILITIES---
+- Provide tier 1 and tier 2 support for B2B customers via Zendesk
+- Issue production API keys and guide customers through documentation and workflow walkthroughs
+- Assist with Q&A sessions to help developers understand and integrate our API
+- Handle tier 1 support tasks, including basic troubleshooting, answering service-related questions, and directing customers to the right resources
+- Handle tier 2 support tasks, including resolving deeper technical issues, assisting with architectural and workflow inquiries, and troubleshooting complex integration challenges
+- Synthesize insights from developer interactions and surface critical issues to the Engineering team
+- Assist in designing, implementing, and operating user support processes to ensure the team meets goals
+- Systematically communicate feedback to key stakeholders, providing guidance and input on new product features
+- Keep internal and external informational resources up to date in an environment of rapid iteration
+
+---REQUIREMENTS---
+- 2+ years of experience in customer support, ideally in a B2B or developer-focused environment
+- Familiarity with DeFi, blockchains, and experience using crypto wallets
+- Strong written and verbal communication skills that effectively distill complex technical concepts into simple explanations
+- Ability to support developers in integrating APIs and troubleshooting technical issues
+- Motivated by helping others and skilled at turning customer frustrations into positive experiences
+- Capable of solving complex problems end-to-end to minimize the need for escalation
+
+---NICE_TO_HAVES---
+- Experience providing technical support or developer advocacy at a software company
+- Prior experience with API support, including reviewing architectures and workflows
+- Minimum full-time salary of $134,000-$142,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+- Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here.
+
+===JD_END===

@@ -1,0 +1,21 @@
+===JD_START===
+TITLE: Research Scientist
+DEPARTMENT: Research
+
+---INTRO---
+Uniswap Labs is seeking a Research Data Scientist, who will work in a highly collaborative and cross-functionally team setting to further our understanding of the protocol and product usage, and to contribute toward future product innovations through research. Active areas of study include deepening understanding of liquidity demand and provision in decentralized exchanges, quantifying and predicting behaviors of different market participant, design mechanisms to prevent and deter market manipulation and reduce systemic risk. Candidates must have strong curiosity to drive understanding in DeFi, interest in applying research to application, and desire to share knowledge broadly.Candidates should have familiarity the Uniswap Protocol, and its surrounding ecosystem of products, and DeFi/web3....
+
+---RESPONSIBILITIES---
+- Collaborate with team members to achieve goals
+- Contribute to project planning and execution
+- Maintain high quality standards in all work
+
+---REQUIREMENTS---
+- Relevant experience in the field
+- Strong communication and collaboration skills
+- Ability to work in a fast-paced environment
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

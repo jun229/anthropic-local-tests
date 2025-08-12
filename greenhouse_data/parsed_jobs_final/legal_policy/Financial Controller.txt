@@ -1,0 +1,32 @@
+===JD_START===
+TITLE: Financial Controller 
+DEPARTMENT: Legal & Policy
+
+---INTRO---
+We’re looking for a Controller to execute essential controller functions for Uniswap Labs. Your role with stretch across fiat and crypto and will partner with the best accounting, technical, and legal minds in the space to translate new technology andfinancials models into compliant financial statements and tax filings. You will play a key role in supporting our rapidly growing organization and provide a world-class experience to our talented team.
+
+---RESPONSIBILITIES---
+- Create proper financials and operational controls over accounts, crypto wallets, and critical processes
+- Manage external accountants and tax professionals to produce financials statements and tax documents
+- Monitor on-chain transactions; reconcile token treasury balances with the assistance of external service providers
+- Oversee all tax filings – corporate tax returns, franchise, state, and city taxes,1099-MISC, etc.
+- Oversee payroll and A/P processes
+- Lead the Company’s financial audit in accordance with US GAAP
+- Collaborate cross-departmentally on ad-hoc finance, tax, or operations related projects
+- Possible to add FP&A for candidates with the appropriate skill-set
+
+---REQUIREMENTS---
+- Accounting degree with 8+ years of experience in an accounting or finance role
+- Ability to problem-solve and make decisions independently
+- Strong communicator with the ability to work effectively and confidently with senior stakeholders, and operate at all levels within the company
+- Comfort with executing crypto transactions through third-party custody website (e.g. Coinbase), or an eagerness to learn
+- Ability to pivot quickly and adapt to competing and ever-changing priorities
+- Optimistic, can-do attitude with superior attention to detail
+
+---NICE_TO_HAVES---
+- CPA
+- FP&A experience in addition to controller experience and skills
+- Experience working at an early-stage startup
+- Love for unicorns :)
+
+===JD_END===

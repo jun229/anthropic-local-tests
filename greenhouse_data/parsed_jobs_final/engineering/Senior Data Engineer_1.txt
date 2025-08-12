@@ -1,0 +1,35 @@
+===JD_START===
+TITLE: Senior Data Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol and Uniswap Platform. The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. About the role We are seeking a highly skilled and experienced Senior Data Analytics Engineer to join our dynamic data engineering team. The ideal candidate will be responsible for designing, impleme...
+
+---RESPONSIBILITIES---
+- Design, develop, and maintain scalable data pipelines to collect, process, and store large volumes of structured and unstructured data.
+- Implement data integration solutions to consolidate data from various sources, ensuring data quality and integrity.
+- Optimize data storage and retrieval processes for performance and scalability.
+- Develop and maintain data models, dashboards, and reports to support business analytics and decision-making.
+- Collaborate with data scientists, analysts, and other stakeholders to understand their data needs and provide robust solutions.
+- Conduct exploratory data analysis to discover trends, patterns, and insights that drive business strategy.
+- Implement data validation and monitoring processes to ensure data accuracy and consistency.
+- Establish and enforce data governance policies and best practices.
+- Conduct regular audits and data quality assessments to identify and resolve data issues.
+- Work closely with cross-functional teams, including product, engineering, and business teams, to understand data requirements and deliver solutions that meet business needs.
+
+---REQUIREMENTS---
+- Bachelor’s or Master’s degree in Computer Science, Engineering, Statistics, or a related field.
+- 5+ years of experience in data engineering, data analytics, or a related field.
+- Strong proficiency in SQL and experience with relational databases (e.g., PostgreSQL, MySQL).
+- Experience with big data technologies (e.g., Hadoop, Spark) and data warehousing solutions (e.g., BigQuery, Snowflake).
+- Proficiency in programming languages such as Python or Scala.
+- Experience with data visualization tools (e.g., Tableau, Power BI, Looker).
+- Strong understanding of ETL processes, data modeling, and data warehousing concepts.
+- Excellent problem-solving skills and attention to detail.
+- Strong communication and interpersonal skills, with the ability to work effectively in a collaborative environment.
+- Experience with cloud data platforms (e.g., AWS, GCP, Azure).
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

@@ -1,0 +1,32 @@
+===JD_START===
+TITLE: People Programs Manager
+DEPARTMENT: People
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable.Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains.When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Overview: We are looking for an experienced People Programs Manager to drive the development, implementation, and optimization of key People programs enhancing employee experience and engagement. In this role, you will co...
+
+---RESPONSIBILITIES---
+- Design, implement, and manage People programs focused on employee engagement,learning & development, and performance management.
+- Act as a key partner to People Business Partner, People Ops, and other stakeholders to ensure seamless program execution.
+- Analyze data and employee feedback to assess program effectiveness, recommending improvements based on insights and industry best practices.
+- Partner on change management efforts related to People program rollouts, ensuring clear communication and adoption across the organization.
+- Support Uniswap in being an inclusive space through initiatives, integrating DEI principles into People programs.
+- Partner with People leads to develop scalable strategies that enhance employee experience and drive business outcomes.
+- Stay updated on People trends, emerging technologies, and best practices to continuously evolve People programs.
+
+---REQUIREMENTS---
+- 5 years of related experience with a Bachelor’s degree; or 3 years and a Master’s degree; or a PhD without experience; or equivalent work experience.
+- Ability to work in our New York City based SoHo offices.
+- Proven track record of managing People programs with measurable impact on employee engagement and business success.
+- Strong analytical skills with the ability to interpret People data and translate insights into action.
+- Excellent communication, presentation, and stakeholder management skills.
+- Ability to manage multiple projects simultaneously in a dynamic environment.
+- Proficiency in common people/HR software (HRIS, Lattice, Google Suite).
+- Experience working in a  growing or evolving organization is a plus.
+- Minimum full-time salary of $156,000 - $172,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

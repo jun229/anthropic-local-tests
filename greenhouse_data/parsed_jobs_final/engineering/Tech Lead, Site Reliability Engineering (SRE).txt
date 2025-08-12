@@ -1,0 +1,33 @@
+===JD_START===
+TITLE: Tech Lead, Site Reliability Engineering (SRE)
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are looking for an experienced and highly motivated Tech Lead to spearhead our Site Reliability Engineering (SRE) team. As the Tech Lead, you will be responsible for establishing and maintaining the reliability, perf...
+
+---RESPONSIBILITIES---
+- Design, implement, and maintain systems and processes that enhance the reliability, availability, and performance of our services.
+- Design, implement and maintain CICD tools and processes to increase reliability
+- Design, implement and maintain cloud constructs to increase reliability
+- Develop and manage monitoring, alerting, and incident response strategies to minimize downtime and ensure rapid recovery from incidents.
+- Conduct root cause analysis of system failures and implement preventative measures.
+- Optimize system performance and automate repetitive tasks to improve operational efficiency.
+
+---REQUIREMENTS---
+- Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+- 5+ years of experience in site reliability engineering, DevOps, or a related field, with at least 2 years in a leadership or senior technical role.
+- Strong understanding of reliability engineering principles, practices, and tools.
+- Proficiency in monitoring and alerting tools (e.g., Prometheus, Grafana, Nagios).
+- Experience with cloud platforms (AWS, Azure, GCP) and container orchestration systems (Kubernetes, Docker).
+- Proficiency in scripting and automation tools, such as Python, Bash, Ansible, or Terraform.
+- Excellent problem-solving skills and the ability to work under pressure in a fast-paced environment.
+- Strong communication and interpersonal skills, with the ability to influence and lead teams.
+
+---NICE_TO_HAVES---
+- Experience with continuous integration and continuous deployment (CI/CD) practices and tools.
+- Knowledge of configuration management tools (e.g., Puppet, Chef).
+- Experience with database management and optimization.
+- Familiarity with compliance frameworks and security best practices.
+- Relevant certifications such as AWS Certified DevOps Engineer, Google Professional SRE, or equivalent.
+
+===JD_END===

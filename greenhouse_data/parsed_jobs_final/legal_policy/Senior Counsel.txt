@@ -1,0 +1,33 @@
+===JD_START===
+TITLE: Senior Counsel
+DEPARTMENT: Legal & Policy
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are seeking a Senior Counsel to partner closely with cross-functional teams on the design, execution, and go-to-market strategy of cutting-edge crypto products. You will lead regulatory and legal initiatives with company-level impact, helping Uniswap navigate novel legal challenges in a fast-moving environment. ...
+
+---RESPONSIBILITIES---
+- Independently provide risk-principled legal, regulatory, and strategic advice to business and engineering teams across the product lifecycle from ideation to launch
+- Collaborate with business development and partnership teams on potential business partnerships, ensuring alignment with long-term legal and business objectives
+- Support marketing teams on marketing initiatives and review marketing collateral for compliance with advertising standards and intellectual property rights
+- Drive the development and implementation of various processes, scalable policies, and playbooks to integrate legal guidance throughout the product development lifecycle. Proactively identifying gaps and solutions to enable product velocity while managing risk
+- Assess and advise on current rules and regulations as they relate to Uniswap products
+- Collaborate collegially and supportively with other members of the legal team
+- Mentor and advise fellow counsel and cross-functional teammates, helping build legal fluency and regulatory awareness throughout the organization
+- Operate as a thought partner to senior leadership, supporting company-wide legal initiatives, and influencing product direction with sound legal risk assessments
+
+---REQUIREMENTS---
+- 5+ years of law firm or in-house experience
+- JD degree (or foreign equivalent) with good standing in at least one US state bar
+- Strong financial regulatory background or experience counseling crypto clients
+- Familiar with financial services regulation and agencies (e.g., FinCEN, SEC, CFTC) and how they apply to financial products in both the U.S. and abroad
+- Strong collaboration and interpersonal skills; establishes and maintains strong relationships and credibility with stakeholders
+- Highly organized and proactive; capable of managing multiple priorities and meeting deadlines
+
+---NICE_TO_HAVES---
+- Deep understanding of crypto and blockchain technology
+- Understanding of how different regulations or proposed rules can apply to crypto products (e.g., broker-dealer, exchange, derivatives)
+- 3+ years of experience at an AM Law 100 corporate law firm
+- In-house experience is a plus
+- Minimum full-time salary of $225,000 - $250,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

@@ -1,0 +1,26 @@
+===JD_START===
+TITLE: Senior Compliance Associate
+DEPARTMENT: Legal & Policy
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet. We're seeking a Senior Compliance Associate to join our legal team at Uniswap Labs. If you're an experienced compliance professional who loves diving into complex problems, taking ownership of projects, and helping teams work better together, this could be a great fit. You'll have a strong focus on compliance ...
+
+---RESPONSIBILITIES---
+- Collaborate with team members to achieve goals
+- Contribute to project planning and execution
+- Maintain high quality standards in all work
+
+---REQUIREMENTS---
+- A Bachelor's degree plus a minimum of 5 years of related compliance and/or legal operations experience
+- Experience creating and maintaining compliance documentation and procedures
+- Strong organizational and project management skills with attention to detail and proven ability to lead design and execution of complex projects
+- Experience working effectively with diverse stakeholders across departments
+
+---NICE_TO_HAVES---
+- Experience with financial compliance frameworks (e.g., OFAC, AML, etc.)
+- Litigation support experience
+- Commercial law experience
+- Minimum full-time salary of $162,000-$180,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+
+===JD_END===

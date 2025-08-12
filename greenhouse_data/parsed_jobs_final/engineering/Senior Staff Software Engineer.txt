@@ -1,0 +1,30 @@
+===JD_START===
+TITLE: Senior Staff Software Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Write high quality and well tested code, and review code from other team members.
+- Collaborate with engineers, designers, and product managers to turn requirements into products and lead the execution end to end.
+- Provide guidance and technical leadership to peers in navigating architectural and coding tradeoffs.
+- Take charge of driving strategic technical initiatives across engineering pods that impact the entire engineering organization.
+
+---REQUIREMENTS---
+- 6+ years of software engineering experience
+- Excellent coding skills, deep understanding of cloud architectures, algorithms, and strong debugging capabilities.
+- Consistently manage projects comprehensively, starting from gathering requirements and designing, to debugging and testing, and finally to release management and operational monitoring.
+- Design, build, and maintain a large-scale production system on the cloud, ensuring smooth operation and high availability.
+- Be able to build systems from the ground up, on a 0→1 fashion.
+- Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services.
+- Mentored junior engineers
+
+---NICE_TO_HAVES---
+- Has previously been a Technical Lead
+- Prior experience with time-series based monitoring / observability systems
+- Degree in computer science
+- Experience with Typescript
+- Experience with AWS
+
+===JD_END===

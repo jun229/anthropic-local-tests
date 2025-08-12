@@ -1,0 +1,31 @@
+===JD_START===
+TITLE: Engineering Manager- Backend (Data)
+DEPARTMENT: Engineering
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for a highly skilled Engineering Manager to lead our Data and Software Engineering teams. In this role, you’ll drive the development of scalable software systems and ensure seamless integration of blockchain data into our products. Your leadership will help make our applications intuitive, high-perfor...
+
+---RESPONSIBILITIES---
+- Lead and Manage: Supervise, mentor, and grow a team of software engineers and data engineers, promoting an inclusive and high-performance culture
+- Technical Leadership: Drive the design, development, and delivery of scalable, maintainable software systems that integrate seamlessly with the Uniswap Protocol
+- Blockchain Data Integration: Oversee the extraction and transformation of blockchain and other data sources, ensuring quality and accuracy
+- Collaboration: Work closely with product, design, and engineering teams to define priorities, shape technical solutions, and deliver key features
+- Project Management: Plan, prioritize, and manage projects, ensuring timely and quality delivery of key features
+- Innovation and Scalability: Drive initiatives to optimize data retrieval and processing, enhancing the performance of our systems as data volumes grow.
+
+---REQUIREMENTS---
+- Experience: 3+ years in software engineering roles, with at least 2 years of engineering management experience
+- Technical Expertise: Strong experience in software development and familiarity with blockchain data structures and APIs
+- Leadership Skills: Proven ability to build and lead high-performing, collaborative engineering teams
+- Communication: Excellent communication skills, capable of articulating complex technical concepts to both technical and non-technical audiences
+- Education: Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field (or equivalent experience)
+- Experience working in a crypto focused company or startup environment
+- Familiarity with blockchain protocols and decentralized technologies
+- Proficiency with cloud-based data solutions (e.g., AWS, GCP)
+- Understanding of ETL processes and data pipeline development.
+- Passion for building cutting-edge, user-centric software products
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

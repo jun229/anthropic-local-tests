@@ -1,0 +1,30 @@
+===JD_START===
+TITLE: Senior Backend Engineer, Unichain
+DEPARTMENT: Engineering
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. As part of our onchain journey, we recently launched an Optimism L2 chain that we want to scale and expand. We're looking for an enthus...
+
+---RESPONSIBILITIES---
+- Write high quality and well tested code, and review code from other team members.
+- Take charge of driving strategic technical initiatives to ensure the reliability and scalability of the chain.
+- Consistently able to manage projects comprehensively, starting from gathering requirements and designing, to debugging and testing, and finally to release management and operational monitoring.
+- Design, build, and maintain a large-scale production system on the cloud, ensuring smooth operation and high availability.
+- Be part of the on-call rotation to guarantee the chain is running 24/7 without outages.
+- Provide guidance and technical leadership to peers in navigating architectural and coding tradeoffs. Help onboard new and existing members to the Unichain specifics.
+
+---REQUIREMENTS---
+- 5+ years of software engineering experience, including 2+ years of software engineering experience on EVM related chains.
+- Excellent coding skills, deep understanding of cloud architectures, algorithms, and strong debugging capabilities.
+- Experience building backend systems from the ground up, on a 0→1 fashion.
+- Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services.
+- Experiencing mentoring junior engineers
+
+---NICE_TO_HAVES---
+- Experience with working on an Optimism chain either contributing to the OP code itself or a different rollup chain
+- Experience with Solidity
+- Prior experience with time-series based monitoring / observability systems
+- Experience with Go/Typescript
+- Experience with AWS
+
+===JD_END===

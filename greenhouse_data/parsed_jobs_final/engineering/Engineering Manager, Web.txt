@@ -1,0 +1,30 @@
+===JD_START===
+TITLE: Engineering Manager, Web
+DEPARTMENT: Engineering
+
+---INTRO---
+We’re looking for an experienced engineering manager to help us create a world-class engineering team with a strong focus on instilling best coding practices, creating efficient processes, and shipping the best products for our users. In this role, you will be responsible for the evolution and maintenance of our flagship web app that serves as an interface to the Uniswap protocol. You will help us build delightful and intuitive experiences for our users as well as fortify the foundations of the app to ensure its continued stability. Join us!
+
+---RESPONSIBILITIES---
+- Directly manage individual contributor frontend web engineers
+- Ensure the engineering team is able to deliver quality projects at a fast pace
+- Provide career growth advice and performance feedback
+- Focus on improving team processes
+- Recruit and hire new engineers to the team
+- Collaborate with product and design to deliver a roadmap
+
+---REQUIREMENTS---
+- 2+ years of management experience growing & managing a team of engineers
+- Previous experience in Web technologies
+- High emotional intelligence
+- Technical knowledge to discuss issues, approaches, and solutions in depth
+- Knowledge and passion for software engineering best practices
+- Interest in crypto
+
+---NICE_TO_HAVES---
+- Experience in the Web3/crypto space
+- Willingness to work out of our NYC office regularly
+- Understanding of blockchain architecture
+- Full-stack experience
+
+===JD_END===

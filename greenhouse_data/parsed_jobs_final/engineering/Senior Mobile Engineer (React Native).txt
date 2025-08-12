@@ -1,0 +1,27 @@
+===JD_START===
+TITLE: Senior Mobile Engineer (React Native)
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Work cross-functionally with designers, PMs, and other engineers to design & create high quality mobile products
+- Implement functional UI elements from design mocks, with an eye toward performance and accessibility
+- Know when to create abstractions vs. one-off features
+- Ensure product stability through testing and development best practices
+
+---REQUIREMENTS---
+- 5+ years of software development experience
+- Degree in CS, related field, or equivalent computer science knowledge
+- Passion for creating user-facing products that entail delightful user experience
+- Experience in native iOS or React Native
+
+---NICE_TO_HAVES---
+- Familiarity with the Web3/crypto ecosystem (smart contracts, Ethereum architecture, etc.)
+- Love for unicorns 🦄
+- Tech stack:
+- Base: React Native + TypeScript
+- Web3: Ethers + TypeChain
+
+===JD_END===

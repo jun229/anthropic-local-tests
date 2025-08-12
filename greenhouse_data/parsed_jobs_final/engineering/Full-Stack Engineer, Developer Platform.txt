@@ -1,0 +1,25 @@
+===JD_START===
+TITLE: Full-Stack Engineer, Developer Platform
+DEPARTMENT: Engineering
+
+---INTRO---
+We see the Uniswap Protocol as the rails that a more equitable financial system will be run on. We are looking for a creative full stack engineer to help us create the tools and experiences that allow the next 1M developers build on top of the protocol towards that vision. In this role you’ll be responsible for architecting and implementing a sustainable, consistent, and high-quality developer experience through improved documentation platforms, APIs, SDKs and smart contracts. A great candidate is passionate about building delightful developer experiences, has experience developing across the modern web stack and can autonomously structure a project from the ground up with modern best practices and appropriate abstractions.
+
+---RESPONSIBILITIES---
+- Build and improve the tools and systems that enable first and third party developers to build on the Uniswap Protocol
+- Raise the bar for product quality while ensuring the developer tools continue to grow in scope with the evolutions of the Uniswap Protocol
+- Work closely with product and design to rapidly iterate, experiment and launch products
+
+---REQUIREMENTS---
+- 3+ years of experience building and maintaining a production system at scale
+- A deep understanding of the architecture of modern React applications and backends
+- Enjoy working across the stack, from frontend to backend, to solve complex challenges and delight our users
+- Interest in building developer tools and platforms
+- A desire to keep up with modern best practices in web development
+
+---NICE_TO_HAVES---
+- Passion for web3/crypto
+- Experience building developer tools and platforms
+- Love for unicorns :)
+
+===JD_END===

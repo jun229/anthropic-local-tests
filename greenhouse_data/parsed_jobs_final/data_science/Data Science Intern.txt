@@ -1,0 +1,21 @@
+===JD_START===
+TITLE: Data Science Intern
+DEPARTMENT: Data Science
+
+---INTRO---
+Data Science and Research Intern
+
+---RESPONSIBILITIES---
+- Collaborate with team members to achieve goals
+- Contribute to project planning and execution
+- Maintain high quality standards in all work
+
+---REQUIREMENTS---
+- Relevant experience in the field
+- Strong communication and collaboration skills
+- Ability to work in a fast-paced environment
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

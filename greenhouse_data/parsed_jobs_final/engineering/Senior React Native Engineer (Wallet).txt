@@ -1,0 +1,29 @@
+===JD_START===
+TITLE: Senior React Native Engineer (Wallet) 
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated engineer to help us build the next generation of financial products. This role’s primary focus will be on the Uniswap Wallet suite of products, which consists of mobile ...
+
+---RESPONSIBILITIES---
+- Consistently produce high quality code and well thought out architecture docs
+- Manage large, impactful projects staffed with several engineers with minimal day-to-day assistance from more senior engineers or managers
+- Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility and ensure that components are functional, elegant, and performant
+- Know when to create abstractions vs. one-off features
+
+---REQUIREMENTS---
+- 5+ years of software engineering experience
+- Experience building React Native applications
+- Strong track record of engineering excellence working on large projects end-to-end
+- Familiarity with the web3 frontend stack (e.g., ethers.js, web3.js, viem)
+- Experience with TypeScript
+- A desire to keep up with modern best practices in web/mobile development
+
+---NICE_TO_HAVES---
+- Experience as a Tech Lead
+- Experience working fullstack
+- Experience in native mobile (e.g., Swift, Kotlin)
+- Experience with React Native for Web
+- Degree in computer science
+
+===JD_END===

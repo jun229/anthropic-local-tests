@@ -1,0 +1,30 @@
+===JD_START===
+TITLE: Senior Product Designer
+DEPARTMENT: Design
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet. We're looking for an enthusiastic, self-motivated designer to help us build the next generation of financial products. You'll be joining a small but close knit product team known for developing category-defining UX. As a Senior Product Designer at Uniswap Labs, you'll solve cutting edge human computer or mobil...
+
+---RESPONSIBILITIES---
+- Own and deliver end-to-end design projects for new and improved consumer products that increase clarity and user agency in decentralized finance and web3
+- Tackle complex challenges in emerging technology by inventing new mental models and designing cutting-edge interactions with minimal oversight
+- Use a human-centered approach that incorporates qualitative and quantitative data to create conceptual wireframes, prototypes, and high-fidelity designs.
+- Effectively collaborate cross-functionally with engineering, product, and research partners to influence product strategy and roadmap.
+- Contribute to the development and maintenance of a unified design system that increases the velocity and consistency of the frontend engineering team.
+- Mentor junior designers and help define best practices through feedback, documentation, and team crit.
+- Contribute to the broader design culture through writing, presentations, and external community engagement.
+
+---REQUIREMENTS---
+- 5 years of product design experience, including research, prototyping, and implementation of user-facing applications. With some experience in FinTech or adjacent industries through relevant design work.
+- Demonstrated experience working with component libraries or design systems.A strong desire to design within the context of web3/blockchain/decentralized finance.
+- Proficiency in modern design tools such as Figma, Framer, or equivalent.
+- Excellent visual design and interaction design skills, with a strong portfolio that reflects independent project ownership and high-quality execution.Strong communication skills with the ability to clearly articulate design decisions and rationale to cross-functional teams.
+
+---NICE_TO_HAVES---
+- Familiarity with the web3/Ethereum ecosystem (wallets, tokens, transactions etc.)
+- High fidelity prototyping experience
+- Regular use of AI in design and prototyping workflows
+- Love for unicorns :)
+- Minimum full-time salary of $238,000-$265,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

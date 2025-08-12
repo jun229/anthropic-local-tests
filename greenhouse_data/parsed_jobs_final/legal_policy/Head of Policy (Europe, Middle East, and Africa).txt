@@ -1,0 +1,22 @@
+===JD_START===
+TITLE: Head of Policy (Europe, Middle East, and Africa)
+DEPARTMENT: Legal & Policy
+
+---INTRO---
+Uniswap Labs has helped develop three versions of the Uniswap protocol, which are essential infrastructure for self-custody wallets, web3 protocols, and digital asset trading. Our investors include Paradigm, Andreessen Horowitz, Union Square Ventures, and Variant. Our team includes refugees from Amazon, Blackrock, Coinbase, U.S. Commodity Futures Trading Commission, Google, the Federal Reserve, and Microsoft. Uniswap Labs is at the forefront of the policy debate regarding the future of digital assets policy generally and decentralized finance (DeFi) and web3 more specifically. The Head of Public Policy EMEA would play a critical role in representing Uniswap Labs and the DeFi industry in policy discussions across EMEA. This person will have to be able to think through policy development, st...
+
+---RESPONSIBILITIES---
+- Policy development. Cryptocurrency regulation is still developing, and there are many divergent proposals and frameworks proposed across multiple policy areas. Working with other experts, the leader should have the capacity to craft frameworks, respond to them, evaluate them, and understand analogous regulatory precedents and how to modify or apply them.
+- Strategy. Political strategy requires understanding what goals to set and how to deploy time and resources to reach those goals to reach them. If we develop the optimal policy (#1 above), how may it be adopted? What are the timelines that matter? What are the legislative and regulatory opportunities to focus on, such as must-pass vehicles, rulemakings, or reports? Who needs to be persuaded, how, and to what effect? What is our request? Which allies are necessary to meet our goals. Too many people in political circles think a sound “strategy” is, “educate people.” This is one tactic among many–and must be employed towards a feasible goal benefiting the company.
+- Persuasion. Any policy (#1) and strategy (#2) requires educating and persuading the right people. It may involve persuading industry allies and associations, senior officials, and junior staffers. The leader will likely hire someone else, such as an outside firm or internal resource, to support “retail lobbying” on a day-to-day basis. But the leader should be able to understand what material may be persuasive to certain classes of audiences, and to direct the creation of persuasive material such as decks, charts, data, reports, one-pagers, etc. Further, the leader should preferably be able to handle the “high-end lobbying” in meetings with the most sophisticated thought leaders in senior positions of government and industry. Persuasion is not just intellect but also curiosity and passion–for cryptocurrency, open markets, decentralized finance, and/or technology.
+- Team-building. Being at the forefront of an emerging industry, UL will likely need to allocate sufficient resources to be a corporate leader in several policy domains and regional areas. The leader should have experience recruiting, building, and managing great teams to do great things, preferably across jurisdictions. Other A players should want to work with and for you.
+
+---REQUIREMENTS---
+- At least 5 years in policy-related role focused on digital assets or financial services. Ideally 8+ years.
+- Demonstrated ability to communicate effectively in English.
+
+---NICE_TO_HAVES---
+- Experience working in public sector in policymaking role at EU level or EU member national government or in the UK government or at an international policymaking body, e.g., FSB, IMF, IOSCO, etc.
+- Love for the unicorns 🦄
+
+===JD_END===

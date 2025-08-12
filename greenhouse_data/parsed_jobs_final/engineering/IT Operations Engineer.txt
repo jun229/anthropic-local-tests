@@ -1,0 +1,35 @@
+===JD_START===
+TITLE: IT Operations Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap Protocol is the largest decentralized trading and automated market making protocol (often called a DEX, “Decentralized Exchange”) on Ethereum. The Uniswap Labs team was a major contributor to the Uniswap Protocol and now focuses on building a suite of products to support the Uniswap Labs ecosystem. Our team is one of the most impactful in crypto. We are headquartered in SoHo in New York City. We are looking for an IT Operations Engineer to work out of our Soho NYC HQ Office. This individual will be responsible for the performance and maintenance of the IT infrastructure and services in the Soho office location (must be willing to be onsite) and for our remote employees. What you will do
+
+---RESPONSIBILITIES---
+- Configure, deploy, maintain, troubleshoot and support our fleet of Mac laptops (with a few windows ones), printers, mobile devices, testing phones and other computer and telecommunications equipment
+- Take ownership of IT incidents and ensure issue resolution and employee satisfaction
+- Support security in maintaining access to applications via SSO, adding and managing SSO applications as well as ensuring MDM configurations are up to date
+- Manage our MDM tools and configurations and make sure they are working correctly
+- Ensure all users are running the latest updated and patched applications and remediate where necessary
+- Provide support for Multifactor Authentication and SSO (Single Sign On)
+- Contribute to the continuous process improvement of IT Support, IT incident handling and overall IT systems
+- Provide employees with a single point of contact for IT Service activities, problems, incidents and request items
+- Create and maintain user accounts in our SaaS tools (Google Workspace, Okta, etc)
+- Keep accurate notes of issues and troubleshooting steps taken within our ticketing system
+
+---REQUIREMENTS---
+- 5+ years of experience in an IT/Corp Sec role
+- Experience configuring, deploying, and maintaining Mac OS and Windows-based systems
+- Ability to troubleshoot and resolve a wide range of IT issues in a timely and effective manner
+- Proficiency in managing and troubleshooting video conferencing systems and collaboration tools
+- Familiarity with administering SaaS products and cloud-based tools (e.g., Okta for Single Sign-On)
+- Excellent technical support and customer service skills, with an emphasis on clear and effective communication
+- Strong organizational skills and the ability to manage multiple tasks and projects simultaneously
+- This position is required to be full-time in our SoHo office
+- Minimum full-time salary of $137,000-$190,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include unlimited and encouraged time off, company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) participation, annual $1,500 education stipend, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

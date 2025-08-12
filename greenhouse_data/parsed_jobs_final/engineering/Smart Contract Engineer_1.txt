@@ -1,0 +1,30 @@
+===JD_START===
+TITLE: Smart Contract Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are looking for a junior smart contract engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for implementing and designing smart contracts for the next generation of the mos...
+
+---RESPONSIBILITIES---
+- Contribute to the Uniswap protocol by designing and implementing smart contracts
+- Research, apply, and invent new smart contract paradigms
+- Design and implement peripheral mechanisms to the Uniswap protocol
+- Research and contribute to Ethereum Improvement Proposals (EIPs)
+- Participate in discussions from the initial product ideas to launch
+- Build and maintain low level backend services that interact with the Uniswap Protocol.
+
+---REQUIREMENTS---
+- 1+ years of experience building and releasing production-grade Solidity contracts
+- 1+ years of experience working on blockchains, consensus algorithms, p2p, or applied cryptography
+- Deep knowledge of Ethereum, the EVM, and broad understanding of the Ethereum roadmap
+- Strong understanding of different blockchain designs, their tradeoffs, and the cryptography underpinning blockchains
+- Strong computer science fundamentals
+
+---NICE_TO_HAVES---
+- Experience in Go, Rust, or a similar language
+- Degree in math or computer science
+- Experience implementing complex math in Solidity
+- Love for unicorns :)
+- Experience with cloud infrastructure, networking or orchestration with AWS (e.g. Docker, ECS, CDK, DynamoDB)
+
+===JD_END===

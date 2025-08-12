@@ -1,0 +1,49 @@
+===JD_START===
+TITLE: Unichain Growth Lead
+DEPARTMENT: Business Development
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. About: We are seeking a Unichain Growth Lead to define, coordinate and execute the cross-functional strategy to grow Unichain into a leading liquidity and builder hub—focusing on onboarding, ecosystem readiness, developer recruitment, and product-aligned integrations. The ideal candidate will have experience in lea...
+
+---RESPONSIBILITIES---
+- Ecosystem Partner Activation
+Independently build and manage Unichain’s core partner stack—wallets, RPCs, bridges, indexers, and dev tools. Develop partnership tracks tailored to specific use cases (ie. token issuance, LP onboarding, cross-chain swaps) to reduce friction and enable composability across key DeFi primitives. Support UVN’s launch.
+Impact: unlocks access, usability, and product readiness for core DeFi flows
+- Liquidity Migration & Onramping
+Own and execute Labs' liquidity-focused adoption push—starting with Q2 LP onboarding and activation. Design and manage liquidity migration strategies (e.g., LP tooling, partner zaps, migration funnels) and lead coordination with key market makers. Develop strategies for driving inflows from key ecosystems (ie. Base, Arbitrum, eth mainnet).
+Impact: Increases TVL, swap volume, and LP activity on Unichain
+- Token Issuance & Asset Growth (V4)
+Build and scale onboarding motion for token factories, TGEs, and pre-launch partners. Help projects launch natively on Unichain by coordinating liquidity seeding, partner listings (wallets, FOR), and ongoing support for hook-driven token models.
+Impact: drive net new liquidity
+- Builder Recruitment & App Activation
+Lead targeted outreach and support for early-stage native protocol teams and mature cross-chain apps. Prioritize verticals that align with sequencer fee generation and volume growth (ie. swaps, stablecoins, cross-chain messaging).
+Impact: grows transaction activity and sequencer revenue via increased app footprint
+- Cross-Ecosystem Liquidity & Interop
+Design systems and partnerships, in conjunction with BD & research, that improve liquidity routing and interoperability (ie. Superchain routing, filler alignment, stablecoin pools). Push Unichain toward becoming the liquidity backbone for trading across chains.
+Impact: position Unichain as the most effective DeFi execution layer in the Superchain ecosystem
+- Partner Alignment
+Strategize how Uniswap Labs products can act as force multiplier for ecosystem building efforts from Uniswap Foundation, Optimism Foundation, Flashbots and other key foundation partners on all Unichain adoption programs. Drive shared meetings, sync on ecosystem activation, and ensure partners are effectively executing on necessary commitments.
+- Ecosystem Partner Activation
+- Independently build and manage Unichain’s core partner stack—wallets, RPCs, bridges, indexers, and dev tools. Develop partnership tracks tailored to specific use cases (ie. token issuance, LP onboarding, cross-chain swaps) to reduce friction and enable composability across key DeFi primitives. Support UVN’s launch.
+- Impact: unlocks access, usability, and product readiness for core DeFi flows
+- Liquidity Migration & Onramping
+
+---REQUIREMENTS---
+- Minimum 5 years years of professional experience, including:
+
+3-6 years of ecosystem growth, business development or venture investing experience.
+1-3 years in crypto-native roles with demonstrated knowledge of the industry.
+- 3-6 years of ecosystem growth, business development or venture investing experience.
+- 1-3 years in crypto-native roles with demonstrated knowledge of the industry.
+- Strong understanding of the Ethereum layer 2 landscape and how to build a successful DeFi ecosystem.
+- Expertise in Uniswap protocols, product suite, and the broader crypto landscape.
+- Exceptional communication and interpersonal skills, with the ability to articulate complex concepts to diverse audiences.
+- Proven ability to influence and persuade external stakeholders effectively.
+- Willingness to travel up to 3-4 weeks annually to support global ecosystem growth initiatives
+- 3-6 years of ecosystem growth, business development or venture investing experience.
+- 1-3 years in crypto-native roles with demonstrated knowledge of the industry.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

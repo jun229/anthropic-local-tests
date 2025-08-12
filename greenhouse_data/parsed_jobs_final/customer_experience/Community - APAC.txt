@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Community - APAC
+DEPARTMENT: Customer Experience
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. This role is a 6 month contract, requiring 40 hours/week.
+
+---RESPONSIBILITIES---
+- To grow Uniswap via organic and community efforts across the APAC Region.. Also, to continually share product feedback and market intel to drive Uniswap’s growth and success globally.
+- Be in the mix, be deep in the local crypto community. Represent Uniswap everywhere — and share market intel back with HQ
+- Serve as representative in Discord, triaging across internal Uniswap Labs teams, spanning support, developer relations, and community
+- Actively advocate for Uniswap in relevant community channels, including Telegram (potentially also Reddit and Signal) and social platforms to develop a loyal and growing community
+- Organize small meet-ups with clear outcome of educating and promoting Uniswap developer tools
+- Propose joint efforts with relevant crypto projects in the region to increase activation
+- Provide weekly reports on activities, metrics, and next proposals
+- Fluent in Vietnamese
+- Background as a community manager with deep technical expertise on trading protocols
+- Self-identified crypto degen who has deep involvement in the crypto and in particular the
+
+---REQUIREMENTS---
+- Relevant experience in the field
+- Strong communication and collaboration skills
+- Ability to work in a fast-paced environment
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

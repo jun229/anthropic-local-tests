@@ -1,0 +1,52 @@
+===JD_START===
+TITLE: Product Marketing Manager
+DEPARTMENT: Business Operations & Strategy
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, collaborative, and communicative senior product marketer to spearhead user research, develop detailed user personas, and drive the go-to-market strategy for key products. This individu...
+
+---RESPONSIBILITIES---
+- User Research:
+
+Design and Execute Research: Lead planning and conduct both qualitative and quantitative research initiatives to develop and continuously refine detailed Uniswap retail user personas.
+Collaborate with Data Teams: Partner with research and data science teams to gain deep insights into user segments, monitoring and influencing user behavior and product usage through comprehensive analytics.
+
+Market Research:
+
+Competitive Analysis: Regularly monitor and research competitive products, value propositions, and market positioning, generating weekly reports to inform strategic decisions.
+Market Positioning: Collaborate with product and research teams to perform competitive benchmarking and develop effective market positioning strategies.
+
+Product Feedback:
+
+User Feedback Collection: Gather and analyze user feedback obtained through research to inform product development.
+Roadmap Prioritization: Work closely with the Product team to prioritize features and enhancements on the product roadmap, ensuring feedback is effectively communicated to product, design, and engineering teams with clarity and credibility. Unblocks self and others as required to move projects forward.
+
+Marketing Strategies:
+
+Strategy Development: Create comprehensive marketing and go-to-market strategies for large product upgrades and releases. Define target audience, positioning and messaging - rooted in clear objectives and insights. Able to delegate tasks to team members and partners, to focus on highest impact strategy work.
+Collaboration with Channel Owners: Partner with channel owners to develop and implement acquisition and retention strategies that align with the high level strategy for each release
+Content Creation: Develop targeted marketing collateral for various touchpoints, such as events, social media channels, and community platforms like Telegram.
+- Design and Execute Research: Lead planning and conduct both qualitative and quantitative research initiatives to develop and continuously refine detailed Uniswap retail user personas.
+- Collaborate with Data Teams: Partner with research and data science teams to gain deep insights into user segments, monitoring and influencing user behavior and product usage through comprehensive analytics.
+- Competitive Analysis: Regularly monitor and research competitive products, value propositions, and market positioning, generating weekly reports to inform strategic decisions.
+- Market Positioning: Collaborate with product and research teams to perform competitive benchmarking and develop effective market positioning strategies.
+- User Feedback Collection: Gather and analyze user feedback obtained through research to inform product development.
+- Roadmap Prioritization: Work closely with the Product team to prioritize features and enhancements on the product roadmap, ensuring feedback is effectively communicated to product, design, and engineering teams with clarity and credibility. Unblocks self and others as required to move projects forward.
+- Strategy Development: Create comprehensive marketing and go-to-market strategies for large product upgrades and releases. Define target audience, positioning and messaging - rooted in clear objectives and insights. Able to delegate tasks to team members and partners, to focus on highest impact strategy work.
+- Collaboration with Channel Owners: Partner with channel owners to develop and implement acquisition and retention strategies that align with the high level strategy for each release
+- Content Creation: Develop targeted marketing collateral for various touchpoints, such as events, social media channels, and community platforms like Telegram.
+
+---REQUIREMENTS---
+- 8+ years of Product Marketing experience working with technical B2C products, ideally in fintech and/or web3
+- Obsessed with crypto, DeFi, and Web3 as transformative opportunities, with personal or professional experience using a self-custody wallet, engaging with dApps, NFTs, or participating in DAOs
+- Ability to lead through influence, develop strong relationships with technical teams, and drive alignment across teams
+- Incredibly clear written communication and desire to document everything
+- Very organized, able to stay on top of several moving projects at once
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+- Minimum full-time salary of $197,000-$219,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+- Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here.
+
+===JD_END===

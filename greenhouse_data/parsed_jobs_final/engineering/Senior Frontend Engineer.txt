@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Senior Frontend Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility
+- Know when to create abstractions vs. one-off features
+- Ensure that components are functional, elegant, performant, and mobile-friendly
+- Understand when and how to run UI tests
+
+---REQUIREMENTS---
+- 10+ years of software engineering experience
+- At least 5 years of React experience
+- A deep understanding of the architecture of modern client-side React applications
+- Experience mentoring senior engineers and leading teams toward the most impactful work
+- Expert in modern best practices in web development
+
+---NICE_TO_HAVES---
+- Prior experience creating a design system or component library
+- Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)
+- Degree in computer science
+- Love for unicorns :)
+- Minimum full-time salary of $220,000-$240,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

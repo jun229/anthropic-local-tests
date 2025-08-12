@@ -1,0 +1,30 @@
+===JD_START===
+TITLE: Senior Backend Engineer, Platform 
+DEPARTMENT: Engineering
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Our platform team plays a critical role in ensuring our products are scalable, secure, and efficient. We are looking for a Backend Engineer to help build and maintain the shared services that power our ecosystem. We are headquartered in SoHo in New York City, and this role has the option to be partially or fully re...
+
+---RESPONSIBILITIES---
+- Design, develop, and maintain backend systems that support all shared services at Uniswap Labs.
+- Write high quality and well tested code, and review code from other team members.
+- Provide guidance and technical leadership to peers in navigating architectural and coding tradeoffs.
+- Take charge of driving strategic technical initiatives across engineering pods that impact the entire engineering organization.
+- Improve developer productivity and system reliability through automation and best practices.
+
+---REQUIREMENTS---
+- 6+ years of software engineering experience with a focus on infrastructure.
+- Proficiency in TypeScript, Go, or Rust,
+- Excellent coding skills, deep understanding of AWS cloud constructs and architecture, algorithms, and strong debugging capabilities.
+- Design, build, and maintain a large-scale production system on the cloud, ensuring smooth operation and high availability.
+- Be able to build systems from the ground up, in a 0→1 fashion.
+- A passion for building scalable, reliable systems that enable high-quality feature development.
+
+---NICE_TO_HAVES---
+- Experience or a strong interest in infrastructure-as-code tools (Pulumi is a plus).
+- Experience with distributed systems, authentication, and developer tooling.
+- Degree in computer science
+- Background in blockchain or DeFi
+- Love for unicorns :)
+
+===JD_END===

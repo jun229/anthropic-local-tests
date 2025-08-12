@@ -1,0 +1,26 @@
+===JD_START===
+TITLE: Developer Relations Lead
+DEPARTMENT: Engineering
+
+---INTRO---
+We’re looking for great engineers and storytellers to build the platforms, communities and experiences that get the next 1 million developers building on the Uniswap Protocol. As our the Developer Relations Lead, you’ll lay the foundation for this vision, building development tools and platforms, establishing strong relationships with the developer community and translating their needs into products that create the best Developer Experience in Web3. If you’re passionate about growing the Web3/crypto community, building world class developer experiences, trying out new technologies and sharing what you’ve learned, we’d love to chat!
+
+---RESPONSIBILITIES---
+- Champion the Uniswap Protocol by building next generation developer tools, high-quality sample applications, demos, technical documentation, tutorials and being an engineering thought leader in the community
+- Drive adoption of the Uniswap developer products to grow the ecosystem of DeFi apps, integrations, and services built on top of the Uniswap Protocol
+- Identify opportunities to engage with developers and grow our community in-person and online, from speaking at conferences to hosting office hours on Twitter or Discord
+- Raise the bar for our documentation by working alongside engineers, product managers, and technical writers
+
+---REQUIREMENTS---
+- You're a creative engineer who enjoys working on a large set of technologies, from writing React components to smart contracts in Solidity
+- Have a passion for building delightful developer experiences and vibrant developer communities
+- Strong communication skills, and the ability to convey complex topics simply to a large developer audience
+- Passionate about Ethereum, DeFi, and Web3/crypto
+
+---NICE_TO_HAVES---
+- Prior experience creating a Developer Relations program, writing technical articles, and building open source software
+- Experience with Ethereum/Solidity or other blockchains
+- Love for unicorns :)
+- Minimum full-time salary of $160,000-$200,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

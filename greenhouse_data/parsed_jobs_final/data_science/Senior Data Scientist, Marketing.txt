@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Senior Data Scientist, Marketing
+DEPARTMENT: Data Science
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. At Uniswap Labs, we are on a mission to enable financial freedom for everyone by building open, decentralized protocols on the blockchain. Our products, including the Uniswap Web App & Uniswap Wallet, are trusted by millions around the world to facilitate decentralized trading and liquidity. We believe in the power of data to drive our decision-making and are looking for a Senior Data Scientist to join our Marketing...
+
+---RESPONSIBILITIES---
+- Partner with stakeholders to frame business challenges and develop data models that inform acquisition and retention strategies.
+- Design and implement predictive models and marketing frameworks, analyzing customer cohorts to track KPIs such as LTV, CAC, and churn.
+- Use data-driven insights to guide marketing strategies, budget allocation, targeting, and personalization across multiple digital channels, with a strong emphasis on performance in the decentralized finance ecosystem.
+- Build and maintain essential reporting tools to monitor the performance of marketing campaigns, including attribution models, media mix models, and cohort analysis.
+- Expand the company’s marketing analytics capabilities, integrating advanced techniques such as Media Mix Modeling (MMM), predictive lifetime value (pLTV), data-driven attribution, and recommendation systems.
+- Work with third-party data sources and in-house AI-powered prediction engines to enhance marketing efforts and optimize user acquisition strategies.
+- Measure and analyze the impact of integrated brand campaigns and ensure alignment with Uniswap’s long-term goals.
+- What We’re Looking For:
+- 5+ years of experience in data science or advanced analytics, with a focus on B2C industries, preferably in tech, blockchain, or fintech environments.
+- Proven expertise in segmentation, predictive modeling, and retention strategies, especially within digital marketing channels in the context of DeFi and blockchain.
+
+---REQUIREMENTS---
+- Relevant experience in the field
+- Strong communication and collaboration skills
+- Ability to work in a fast-paced environment
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

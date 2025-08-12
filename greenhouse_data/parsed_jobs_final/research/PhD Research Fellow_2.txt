@@ -1,0 +1,27 @@
+===JD_START===
+TITLE: PhD Research Fellow
+DEPARTMENT: Research
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Uniswap Labs is seeking a PhD candidate or graduate to participate in a 3-6 month paid fellowship starting in October 2024 (or after) who will work out of our Soho NYC HQ Office. The Fellow is provided with training and...
+
+---RESPONSIBILITIES---
+- Work on research projects broadly aligned with your area of study
+- Develop strong industry and company knowledge
+- Work on cutting-edge research projects in market economics, mechanism design, and more
+- Learn about our culture, as well as the benefits and responsibilities of being a member of the firm
+- Receive training designed to help you succeed
+- Receive compensation and benefits
+
+---REQUIREMENTS---
+- Interest in research topics in decentralized finance, crypto-economics and blockchain in general
+- Ability to independently design and execute research plans to answer conceptual questions
+- Self-starter with a proactive approach and a high level of enthusiasm
+
+---NICE_TO_HAVES---
+- Love for the unicorns 🦄
+- Submit your CV and a research statement. Note that the final research projects are subject to change, but we will be flexible enough to ensure the final projects align with the Fellow’s area of study.
+- Hourly rate of $65. Disclosure in accordance with New York City's Pay Transparency Law.
+- Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here.
+
+===JD_END===

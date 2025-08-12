@@ -1,0 +1,25 @@
+===JD_START===
+TITLE: PhD Research Fellow
+DEPARTMENT: Research
+
+---INTRO---
+Uniswap Labs is seeking a PhD candidate or graduate to participate in a 6-month paid fellowship starting in September 2023. The Fellow is provided with training and hands-on experience on a research team as well as networking and mentorship opportunities.
+
+---RESPONSIBILITIES---
+- Work on research projects broadly aligned with your area of study
+- Develop strong industry and company knowledge
+- Work on cutting-edge research projects in market economics, mechanism design, and more
+- Learn about our culture, as well as the benefits and responsibilities of being a member of the firm
+- Receive training designed to help you succeed
+- Receive compensation and benefits
+
+---REQUIREMENTS---
+- Interest in research topics in decentralized finance, crypto-economics and blockchain in general
+- Ability to independently design and execute research plans to answer conceptual questions
+- Self-starter with a proactive approach and a high level of enthusiasm
+
+---NICE_TO_HAVES---
+- Love for the unicorns 🦄
+- Submit your CV and a research statement. Note that the final research projects are subject to change, but we will be flexible enough to ensure the final projects align with the Fellow’s area of study.
+
+===JD_END===

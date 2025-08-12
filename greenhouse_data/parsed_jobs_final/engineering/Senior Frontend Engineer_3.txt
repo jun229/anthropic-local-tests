@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Senior Frontend Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated frontend engineer to help us build the next generation of financial products. As a dedicated frontend hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. Y...
+
+---RESPONSIBILITIES---
+- Consistently produce high quality code and well thought out architecture docs
+- Manage large, impactful projects staffed with several engineers with minimal day-to-day assistance from more senior engineers or managers
+- Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility and ensure that components are functional, elegant, and performant
+- Know when to create abstractions vs. one-off features
+
+---REQUIREMENTS---
+- 5+ years of software engineering experience
+- A deep understanding of the architecture of modern client-side React/React Native applications
+- Prior experience creating a design system or component library
+- Familiarity with the crypto features and concepts
+- A desire to keep up with modern best practices in web development
+
+---NICE_TO_HAVES---
+- Experience with Swift/Kotlin
+- Experience with onboarding or growth teams
+- Degree in computer science
+- Love for unicorns :)
+- Minimum full-time salary of $209,093-$232,325. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

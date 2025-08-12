@@ -1,0 +1,29 @@
+===JD_START===
+TITLE: Engineering Director
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Directly manage individual contributor engineers
+- Ensure the engineering team is able to deliver quality projects at a fast pace
+- Provide career growth advice and performance feedback
+- Focus on improving team processes
+- Recruit and hire new engineers to the team
+- Collaborate with product and design to deliver a roadmap
+
+---REQUIREMENTS---
+- Experience growing and managing a team of engineers
+- High emotional intelligence
+- Technical knowledge to discuss issues, approaches, and solutions in depth
+- Knowledge and passion for software engineering best practices
+- Interested in crypto
+
+---NICE_TO_HAVES---
+- Experience in the Web3/crypto space
+- Willingness to work out of our NYC office regularly
+- Understanding of blockchain architecture
+- Previous experience with common dev tools in the space - Solidity, Ethers, etc
+
+===JD_END===

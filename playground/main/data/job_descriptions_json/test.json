@@ -1,0 +1,56 @@
+[
+  {
+    "job_id": "template_job_use_me_to_create_new_jobs",
+    "title": "Template Job (Use me to create new jobs)",
+    "department": "Test",
+    "sections": {
+      "intro": "Insert description here",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/test/Template Job (Use me to create new jobs).txt"
+    }
+  },
+  {
+    "job_id": "test",
+    "title": "Test",
+    "department": "Test",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/test/Test.txt"
+    }
+  }
+]

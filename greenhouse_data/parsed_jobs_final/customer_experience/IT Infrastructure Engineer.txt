@@ -1,0 +1,27 @@
+===JD_START===
+TITLE: IT Infrastructure Engineer 
+DEPARTMENT: Customer Experience
+
+---INTRO---
+What you will do What you are like
+
+---RESPONSIBILITIES---
+- Office and employee IT infrastructure
+- Evaluating solutions and collaborating with the team on new technologies
+- Corporate Security Operations
+- Administration of various SaaS products and tooling
+
+---REQUIREMENTS---
+- 3+ Years working in IT/Corporate security or similar role
+- Effective interpersonal and communications skills
+- Critical thinking and an ability to creatively solve complex issues
+- Willing to come into the office 3 days a week (NYC)
+- Knowledge of Google SaaS products as well as corporate security
+- Experience setting up Apple MDM and DEP
+- Love for the unicorns 🦄
+- Minimum full-time salary of $110,000-$130,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

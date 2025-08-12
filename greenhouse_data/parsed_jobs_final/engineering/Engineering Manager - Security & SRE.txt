@@ -1,0 +1,35 @@
+===JD_START===
+TITLE: Engineering Manager - Security & SRE
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are seeking a highly skilled and experienced Engineering Manager to lead our Security and Site Reliability Engineering (SRE) teams. This role is crucial in ensuring the security, reliability, and efficiency of our in...
+
+---RESPONSIBILITIES---
+- Lead and mentor a team of security engineers and site reliability engineers, fostering a collaborative and innovative work environment.
+- Develop and execute strategies for improving security and reliability across all systems and services.
+- Set clear goals and performance metrics for the team, conducting regular performance reviews and providing constructive feedback.
+- Oversee the design, implementation, and maintenance of security measures across the organization’s infrastructure and applications.
+- Ensure compliance with industry standards and regulatory requirements.
+- Conduct regular security assessments, vulnerability testing, and threat modeling to identify and mitigate risks.
+- Develop and maintain security policies, procedures, and best practices.
+- Manage the reliability, availability, and performance of the company’s services and infrastructure.
+- Implement and maintain monitoring, alerting, and incident response processes.
+- Optimize system performance and automate repetitive tasks to improve efficiency.
+
+---REQUIREMENTS---
+- Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+- 7+ years of experience in security engineering and/or site reliability engineering, with at least 3 years in a leadership or management role.
+- Strong understanding of security principles, practices, and technologies, including encryption, authentication, access control, and network security.
+- Proven experience with reliability engineering practices such as monitoring, alerting, incident response, and performance tuning.
+- Proficiency in scripting and automation tools, such as Python, Bash, Ansible, or Terraform.
+- Experience with cloud platforms (AWS, Azure, GCP) and container orchestration systems (Kubernetes, Docker).
+- Excellent problem-solving skills and the ability to work under pressure in a fast-paced environment.
+- Strong communication and interpersonal skills, with the ability to influence and inspire teams.
+- Relevant certifications such as CISSP, CISM, or SANS GIAC.
+- Experience with DevOps practices and tools, such as CI/CD pipelines, GitOps, and infrastructure as code.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

@@ -1,0 +1,43 @@
+{
+  "job_id": "generated_senior_data_engineer",
+  "title": "Senior Data Engineer",
+  "department": "Engineering",
+  "metadata": {
+    "seniority": "Senior",
+    "skills": [],
+    "generated": true
+  },
+  "sections": {
+    "intro": "We're looking for an enthusiastic, self-motivated Senior Data Engineer to join our team and help shape the future of blockchain data infrastructure. You'll work at the intersection of cutting-edge technology and decentralized finance, building robust data systems that power insights across the crypto ecosystem. ",
+    "responsibilities": [
+      "Design, develop, and maintain scalable data pipelines to collect, process, and store large volumes of blockchain and market data",
+      "Build and optimize data infrastructure using Dune Analytics and other blockchain data sources to support analytics and decision-making",
+      "Collaborate with data scientists, analysts, and cross-functional teams to understand data requirements and deliver solutions that meet business needs",
+      "Implement data validation and monitoring processes to ensure data accuracy and consistency across blockchain datasets",
+      "Develop and maintain data models, dashboards, and reports to support business analytics and strategic initiatives",
+      "Optimize data storage and retrieval processes for performance and scalability in high-volume blockchain environments",
+      "Establish and enforce data governance policies and best practices for handling sensitive financial and user data",
+      "Conduct exploratory data analysis to discover trends, patterns, and insights that drive business strategy in the crypto space"
+    ],
+    "requirements": [
+      "Bachelor's degree in Computer Science, Engineering, Statistics, or related field",
+      "5+ years of experience in data engineering, data analytics, or related field",
+      "Strong proficiency in Python for data processing and pipeline development",
+      "Hands-on experience with Dune Analytics for blockchain data querying and analysis",
+      "Strong SQL skills and experience with relational databases",
+      "Experience building and maintaining production data systems at scale",
+      "Understanding of blockchain technology and cryptocurrency markets",
+      "Excellent problem-solving skills and attention to detail",
+      "Strong communication and interpersonal skills for collaborative work",
+      "Must be US-based (NYC preferred)"
+    ],
+    "nice_to_haves": [
+      "Experience with cloud data platforms (AWS, GCP, Azure)",
+      "Familiarity with big data technologies (Hadoop, Spark) and data warehousing solutions",
+      "Experience with data visualization tools (Tableau, Looker, Power BI)",
+      "Previous experience in DeFi, Web3, or fintech environments",
+      "Knowledge of smart contract data structures and on-chain analytics",
+      "Love for unicorns :)"
+    ]
+  }
+}

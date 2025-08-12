@@ -1,0 +1,29 @@
+===JD_START===
+TITLE: Customer Support Specialist 
+DEPARTMENT: Customer Experience
+
+---INTRO---
+Uniswap Labs is hiring a Customer Support Specialist. You will have the opportunity to shape our customer support values, function, systems and processes. We are often an early touch point for web3 users, and receive inquires outside of our product space. You will create a way for folks to feel heard and supported externally, and also work internally to represent our users within our team and improve their experiences.
+
+---RESPONSIBILITIES---
+- Provide user support via Zendesk
+- Act as an advocate and onboarding specialist for users
+- The first touch point for all user issues, responsible for ensuring that every inquiry is handled in accordance to our SLAs
+- Synthesize insights from user interactions and surface critical issues to the Engineering team
+- Assist in designing, implementing and operating user support processes to ensure the team meets goals
+- Systematically communicate feedback to key stakeholders, providing guidance and input on new product features
+- Keep internal and external informational resources up to date in an environment of rapid iteration
+
+---REQUIREMENTS---
+- 2+ years experience doing customer support in a high growth environment
+- Strong written and verbal communication skills that can effectively distill complex concepts into simple ones
+- You are motivated by helping others and are the type of person who prides themselves on turning an angry user into a 5-star rating
+- You can help solve complex problems end-to-end so as to mitigate delegation as much as possible
+
+---NICE_TO_HAVES---
+- Experience with user onboarding at a software company
+- Experience with DeFi, knowledge of blockchains, and experience using crypto wallets is a (big) plus!
+- Love for the unicorns 🦄
+- Minimum full-time salary of $48,000-$72,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

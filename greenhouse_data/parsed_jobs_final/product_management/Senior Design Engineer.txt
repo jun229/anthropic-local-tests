@@ -1,0 +1,32 @@
+===JD_START===
+TITLE: Senior Design Engineer
+DEPARTMENT: Product Management
+
+---INTRO---
+The Uniswap Protocol is the largest decentralized trading and automated market making protocol (often called a DEX, “Decentralized Exchange”) on Ethereum. The Uniswap Labs team was a major contributor to the Uniswap Protocol and now focuses on building a suite of products to support the Uniswap Labs ecosystem. Our team is one of the most impactful in crypto. We are headquartered in SoHo in New York City with the option to be partially or fully remote depending on the position. We’re looking for a Senior Design Engineer who will work on the frontend of our products in a challenging, fast-paced environment. This role straddles the space between design and engineering.  You’ll enable design and user experience polish, quality, and speed by working closely with the design team to launch innova...
+
+---RESPONSIBILITIES---
+- Help engineering and design work better together by being a resource to both:
+- For design: Prototyping new and innovative interactions, help the design team figure out the right UX and give them an idea of eng complexity
+- For eng: Create standardized, shared UI components that can be used in all our apps.
+- Bring concepts from designers to life without detailed specifications.
+- Proactively raise our bar for quality by making crypto UX more approachable for everyday people
+- For design: Prototyping new and innovative interactions, help the design team figure out the right UX and give them an idea of eng complexity
+- For eng: Create standardized, shared UI components that can be used in all our apps.
+
+---REQUIREMENTS---
+- 6+ years of experience in front-end development, technical UX design, or prototyping.
+- Prior experience defining and contributing to design systems and design components that level up the entire design org
+- Visual design skills with proficiency in desktop and mobile UI, color, layout, and iconography
+- Experience using prototyping to demonstrate how flows and interactions will work.
+- Experience with JavaScript or TypeScript.
+- Experience with vector and motion graphics, including SVG, HTML5 Canvas, and animation using JavaScript and CSS (e.g., Framer motion, GreenSock, d3, ProcessingJS, and Web Animation API).
+- Familiarity with design tools like Figma or Sketch.
+- Stays up to date with React and Swift happenings + new UI/animation libraries that are performant.
+- Nice to  Have
+- Love for Unicorns :)
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

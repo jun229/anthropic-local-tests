@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Frontend Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Create a unified component library for use across all Uniswap products
+- Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility
+- Know when to create abstractions vs. one-off features
+- Ensure that components are functional, elegant, performant, and mobile-friendly
+- Understand when and how to run UI tests
+
+---REQUIREMENTS---
+- At least 2-3 years of React experience
+- A deep understanding of the architecture of modern client-side React applications
+- Prior experience working with component libraries or design teams in user-facing applications
+- A desire to keep up with modern best practices in web development
+
+---NICE_TO_HAVES---
+- Prior experience creating a design system or component library
+- Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)
+- Familiarity with React Hooks
+- Experience with TypeScript in React
+- Degree in computer science
+
+===JD_END===

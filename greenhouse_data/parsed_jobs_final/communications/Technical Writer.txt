@@ -1,0 +1,26 @@
+===JD_START===
+TITLE: Technical Writer
+DEPARTMENT: Communications
+
+---INTRO---
+As a technical writer, you'll be working closely with the product development team to explain how Uniswap Protocol works at every level. There's some catchup we want to play in terms of our docs, as well as supporting new functionality on our existing roadmap.
+
+---RESPONSIBILITIES---
+- Work closely with the team to create and maintain a central docs site for the Uniswap Protocol - targeted at fast growing audience of external developers, traders and crypto curious visitors
+- Identify and write User Guides and Tutorials targeting popular user actions/flows on the site (like trading, adding liquidity, etc)
+- Monitor external channels (like Discord) where target audience of these docs may provide feedback
+
+---REQUIREMENTS---
+- 2+ years of experience working closely with engineers to document, understand and explain technical concepts
+- Excellent English writing skills (and please submit a link to a sample as part of your application)
+- Comfortable reading code (with some pointers when necessary) to parse out salient steps
+- Creative skills and usage of pictures, drawings, diagrams, animation, and charts that may increase understanding
+- Keen eye for honing in on the most important bits to explain a complex topic, without skipping the details
+
+---NICE_TO_HAVES---
+- Prior experience in crypto/finance industry
+- Prior experience as a writer, technical writer, community manager, developer evangelist/relations, etc.
+- Comfortable submitting changes via Github (website UI or otherwise)
+- Love for Unicorns :)
+
+===JD_END===

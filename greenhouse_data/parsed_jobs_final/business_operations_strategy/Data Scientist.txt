@@ -1,0 +1,32 @@
+===JD_START===
+TITLE: Data Scientist
+DEPARTMENT: Business Operations & Strategy
+
+---INTRO---
+We are seeking a Data Scientist who will work in a highly collaborative and cross-functional setting to empower data-driven decision-making at the company level. This Data Scientist will use analytical skills and machine learning to make better customer experiences. Specifically, they will use knowledge of causal inference and statistics to setup and evaluate experiments, advise the Uniswap Labs team on understanding the drivers of user engagement, and suggest product directions that could increase future engagement. While keeping a pulse on the product and company, they will predict future changes in business KPIs.
+
+---RESPONSIBILITIES---
+- Develop core metrics and create dashboards to track and measure business performance
+- Design, conduct and analyze experiments such as A/B tests to guide product decisions
+- Monitor competitor and broader market metrics, including other products and networks
+- Perform explorative data analyses and build models to distill insights from data and identify new strategic opportunities
+- Partner with Product, Research, Engineering and Leadership to inform, influence, support and execute strategy and product decisions
+- Design and analyze product experiments to guide product launches.
+- Collaborate with multiple subject matter experts to drive new data initiatives, automate business intelligence reporting, and establish best practices
+- Lead projects to completion
+
+---REQUIREMENTS---
+- Bachelors/Masters/Ph.D. in quantitative fields (CS, Stats, economics, etc) with 2+ years work experience
+- Experience with SQL and Python/R
+- Ability to analyze large data sets in order to quantify performance via metrics or KPIs
+- Strong communication skills and the ability to present insights to team members in other domains
+- Ability to prioritize in a highly dynamic start-up environment
+- An inquisitive mindset and ability to tackle challenges with limited guidance
+
+---NICE_TO_HAVES---
+- Experience in finance
+- Experience with blockchain data and analytics tools
+- Experience with DeFi/web3
+- Fondness for the color pink
+
+===JD_END===

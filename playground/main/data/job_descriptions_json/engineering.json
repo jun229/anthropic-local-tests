@@ -1,0 +1,3011 @@
+[
+  {
+    "job_id": "staff_react_native_engineer_wallet",
+    "title": "Staff React Native Engineer (Wallet)",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated engineer to help us build the next generation of financial products. This role’s primary focus will be on the Uniswap Wallet suite of products, which consists of mobile ...",
+      "responsibilities": [
+        "Work across client, server, architecture, and infrastructure that powers our wallet products",
+        "Take charge of driving strategic technical initiatives across engineering pods that impact the entire engineering organization",
+        "Play a leading technical role in multiple large, impactful projects",
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility and ensure that components are functional, elegant, and performant",
+        "Know when to create abstractions vs. one-off features",
+        "Provide mentorship and feedback to other engineers on the team through both code and design doc reviews"
+      ],
+      "requirements": [
+        "8+ years of software engineering experience",
+        "A deep understanding of the architecture of modern client-side React Native applications",
+        "Proven individual contributor or previously a Tech Lead with experience planning and leading end to end large projects with long-term impact on one or more systems or a team",
+        "Familiarity with the web3 frontend stack (e.g., ethers.js, web3.js, viem)",
+        "Experience with TypeScript",
+        "Experience working fullstack",
+        "A desire to keep up with modern best practices in web/mobile development"
+      ],
+      "nice_to_haves": [
+        "Experience in native mobile (e.g., Swift, Kotlin)",
+        "Experience with React Native for Web",
+        "Degree in computer science",
+        "Prior experience creating a design system or component library",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "React",
+        "TypeScript",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Staff React Native Engineer (Wallet).txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager_protocol",
+    "title": "Engineering Manager, Protocol",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager, Protocol_1.txt"
+    }
+  },
+  {
+    "job_id": "senior_backend_engineer_nft",
+    "title": "Senior Backend Engineer, NFT",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Build backend services to meet critical product and business needs.",
+        "Collaborate with engineers, designers, product managers to turn requirements into products.",
+        "Participate in discussions from the initial product ideas to launch.",
+        "Write high quality and well tested code, and review code from other team members."
+      ],
+      "requirements": [
+        "3+ years of software engineering experience",
+        "3+ years of experience across Golang, Rust, Typescript, or similar",
+        "Designed, built, and maintained a production system at scale",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns and NFTs",
+        "Minimum full-time salary of $180,000-$220,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "3+ years experience",
+        "Golang",
+        "Rust",
+        "Typescript"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Backend Engineer, NFT.txt"
+    }
+  },
+  {
+    "job_id": "security_engineer",
+    "title": "Security Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We’re looking for an Application Security Engineer to join Uniswap Labs. You’ll collaborate with engineers from many disciplines to design and implement secure and usable solutions, tooling, and detection mechanisms to protect Uniswap’s users and applications.",
+      "responsibilities": [
+        "Work with developers to improve the security of our products and services",
+        "Develop technical solutions to address security weaknesses and work with stakeholders to implement them",
+        "Own application security review as well as security guidance documentation",
+        "Build systems at scale to prevent classes of vulnerabilities",
+        "Assist with security incident response as needed"
+      ],
+      "requirements": [
+        "2+ years of experience in web security, mobile security, or cryptography",
+        "Demonstrated proficiency in software development",
+        "Excitement for user privacy and security",
+        "Expertise in authentication protocols",
+        "Expertise in embedded security and wireless protocols"
+      ],
+      "nice_to_haves": [
+        "Prior experience building in crypto/DeFi",
+        "Technical degree in Computer Science or related field",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $210,000-$230,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "2+ years experience",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Security Engineer.txt"
+    }
+  },
+  {
+    "job_id": "application_security_engineer",
+    "title": "Application Security Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We’re looking for an Application Security Engineer to join Uniswap Labs. You’ll collaborate with engineers from many disciplines to design and implement secure and usable solutions, tooling, and detection mechanisms to protect Uniswap’s users and applications.",
+      "responsibilities": [
+        "Work with developers to improve the security of our products and services",
+        "Develop technical solutions to address security weaknesses and work with stakeholders to implement them",
+        "Own application security review as well as security guidance documentation",
+        "Build systems at scale to prevent classes of vulnerabilities",
+        "Assist with security incident response as needed"
+      ],
+      "requirements": [
+        "2+ years of experience in web security, mobile security, or cryptography",
+        "Demonstrated proficiency in software development",
+        "Excitement for user privacy and security",
+        "Expertise in authentication protocols",
+        "Expertise in embedded security and wireless protocols"
+      ],
+      "nice_to_haves": [
+        "Prior experience building in crypto/DeFi",
+        "Technical degree in Computer Science or related field",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $210,000-$230,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "2+ years experience",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Application Security Engineer.txt"
+    }
+  },
+  {
+    "job_id": "swe_new_grad_2023",
+    "title": "SWE New Grad (2023)",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Work closely with product and design to rapidly iterate, experiment and launch products",
+        "Participate in discussions from the initial product ideas to launch",
+        "Own products end to end - including UI, backend, testing, etc"
+      ],
+      "requirements": [
+        "3+ years of experience across React, Redux, Node, Python, etc.",
+        "Experience building and maintaining a production system at scale",
+        "A deep understanding of the architecture of modern React applications and backends",
+        "Prior experience working closely with a designer to iterate on a product",
+        "A desire to keep up with modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Experience with TypeScript in React",
+        "Degree in computer science",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "3+ years experience",
+        "Python",
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/SWE New Grad (2023).txt"
+    }
+  },
+  {
+    "job_id": "software_engineer_new_grad",
+    "title": "Software Engineer, New Grad",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Work closely with design, product and rest of engineering to deliver production ready features",
+        "Own as much of the stack end to end as you demonstrate capacity for or deep dive into a specific area to become an expert"
+      ],
+      "requirements": [
+        "Genuine excitement to learn and contribute to DeFi and Uniswap",
+        "Experience (either personal projects or paid) with some of the DeFi/crypto tools",
+        "Experience with one of React/Redux, Node, TypeScript, Python, or Solidity"
+      ],
+      "nice_to_haves": [
+        "2+ summers of relevant internship experience",
+        "Studying towards a degree in Computer Science or related-field",
+        "Past internship at a well-respected engineering organization",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "Python",
+        "React",
+        "TypeScript",
+        "design",
+        "rest"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Software Engineer, New Grad.txt"
+    }
+  },
+  {
+    "job_id": "staff_frontend_engineer",
+    "title": "Staff Frontend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated engineer to help us build the next generation of financial products. As a dedicated frontend hire, you will gain ownership over our existing suite of web products, as we...",
+      "responsibilities": [
+        "Work across client, server, architecture, and infrastructure that powers all of our web products. This includes the Uniswap web app, UniswapX, etc",
+        "Take charge of driving strategic technical initiatives across engineering pods that impact the entire engineering organization.",
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility and ensure that components are functional, elegant, performant, and mobile-friendly",
+        "Know when to create abstractions vs. one-off features",
+        "Provide mentorship and feedback to other engineers on the team through both code and design doc reviews"
+      ],
+      "requirements": [
+        "8+ years of software engineering experience",
+        "A deep understanding of the architecture of modern client-side React applications",
+        "Prior experience creating a design system or component library",
+        "Proven individual contributor or previously a Tech Lead with experience planning and leading end to end large projects with long-term impact on one or more systems or a team.",
+        "Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)",
+        "A desire to keep up with modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Experience with TypeScript in React",
+        "Degree in computer science",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $240,000-$267,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility)."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Staff Frontend Engineer.txt"
+    }
+  },
+  {
+    "job_id": "developer_relations_lead",
+    "title": "Developer Relations Lead",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We’re looking for great engineers and storytellers to build the platforms, communities and experiences that get the next 1 million developers building on the Uniswap Protocol. As our the Developer Relations Lead, you’ll lay the foundation for this vision, building development tools and platforms, establishing strong relationships with the developer community and translating their needs into products that create the best Developer Experience in Web3. If you’re passionate about growing the Web3/crypto community, building world class developer experiences, trying out new technologies and sharing what you’ve learned, we’d love to chat!",
+      "responsibilities": [
+        "Champion the Uniswap Protocol by building next generation developer tools, high-quality sample applications, demos, technical documentation, tutorials and being an engineering thought leader in the community",
+        "Drive adoption of the Uniswap developer products to grow the ecosystem of DeFi apps, integrations, and services built on top of the Uniswap Protocol",
+        "Identify opportunities to engage with developers and grow our community in-person and online, from speaking at conferences to hosting office hours on Twitter or Discord",
+        "Raise the bar for our documentation by working alongside engineers, product managers, and technical writers"
+      ],
+      "requirements": [
+        "You're a creative engineer who enjoys working on a large set of technologies, from writing React components to smart contracts in Solidity",
+        "Have a passion for building delightful developer experiences and vibrant developer communities",
+        "Strong communication skills, and the ability to convey complex topics simply to a large developer audience",
+        "Passionate about Ethereum, DeFi, and Web3/crypto"
+      ],
+      "nice_to_haves": [
+        "Prior experience creating a Developer Relations program, writing technical articles, and building open source software",
+        "Experience with Ethereum/Solidity or other blockchains",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $160,000-$200,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "React"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Developer Relations Lead.txt"
+    }
+  },
+  {
+    "job_id": "software_engineer",
+    "title": "Software Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Work closely with product and design to rapidly iterate, experiment and launch products",
+        "Participate in discussions from the initial product ideas to launch",
+        "Own products end to end - including UI, backend, testing, etc"
+      ],
+      "requirements": [
+        "3+ years of experience across React, Redux, Node, Python, etc.",
+        "Experience building and maintaining a production system at scale",
+        "A deep understanding of the architecture of modern React applications and backends",
+        "Prior experience working closely with a designer to iterate on a product",
+        "A desire to keep up with modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Experience with TypeScript in React",
+        "Degree in computer science",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "3+ years experience",
+        "Python",
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Software Engineer.txt"
+    }
+  },
+  {
+    "job_id": "smart_contract_engineer",
+    "title": "Smart Contract Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are looking for a junior smart contract engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for implementing and designing smart contracts for the next generation of the mos...",
+      "responsibilities": [
+        "Contribute to the Uniswap protocol by designing and implementing smart contracts",
+        "Research, apply, and invent new smart contract paradigms",
+        "Design and implement peripheral mechanisms to the Uniswap protocol",
+        "Research and contribute to Ethereum Improvement Proposals (EIPs)",
+        "Participate in discussions from the initial product ideas to launch",
+        "Build and maintain low level backend services that interact with the Uniswap Protocol."
+      ],
+      "requirements": [
+        "1+ years of experience building and releasing production-grade Solidity contracts",
+        "1+ years of experience working on blockchains, consensus algorithms, p2p, or applied cryptography",
+        "Deep knowledge of Ethereum, the EVM, and broad understanding of the Ethereum roadmap",
+        "Strong understanding of different blockchain designs, their tradeoffs, and the cryptography underpinning blockchains",
+        "Strong computer science fundamentals"
+      ],
+      "nice_to_haves": [
+        "Experience in Go, Rust, or a similar language",
+        "Degree in math or computer science",
+        "Experience implementing complex math in Solidity",
+        "Love for unicorns :)",
+        "Experience with cloud infrastructure, networking or orchestration with AWS (e.g. Docker, ECS, CDK, DynamoDB)"
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "1+ years experience",
+        "Design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Smart Contract Engineer_1.txt"
+    }
+  },
+  {
+    "job_id": "software_engineer_intern",
+    "title": "Software Engineer Intern",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Work closely with design, product and rest of engineering to deliver production ready features",
+        "Own as much of the stack end to end as you demonstrate capacity for or deep dive into a specific area to become an expert"
+      ],
+      "requirements": [
+        "Genuine excitement to learn and contribute to DeFi and Uniswap",
+        "Experience (either personal projects or paid) with some of the DeFi/crypto tools",
+        "Experience with one of React/Redux, Node, TypeScript, Python, or Solidity"
+      ],
+      "nice_to_haves": [
+        "2024 grad or 2+ summers of relevant internship experience",
+        "Studying towards a degree in Computer Science or related-field",
+        "Past internship at a well-respected engineering organization",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "Python",
+        "React",
+        "TypeScript",
+        "design",
+        "rest"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Software Engineer Intern_1.txt"
+    }
+  },
+  {
+    "job_id": "backend_engineer",
+    "title": "Backend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated Backend Engineer to help us build the next generation of financial products. We are headquartered in SoHo in New York City and this role has the option to be partially o...",
+      "responsibilities": [
+        "Build backend services to meet critical product and business needs.",
+        "Collaborate with engineers, designers, product managers to turn requirements into products.",
+        "Participate in discussions from the initial product ideas to launch.",
+        "Write high quality and well tested code, and review code from other team members."
+      ],
+      "requirements": [
+        "3+ years of software engineering experience",
+        "3+ years of experience across Golang, Typescript, or similar",
+        "Designed, built, and maintained a production system at scale",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)",
+        "Minimum full-time salary of $184,500-$205,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).",
+        "Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "3+ years experience",
+        "Golang",
+        "Typescript"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Backend Engineer.txt"
+    }
+  },
+  {
+    "job_id": "backend_engineer_data_platform",
+    "title": "Backend Engineer, Data Platform",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Design and build end-to-end data infrastructure to support ML products",
+        "Lead discussions with product and design to rapidly iterate, experiment and launch products",
+        "Design and build systems with an eye for performance & scalability",
+        "Own products end to end and work across the stack as needed, including backend, infrastructure, UI, testing, etc.",
+        "Mentor team members on engineering best practices and career development"
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "Experience building data infrastructure that supports production ML systems.",
+        "Experience building and maintaining a production system at scale",
+        "Experience with AWS, GCP or similar cloud providers",
+        "Deep understanding of the architecture of modern applications",
+        "Experience leading and aligning cross-functional stakeholders such as designers, engineers, and product managers to launch products",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services"
+      ],
+      "nice_to_haves": [
+        "Experience in machine learning applications such as recommendation systems, search, spam filtering, etc.",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "AWS",
+        "Design",
+        "GCP",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Backend Engineer, Data Platform.txt"
+    }
+  },
+  {
+    "job_id": "smart_contract_engineer",
+    "title": "Smart Contract Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are looking for a junior smart contract engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for implementing and designing smart contracts for the next generation of the mos...",
+      "responsibilities": [
+        "Contribute to the Uniswap protocol by designing and implementing smart contracts",
+        "Research, apply, and invent new smart contract paradigms",
+        "Design and implement peripheral mechanisms to the Uniswap protocol",
+        "Research and contribute to Ethereum Improvement Proposals (EIPs)",
+        "Participate in discussions from the initial product ideas to launch",
+        "Build and maintain low level backend services that interact with the Uniswap Protocol."
+      ],
+      "requirements": [
+        "1+ years of experience building and releasing production-grade Solidity contracts",
+        "1+ years of experience working on blockchains, consensus algorithms, p2p, or applied cryptography",
+        "Deep knowledge of Ethereum, the EVM, and broad understanding of the Ethereum roadmap",
+        "Strong understanding of different blockchain designs, their tradeoffs, and the cryptography underpinning blockchains",
+        "Strong computer science fundamentals"
+      ],
+      "nice_to_haves": [
+        "Experience in Go, Rust, or a similar language",
+        "Degree in math or computer science",
+        "Experience implementing complex math in Solidity",
+        "Love for unicorns :)",
+        "Experience with cloud infrastructure, networking or orchestration with AWS (e.g. Docker, ECS, CDK, DynamoDB)"
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "1+ years experience",
+        "Design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Smart Contract Engineer_2.txt"
+    }
+  },
+  {
+    "job_id": "general_-_security",
+    "title": "General - Security",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Insert description here",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/General - Security.txt"
+    }
+  },
+  {
+    "job_id": "software_engineer_intern",
+    "title": "Software Engineer Intern",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Hello future interns! We will be receiving applicants through January 15th. We'll review your resume and will be in touch if it's a good fit. Thanks for your interest and patience. We’re looking for an enthusiastic, self-motivated engineering intern to help us build the next generation of financial products. As an intern, you will get a chance to touch all parts of our stack and rapidly launch features along the way. You will be part of all the conversations from idea, design and execution. You will be responsible (with support from a mentor) for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals and more. Location and timing: The Software Engineering Internship will take place in New York City at our office in S...",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "analytics",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Software Engineer Intern_2.txt"
+    }
+  },
+  {
+    "job_id": "senior_mobile_engineer_react_native",
+    "title": "Senior Mobile Engineer (React Native)",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Work cross-functionally with designers, PMs, and other engineers to design & create high quality mobile products",
+        "Implement functional UI elements from design mocks, with an eye toward performance and accessibility",
+        "Know when to create abstractions vs. one-off features",
+        "Ensure product stability through testing and development best practices"
+      ],
+      "requirements": [
+        "5+ years of software development experience",
+        "Degree in CS, related field, or equivalent computer science knowledge",
+        "Passion for creating user-facing products that entail delightful user experience",
+        "Experience in native iOS or React Native"
+      ],
+      "nice_to_haves": [
+        "Familiarity with the Web3/crypto ecosystem (smart contracts, Ethereum architecture, etc.)",
+        "Love for unicorns 🦄",
+        "Tech stack:",
+        "Base: React Native + TypeScript",
+        "Web3: Ethers + TypeChain"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Mobile Engineer (React Native).txt"
+    }
+  },
+  {
+    "job_id": "vp_engineering",
+    "title": "VP Engineering",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/VP Engineering.txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager",
+    "title": "Engineering Manager",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager.txt"
+    }
+  },
+  {
+    "job_id": "frontend_engineer",
+    "title": "Frontend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Protocol is the largest decentralized trading and automated market making protocol (often called a DEX, “Decentralized Exchange”) on Ethereum. The Uniswap Labs team was a major contributor to the Uniswap Protocol and now focuses on building a suite of products to support the Uniswap Labs ecosystem. Our team is one of the most impactful in crypto. We are headquartered in SoHo in New York City with the option to be partially or fully remote depending on the position.",
+      "responsibilities": [
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility",
+        "Know when to create abstractions vs. one-off features",
+        "Ensure that components are functional, elegant, performant, and mobile-friendly",
+        "Understand when and how to run UI tests"
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "At least 3 years of React experience",
+        "A deep understanding of the architecture of modern client-side React applications",
+        "Prior experience working with component libraries or design teams in user-facing applications",
+        "A desire to keep up with modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Prior experience creating a design system or component library",
+        "Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)",
+        "Familiarity with React Hooks",
+        "Experience with TypeScript in React",
+        "Degree in computer science"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Frontend Engineer_3.txt"
+    }
+  },
+  {
+    "job_id": "smart_contract_engineer",
+    "title": "Smart Contract Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Smart Contract Engineer.txt"
+    }
+  },
+  {
+    "job_id": "staff_smart_contract_engineer",
+    "title": "Staff Smart Contract Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We are looking for an experienced smart contract engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for implementing and designing smart contracts for the next generation of the most popular decentralized trading protocol on Ethereum.",
+      "responsibilities": [
+        "Contribute to the Uniswap protocol by designing and implement smart contracts",
+        "Research, apply, and invent new smart contract paradigms",
+        "Design and implement peripheral mechanisms to the Uniswap protocol"
+      ],
+      "requirements": [
+        "4+ years of experience building and releasing production grade Solidity contracts",
+        "A deep understanding of the Ethereum Virtual Machine",
+        "Prior experience deploying complex smart contract systems to the Ethereum mainnet"
+      ],
+      "nice_to_haves": [
+        "Degree in math or computer science",
+        "Experience implementing complex math in Solidity",
+        "Experience with React, Redux and other frontend technologies",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $210,000-$240,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "4+ years experience",
+        "Design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Staff Smart Contract Engineer.txt"
+    }
+  },
+  {
+    "job_id": "principal_software_engineer",
+    "title": "Principal Software Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Lead discussions with product and design to rapidly iterate, experiment and launch products",
+        "Design and build systems with an eye for performance & scalability",
+        "Own products end to end and work across the stack as needed, including backend, infrastructure, UI, testing, etc.",
+        "Mentor team members on engineering best practices and career development"
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "3+ years of experience across Java/Scala, Typescript, or similar",
+        "Experience building and maintaining a production system at scale",
+        "Experience with building, deploying, and operating services on AWS. Experience in identity management/authentication in AWS.",
+        "Experience working with Information Security in building secure services.",
+        "Deep understanding of the architecture of modern applications",
+        "Experience leading and aligning cross-functional stakeholders such as designers, engineers, and product managers to launch products",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "3+ years experience",
+        "AWS",
+        "Design",
+        "Java",
+        "Typescript",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Principal Software Engineer.txt"
+    }
+  },
+  {
+    "job_id": "frontend_engineer",
+    "title": "Frontend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility",
+        "Know when to create abstractions vs. one-off features",
+        "Ensure that components are functional, elegant, performant, and mobile-friendly",
+        "Understand when and how to run UI tests"
+      ],
+      "requirements": [
+        "10+ years of software engineering experience",
+        "At least 5 years of React experience",
+        "A deep understanding of the architecture of modern client-side React applications",
+        "Experience mentoring senior engineers and leading teams toward the most impactful work",
+        "Expert in modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Prior experience creating a design system or component library",
+        "Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)",
+        "Degree in computer science",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $220,000-$240,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Frontend Engineer_2.txt"
+    }
+  },
+  {
+    "job_id": "senior_staff_software_engineer",
+    "title": "Senior Staff Software Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Write high quality and well tested code, and review code from other team members.",
+        "Collaborate with engineers, designers, and product managers to turn requirements into products and lead the execution end to end.",
+        "Provide guidance and technical leadership to peers in navigating architectural and coding tradeoffs.",
+        "Take charge of driving strategic technical initiatives across engineering pods that impact the entire engineering organization."
+      ],
+      "requirements": [
+        "6+ years of software engineering experience",
+        "Excellent coding skills, deep understanding of cloud architectures, algorithms, and strong debugging capabilities.",
+        "Consistently manage projects comprehensively, starting from gathering requirements and designing, to debugging and testing, and finally to release management and operational monitoring.",
+        "Design, build, and maintain a large-scale production system on the cloud, ensuring smooth operation and high availability.",
+        "Be able to build systems from the ground up, on a 0→1 fashion.",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services.",
+        "Mentored junior engineers"
+      ],
+      "nice_to_haves": [
+        "Has previously been a Technical Lead",
+        "Prior experience with time-series based monitoring / observability systems",
+        "Degree in computer science",
+        "Experience with Typescript",
+        "Experience with AWS"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "Design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Staff Software Engineer.txt"
+    }
+  },
+  {
+    "job_id": "infrastructure_security_engineer",
+    "title": "Infrastructure Security Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are seeking a highly skilled and experienced Staff Application Security Engineer to take on a technical leadership role within our organization. You will be responsible for driving the security of our applications, m...",
+      "responsibilities": [
+        "Lead the application security team, setting technical direction and priorities.",
+        "Mentor and guide junior security engineers, fostering a culture of continuous learning and improvement.",
+        "Conduct regular code reviews and security audits to ensure high standards of security practices are maintained.",
+        "Design, implement, and maintain security measures for our software applications to protect against threats and vulnerabilities.",
+        "Understand browser based attack vectors as well as android and iOS attack vectors",
+        "Understand cryptographic primitive and their security applications",
+        "Perform threat modeling, security code reviews, and vulnerability assessments.",
+        "Develop and maintain secure coding guidelines and best practices for developers.",
+        "Work closely with development teams to integrate security into the software development lifecycle (SDLC).",
+        "Lead incident response efforts for application security incidents, including investigation, mitigation, and post-incident analysis."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.",
+        "7+ years of experience in application security or related fields, with at least 3 years in a leadership or senior technical role.",
+        "Deep understanding of application security principles, practices, and technologies.",
+        "Experience with security testing tools and methodologies (e.g., static and dynamic analysis, penetration testing).",
+        "Proficiency in programming and scripting languages (e.g., Java, Python, JavaScript).",
+        "Strong knowledge of web application security standards (e.g., OWASP Top Ten, SANS/CWE Top 25).",
+        "Experience with cloud security (AWS, Azure, GCP) and container security (Docker, Kubernetes).",
+        "Excellent problem-solving skills and the ability to work under pressure in a fast-paced environment.",
+        "Strong communication and interpersonal skills, with the ability to influence and lead teams.",
+        "Relevant certifications such as CISSP, CEH, OSCP, or CSSLP."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "7+ years experience",
+        "AWS",
+        "Azure",
+        "Design",
+        "Docker",
+        "GCP",
+        "Java",
+        "JavaScript",
+        "Kubernetes",
+        "Python"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Infrastructure Security Engineer.txt"
+    }
+  },
+  {
+    "job_id": "engineering_job_template",
+    "title": "Engineering Job Template",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Job Template.txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager_nft",
+    "title": "Engineering Manager, NFT",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We’re looking for an engineering manager to lead our NFT engineering org at Uniswap Labs. This is an exciting opportunity to influence our NFT roadmap and own a full-stack team of talented engineers.",
+      "responsibilities": [
+        "Directly manage individual contributor engineers",
+        "Ensure the engineering team is able to deliver quality projects at a fast pace",
+        "Provide career growth advice and performance feedback",
+        "Focus on improving team processes",
+        "Recruit and hire new engineers to the team",
+        "Collaborate with product and design to deliver a roadmap"
+      ],
+      "requirements": [
+        "2+ years of management experience growing & managing a team of engineers",
+        "Previous experience in consumer products and/or technologies",
+        "High emotional intelligence",
+        "Technical knowledge to discuss issues, approaches, and solutions in depth",
+        "Knowledge and passion for software engineering best practices",
+        "Interest in crypto/NFTs"
+      ],
+      "nice_to_haves": [
+        "Experience in the Web3/crypto space",
+        "Willingness to work out of our NYC office regularly",
+        "Understanding of blockchain architecture",
+        "Minimum full-time salary of $215,000-$245,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager, NFT.txt"
+    }
+  },
+  {
+    "job_id": "senior_data_engineer",
+    "title": "Senior Data Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol and Uniswap Platform. The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. About the role We are seeking a highly skilled and experienced Senior Data Analytics Engineer to join our dynamic data engineering team. The ideal candidate will be responsible for designing, impleme...",
+      "responsibilities": [
+        "Design, develop, and maintain scalable data pipelines to collect, process, and store large volumes of structured and unstructured data.",
+        "Implement data integration solutions to consolidate data from various sources, ensuring data quality and integrity.",
+        "Optimize data storage and retrieval processes for performance and scalability.",
+        "Develop and maintain data models, dashboards, and reports to support business analytics and decision-making.",
+        "Collaborate with data scientists, analysts, and other stakeholders to understand their data needs and provide robust solutions.",
+        "Conduct exploratory data analysis to discover trends, patterns, and insights that drive business strategy.",
+        "Implement data validation and monitoring processes to ensure data accuracy and consistency.",
+        "Establish and enforce data governance policies and best practices.",
+        "Conduct regular audits and data quality assessments to identify and resolve data issues.",
+        "Work closely with cross-functional teams, including product, engineering, and business teams, to understand data requirements and deliver solutions that meet business needs."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Engineering, Statistics, or a related field.",
+        "5+ years of experience in data engineering, data analytics, or a related field.",
+        "Strong proficiency in SQL and experience with relational databases (e.g., PostgreSQL, MySQL).",
+        "Experience with big data technologies (e.g., Hadoop, Spark) and data warehousing solutions (e.g., BigQuery, Snowflake).",
+        "Proficiency in programming languages such as Python or Scala.",
+        "Experience with data visualization tools (e.g., Tableau, Power BI, Looker).",
+        "Strong understanding of ETL processes, data modeling, and data warehousing concepts.",
+        "Excellent problem-solving skills and attention to detail.",
+        "Strong communication and interpersonal skills, with the ability to work effectively in a collaborative environment.",
+        "Experience with cloud data platforms (e.g., AWS, GCP, Azure)."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience",
+        "AWS",
+        "Analytics",
+        "Azure",
+        "Design",
+        "GCP",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "analytics",
+        "strategy"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Data Engineer_1.txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager-_protocol",
+    "title": "Engineering Manager- Protocol",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of the team reshaping how value flows on the internet. As Engineering Manager for the Protocols team, you’ll guide the engineers who design, build, and harden the smart-contract systems that power Uniswap V4, UniswapX and beyond.",
+      "responsibilities": [
+        "People Leadership: Hire, coach, and grow a diverse team of world-class smart-contract engineers while fostering a security-first, inclusive, high-performance culture. Provide clear growth paths, feedback, and mentorship.",
+        "Technical Direction: Own the architecture and roadmap for Uniswap’s Solidity-based protocol (hooks, cross-chain deployments, governance upgrades) and champion best practices in gas optimization, modular design, and upgrade-safe patterns.",
+        "Security & Audits: Drive a rigorous SDLC that includes threat modeling, formal verification, fuzzing, and multiple external audit loops. Coordinate with leading audit firms and run our internal red-team / bug-bounty triage.",
+        "Project Execution: Translate product and research goals into executable engineering plans, then prioritize and track work to hit aggressive but realistic milestones across multiple chains.",
+        "Cross-functional Collaboration: Partner with Product, Legal, Security, Design, and Community teams to ship features that delight users while protecting billions in TVL."
+      ],
+      "requirements": [
+        "8+ years total software engineering experience, including 3+ years building production EVM smart-contract systems in Solidity (or low-level languages like Huff/Yul) and 2+ years managing engineers.",
+        "Proven track record shipping contracts that have held significant TVL and zero critical exploits.",
+        "Deep knowledge of the EVM and DeFi mechanics (AMMs, oracles, bridges).",
+        "Hands-on experience leading smart contract security efforts including external security audits, formal verification, static analysis etc.",
+        "Excellent written and verbal communication skills; able to explain complex protocol trade-offs to both engineers and non-technical stakeholders.",
+        "B.S./M.S. in Computer Science, Engineering, or equivalent real-world experience.",
+        "Contributions to open-source DeFi protocols or Ethereum Improvement Proposals.",
+        "Familiarity with L2s, cross-chain messaging, account abstraction (ERC-4337), or zero-knowledge proofs.",
+        "Experience with Foundry, Hardhat, Slither, Echidna, Certora, MythX, or similar tooling.",
+        "Minimum full-time salary of $360,000- $390,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "API",
+        "Design",
+        "Legal",
+        "design"
+      ],
+      "salary_range": "$360,000- $390,000",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager- Protocol.txt"
+    }
+  },
+  {
+    "job_id": "frontend_engineer",
+    "title": "Frontend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Frontend Engineer_1.txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager",
+    "title": "Engineering Manager",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager_1.txt"
+    }
+  },
+  {
+    "job_id": "senior_frontend_engineer",
+    "title": "Senior Frontend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Frontend Engineer_1.txt"
+    }
+  },
+  {
+    "job_id": "senior_site_reliability_engineer_sre",
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. As a Senior Site Reliability Engineer, you will play a critical role in architecting, building, and maintaining our infrastructure. You’ll lead initiatives to improve the reliability and scalability of our services, working cross-functionally with development, product, and security teams to ensure our systems are r...",
+      "responsibilities": [
+        "Design, implement, and maintain systems and processes that enhance the reliability, availability, and performance of our services.",
+        "Design, implement and maintain CICD tools and processes to increase reliability",
+        "Design, implement and maintain cloud constructs to increase reliability",
+        "Develop and manage monitoring, alerting, and incident response strategies to minimize downtime and ensure rapid recovery from incidents.",
+        "Conduct root cause analysis of system failures and implement preventative measures.",
+        "Optimize system performance and automate repetitive tasks to improve operational efficiency..",
+        "Work closely with software engineering, infrastructure, and product teams to integrate reliability practices into the development lifecycle.",
+        "Advocate for SRE best practices and foster a culture of reliability and operational excellence across the organization.",
+        "Communicate effectively with stakeholders, providing regular updates on reliability metrics, incidents, and improvement initiatives.",
+        "Stay abreast of the latest industry trends and technologies in SRE, reliability, and performance."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.",
+        "5+ years of experience in site reliability engineering, DevOps, or a related field",
+        "Strong understanding of reliability engineering principles, practices, and tools.",
+        "Proficiency in monitoring and alerting tools (e.g., Prometheus, Grafana, Nagios).",
+        "Experience with cloud platforms (AWS, Azure, GCP) and container orchestration systems (Kubernetes, Docker).",
+        "Proficiency in scripting and automation tools, such as Python, Bash, Ansible, or Terraform.",
+        "Excellent problem-solving skills and the ability to work under pressure in a fast-paced environment.",
+        "Strong communication and interpersonal skills, with the ability to influence and lead teams.",
+        "Experience with continuous integration and continuous deployment (CI/CD) practices and tools.",
+        "Knowledge of configuration management tools (e.g., Puppet, Chef)."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience",
+        "API",
+        "AWS",
+        "Azure",
+        "Design",
+        "Docker",
+        "GCP",
+        "Kubernetes",
+        "Python"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Site Reliability Engineer (SRE).txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager_data",
+    "title": "Engineering Manager, Data",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We’re looking for an engineering manager to build and run a new data platform for Uniswap Labs. This data platform will serve as the backbone of our user experiences and serve as the foundation for new innovative web3 data products in the future. Our ideal candidate would have experience in data streaming, machine learning, and building great data products.",
+      "responsibilities": [
+        "Directly manage individual contributor engineers",
+        "Ensure the engineering team is able to deliver quality projects at a fast pace",
+        "Provide career growth advice and performance feedback",
+        "Focus on improving team processes",
+        "Recruit and hire new engineers to the team",
+        "Collaborate with product and design to deliver a roadmap"
+      ],
+      "requirements": [
+        "2+ years of management experience growing & managing a team of engineers",
+        "Previous experience in Data technologies",
+        "High emotional intelligence",
+        "Technical knowledge to discuss issues, approaches, and solutions in depth",
+        "Knowledge and passion for software engineering best practices",
+        "Interest in crypto"
+      ],
+      "nice_to_haves": [
+        "Experience in the Web3/crypto space",
+        "Willingness to work out of our NYC office regularly",
+        "Understanding of blockchain architecture",
+        "Minimum full-time salary of $215,000-$245,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "design",
+        "machine learning"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager, Data.txt"
+    }
+  },
+  {
+    "job_id": "full-stack_engineer_developer_platform",
+    "title": "Full-Stack Engineer, Developer Platform",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We see the Uniswap Protocol as the rails that a more equitable financial system will be run on. We are looking for a creative full stack engineer to help us create the tools and experiences that allow the next 1M developers build on top of the protocol towards that vision. In this role you’ll be responsible for architecting and implementing a sustainable, consistent, and high-quality developer experience through improved documentation platforms, APIs, SDKs and smart contracts. A great candidate is passionate about building delightful developer experiences, has experience developing across the modern web stack and can autonomously structure a project from the ground up with modern best practices and appropriate abstractions.",
+      "responsibilities": [
+        "Build and improve the tools and systems that enable first and third party developers to build on the Uniswap Protocol",
+        "Raise the bar for product quality while ensuring the developer tools continue to grow in scope with the evolutions of the Uniswap Protocol",
+        "Work closely with product and design to rapidly iterate, experiment and launch products"
+      ],
+      "requirements": [
+        "3+ years of experience building and maintaining a production system at scale",
+        "A deep understanding of the architecture of modern React applications and backends",
+        "Enjoy working across the stack, from frontend to backend, to solve complex challenges and delight our users",
+        "Interest in building developer tools and platforms",
+        "A desire to keep up with modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Passion for web3/crypto",
+        "Experience building developer tools and platforms",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "3+ years experience",
+        "React",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Full-Stack Engineer, Developer Platform.txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager_protocol",
+    "title": "Engineering Manager, Protocol",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Directly manage individual contributor engineers",
+        "Ensure the engineering team is able to deliver quality projects at a fast pace",
+        "Provide career growth advice and performance feedback",
+        "Focus on improving team processes",
+        "Recruit and hire new engineers to the team",
+        "Collaborate with product and design to deliver a roadmap"
+      ],
+      "requirements": [
+        "Experience growing and managing a deeply technical team of engineers",
+        "High emotional intelligence",
+        "Technical knowledge to discuss issues, approaches, and solutions in depth",
+        "Knowledge and passion for software engineering best practices",
+        "Interest in crypto and basic Solidity exposure"
+      ],
+      "nice_to_haves": [
+        "Full-time experience in the Web3/crypto space",
+        "Willingness to work out of our NYC office regularly",
+        "Understanding of blockchain architecture",
+        "Previous experience with common dev tools in the space - Solidity, Ethers, etc"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager, Protocol.txt"
+    }
+  },
+  {
+    "job_id": "senior_frontend_engineer",
+    "title": "Senior Frontend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet.",
+      "responsibilities": [
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility",
+        "Know when to create abstractions vs. one-off features",
+        "Ensure that components are functional, elegant, performant, and mobile-friendly",
+        "Understand when and how to run UI tests"
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "At least 3 years of React experience",
+        "A deep understanding of the architecture of modern client-side React applications",
+        "Prior experience working with component libraries or design teams in user-facing applications",
+        "A desire to keep up with modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Prior experience creating a design system or component library",
+        "Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)",
+        "Familiarity with React Hooks",
+        "Experience with TypeScript in React",
+        "Degree in computer science"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Frontend Engineer_2.txt"
+    }
+  },
+  {
+    "job_id": "staff_backend_engineer",
+    "title": "Staff Backend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet.",
+      "responsibilities": [
+        "Drive end to end execution of technical projects, from ideation and design to deployment.",
+        "Design and build resilient, large-scale systems from the ground up with a focus on reliability, scalability, and performance.",
+        "Write high quality and well tested code, and review code from other team members.",
+        "Provide thought leadership and guide peers in navigating complex architectural and coding decisions.",
+        "Champion best practices and technical excellence across the engineering organization.",
+        "Spearhead strategic technical initiatives that impact multiple engineering pods and deliver organization-wide improvements.",
+        "10+ years of hands-on experience building and maintaining large-scale, production-level systems.",
+        "Experience as a Technical Lead or in a similar leadership capacity.",
+        "Exceptional coding skills, with expertise in cloud architecture, distributed systems, and algorithms.",
+        "Proven ability to independently lead projects, including requirement gathering, system design, implementation, testing, and deployment."
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Prior work with time-series based monitoring and observability systems.",
+        "Knowledge of TypeScript, Go, GraphQL, and AWS",
+        "A degree in Computer Science or a related field.",
+        "A love for unicorns",
+        "Minimum full-time salary of $240,000-$270,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "API",
+        "Design",
+        "design"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Staff Backend Engineer.txt"
+    }
+  },
+  {
+    "job_id": "senior_frontend_engineer",
+    "title": "Senior Frontend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility",
+        "Know when to create abstractions vs. one-off features",
+        "Ensure that components are functional, elegant, performant, and mobile-friendly",
+        "Understand when and how to run UI tests"
+      ],
+      "requirements": [
+        "10+ years of software engineering experience",
+        "At least 5 years of React experience",
+        "A deep understanding of the architecture of modern client-side React applications",
+        "Experience mentoring senior engineers and leading teams toward the most impactful work",
+        "Expert in modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Prior experience creating a design system or component library",
+        "Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)",
+        "Degree in computer science",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $220,000-$240,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Frontend Engineer.txt"
+    }
+  },
+  {
+    "job_id": "senior_frontend_engineer",
+    "title": "Senior Frontend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated frontend engineer to help us build the next generation of financial products. As a dedicated frontend hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. Y...",
+      "responsibilities": [
+        "Consistently produce high quality code and well thought out architecture docs",
+        "Manage large, impactful projects staffed with several engineers with minimal day-to-day assistance from more senior engineers or managers",
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility and ensure that components are functional, elegant, and performant",
+        "Know when to create abstractions vs. one-off features"
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "A deep understanding of the architecture of modern client-side React/React Native applications",
+        "Prior experience creating a design system or component library",
+        "Familiarity with the crypto features and concepts",
+        "A desire to keep up with modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Experience with Swift/Kotlin",
+        "Experience with onboarding or growth teams",
+        "Degree in computer science",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $209,093-$232,325. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "API",
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Frontend Engineer_3.txt"
+    }
+  },
+  {
+    "job_id": "frontend_engineer",
+    "title": "Frontend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Create a unified component library for use across all Uniswap products",
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility",
+        "Know when to create abstractions vs. one-off features",
+        "Ensure that components are functional, elegant, performant, and mobile-friendly",
+        "Understand when and how to run UI tests"
+      ],
+      "requirements": [
+        "At least 2-3 years of React experience",
+        "A deep understanding of the architecture of modern client-side React applications",
+        "Prior experience working with component libraries or design teams in user-facing applications",
+        "A desire to keep up with modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Prior experience creating a design system or component library",
+        "Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)",
+        "Familiarity with React Hooks",
+        "Experience with TypeScript in React",
+        "Degree in computer science"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Frontend Engineer.txt"
+    }
+  },
+  {
+    "job_id": "senior_backend_engineer",
+    "title": "Senior Backend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Build backend services to meet critical product and business needs.",
+        "Collaborate with engineers, designers, product managers to turn requirements into products.",
+        "Participate in discussions from the initial product ideas to launch.",
+        "Own products end to end",
+        "Write high quality and well tested code, and review code from other team members."
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "5+ years of experience across Golang, Rust, Typescript, or similar",
+        "Designed, built, and maintained a production system at scale",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services"
+      ],
+      "nice_to_haves": [
+        "Worked on large-scale distributed systems",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $180,000-$220,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience",
+        "Golang",
+        "Rust",
+        "Typescript"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Backend Engineer.txt"
+    }
+  },
+  {
+    "job_id": "senior_software_engineer_protocols",
+    "title": "Senior Software Engineer, Protocols",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are looking for an experienced engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for designing and implementing systems and protocols that build upon the Ethereum blockcha...",
+      "responsibilities": [
+        "Build and maintain low level backend services that interact with the Uniswap Protocol",
+        "Research and contribute to Ethereum Improvement Proposals (EIPs)",
+        "Participate in discussions from the initial product ideas to launch"
+      ],
+      "requirements": [
+        "3+ years of experience working on blockchains, consensus algorithms, p2p, or applied cryptography",
+        "Deep knowledge of Ethereum and the EVM",
+        "Broad understanding of the Ethereum roadmap",
+        "Strong Understanding of different blockchain designs, their tradeoffs, and the cryptography underpinning blockchains",
+        "Strong understanding of distributed systems and computer science fundamentals",
+        "Fluency in Go, Rust, or a similar language"
+      ],
+      "nice_to_haves": [
+        "Experience writing smart contracts",
+        "Experience with cloud infrastructure, networking or orchestration with AWS (e.g. Docker, ECS, CDK, DynamoDB)",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $210,000-$232,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility)."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "3+ years experience",
+        "Go",
+        "Rust"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Software Engineer, Protocols.txt"
+    }
+  },
+  {
+    "job_id": "senior_backend_engineer",
+    "title": "Senior Backend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Build backend services to meet critical product and business needs.",
+        "Collaborate with engineers, designers, product managers to turn requirements into products.",
+        "Participate in discussions from the initial product ideas to launch.",
+        "Own products end to end",
+        "Write high quality and well tested code, and review code from other team members."
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "5+ years of experience across Golang, Rust, Typescript, or similar",
+        "Designed, built, and maintained a production system at scale",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services"
+      ],
+      "nice_to_haves": [
+        "Worked on large-scale distributed systems",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $180,000-$220,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience",
+        "Golang",
+        "Rust",
+        "Typescript"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Backend Engineer_1.txt"
+    }
+  },
+  {
+    "job_id": "senior_qa_engineer",
+    "title": "Senior QA Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap website and mobile wallet has been used by millions of people to exchange value across digital assets and access the broader web3 ecosystem. We are seeking a detail-oriented, collaborative QA Engineer. As our first QA engineering hire, you will own and iterate on our manual and automated testing processes to enable us to continue quickly shipping high quality features and products.",
+      "responsibilities": [
+        "Shape a test-driven engineering culture that prioritizes creating high quality products.",
+        "Collaborate with Engineering to establish and evolve formal QA processes, ensuring that the team uses best practices.",
+        "Develop and execute test cases, plans, and procedures for web and mobile applications, spanning both frontend UI and backend services.",
+        "Reproduce issues and work with engineers and project leads to triaged and prioritize issues for resolution.",
+        "Perform stress and performance testing, and partner with Engineering to develop scalable and reliable automated testing frameworks."
+      ],
+      "requirements": [
+        "5+ years experience in Quality Assurance and/or Software development.",
+        "Excellent written and verbal communication skills.",
+        "Proven experience designing and executing on test plans.",
+        "Ability to collaborate with and guide engineering partners, and provide technical guidance to other team members.",
+        "Knowledge of application UI (React/React Native), API (Node JS) and BDD automation technologies + test management tools.",
+        "Strong knowledge in continuous testing and experience integrating automation scripts in CI/CD pipeline.",
+        "Experience troubleshooting issues and identifying the root cause, and writing easy-to-reproduce tickets in tools like Linear/JIRA."
+      ],
+      "nice_to_haves": [
+        "Love of unicorns and the color pink",
+        "Experience testing/building financial or crypto products",
+        "Minimum full-time salary of $145,000-$155,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience",
+        "API",
+        "React",
+        "UI"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior QA Engineer.txt"
+    }
+  },
+  {
+    "job_id": "senior_backend_engineer_trading_platform",
+    "title": "Senior Backend Engineer, Trading Platform",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Build backend services to meet critical product and business needs.",
+        "Design scalable systems to solve challenging problems with cloud technology.",
+        "Collaborate with engineers, designers, product managers to turn requirements into products.",
+        "Write high quality and well tested code, and review code from other team members",
+        "Mentor junior team members on engineering best practices."
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "3+ years of experience across Golang, Rust, Typescript, or similar",
+        "Designed, built, and maintained a production system at scale",
+        "Experience with building, deploying, and operating services on AWS from scratch.",
+        "Deep understanding of the architecture of modern applications",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services"
+      ],
+      "nice_to_haves": [
+        "Experiences with financial services or crypto trading systems.",
+        "Experiences with blockchain technology.",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $180,000-$220,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "3+ years experience",
+        "AWS",
+        "Design",
+        "Golang",
+        "Rust",
+        "Typescript"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Backend Engineer, Trading Platform.txt"
+    }
+  },
+  {
+    "job_id": "senior_smart_contract_engineer",
+    "title": "Senior Smart Contract Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are looking for an experienced smart contract engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for implementing and designing smart contracts for the next generation of the most popular decentralized trading protocol on Ethereum. We are headquartered in SoHo in New Y...",
+      "responsibilities": [
+        "Contribute to the Uniswap protocol by designing and implement smart contracts",
+        "Research, apply, and invent new smart contract paradigms",
+        "Design and implement peripheral mechanisms to the Uniswap protocol"
+      ],
+      "requirements": [
+        "4+ years of experience building and releasing production grade Solidity contracts",
+        "A deep understanding of the Ethereum Virtual Machine",
+        "Prior experience deploying complex smart contract systems to the Ethereum mainnet"
+      ],
+      "nice_to_haves": [
+        "Degree in math or computer science",
+        "Experience implementing complex math in Solidity",
+        "Experience with React, Redux and other frontend technologies",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $290,000-$325,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "4+ years experience",
+        "API",
+        "Design"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Smart Contract Engineer.txt"
+    }
+  },
+  {
+    "job_id": "data_engineer",
+    "title": "Data Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Lead discussions with product and design to rapidly iterate, experiment and launch products",
+        "Design and build systems with an eye for performance & scalability",
+        "Own products end to end and work across the stack as needed, including backend, infrastructure, UI, testing, etc.",
+        "Mentor team members on engineering best practices and career development"
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "Experience building and maintaining a production system at scale",
+        "Experience with AWS, GCP or similar cloud providers",
+        "Deep understanding of the architecture of modern applications",
+        "Experience leading and aligning cross-functional stakeholders such as designers, engineers, and product managers to launch products",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "AWS",
+        "Design",
+        "GCP",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Data Engineer.txt"
+    }
+  },
+  {
+    "job_id": "staff_software_engineer_protocols",
+    "title": "Staff Software Engineer, Protocols",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We are looking for an experienced engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for designing and implementing systems and protocols that build upon the Ethereum blockchain.",
+      "responsibilities": [
+        "Build and maintain low level backend services that interact with the Uniswap Protocol",
+        "Research and contribute to Ethereum Improvement Proposals (EIPs)",
+        "Participate in discussions from the initial product ideas to launch"
+      ],
+      "requirements": [
+        "3+ years of experience working on blockchains, consensus algorithms, p2p, or applied cryptography",
+        "Deep knowledge of Ethereum and the EVM",
+        "Broad understanding of the Ethereum roadmap",
+        "Strong Understanding of different blockchain designs, their tradeoffs, and the cryptography underpinning blockchains",
+        "Strong understanding of distributed systems and computer science fundamentals",
+        "Fluency in Go, Rust, or a similar language"
+      ],
+      "nice_to_haves": [
+        "Experience writing smart contracts",
+        "Experience with cloud infrastructure, networking or orchestration with AWS (e.g. Docker, ECS, CDK, DynamoDB)",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $210,000-$240,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "3+ years experience",
+        "Go",
+        "Rust"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Staff Software Engineer, Protocols.txt"
+    }
+  },
+  {
+    "job_id": "staff_application_security_engineer",
+    "title": "Staff Application Security Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are seeking a highly skilled and experienced Staff Application Security Engineer to take on a technical leadership role within our organization. You will be responsible for driving the security of our applications, m...",
+      "responsibilities": [
+        "Lead the application security team, setting technical direction and priorities.",
+        "Mentor and guide junior security engineers, fostering a culture of continuous learning and improvement.",
+        "Conduct regular code reviews and security audits to ensure high standards of security practices are maintained.",
+        "Design, implement, and maintain security measures for our software applications to protect against threats and vulnerabilities.",
+        "Understand browser based attack vectors as well as android and iOS attack vectors",
+        "Understand cryptographic primitive and their security applications",
+        "Perform threat modeling, security code reviews, and vulnerability assessments.",
+        "Develop and maintain secure coding guidelines and best practices for developers.",
+        "Work closely with development teams to integrate security into the software development lifecycle (SDLC).",
+        "Lead incident response efforts for application security incidents, including investigation, mitigation, and post-incident analysis."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.",
+        "7+ years of experience in application security or related fields, with at least 3 years in a leadership or senior technical role.",
+        "Deep understanding of application security principles, practices, and technologies.",
+        "Experience with security testing tools and methodologies (e.g., static and dynamic analysis, penetration testing).",
+        "Proficiency in programming and scripting languages (e.g., Java, Python, JavaScript).",
+        "Strong knowledge of web application security standards (e.g., OWASP Top Ten, SANS/CWE Top 25).",
+        "Experience with cloud security (AWS, Azure, GCP) and container security (Docker, Kubernetes).",
+        "Excellent problem-solving skills and the ability to work under pressure in a fast-paced environment.",
+        "Strong communication and interpersonal skills, with the ability to influence and lead teams.",
+        "Relevant certifications such as CISSP, CEH, OSCP, or CSSLP."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "7+ years experience",
+        "AWS",
+        "Azure",
+        "Design",
+        "Docker",
+        "GCP",
+        "Java",
+        "JavaScript",
+        "Kubernetes",
+        "Python"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Staff Application Security Engineer.txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager-_backend_data",
+    "title": "Engineering Manager- Backend (Data)",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for a highly skilled Engineering Manager to lead our Data and Software Engineering teams. In this role, you’ll drive the development of scalable software systems and ensure seamless integration of blockchain data into our products. Your leadership will help make our applications intuitive, high-perfor...",
+      "responsibilities": [
+        "Lead and Manage: Supervise, mentor, and grow a team of software engineers and data engineers, promoting an inclusive and high-performance culture",
+        "Technical Leadership: Drive the design, development, and delivery of scalable, maintainable software systems that integrate seamlessly with the Uniswap Protocol",
+        "Blockchain Data Integration: Oversee the extraction and transformation of blockchain and other data sources, ensuring quality and accuracy",
+        "Collaboration: Work closely with product, design, and engineering teams to define priorities, shape technical solutions, and deliver key features",
+        "Project Management: Plan, prioritize, and manage projects, ensuring timely and quality delivery of key features",
+        "Innovation and Scalability: Drive initiatives to optimize data retrieval and processing, enhancing the performance of our systems as data volumes grow."
+      ],
+      "requirements": [
+        "Experience: 3+ years in software engineering roles, with at least 2 years of engineering management experience",
+        "Technical Expertise: Strong experience in software development and familiarity with blockchain data structures and APIs",
+        "Leadership Skills: Proven ability to build and lead high-performing, collaborative engineering teams",
+        "Communication: Excellent communication skills, capable of articulating complex technical concepts to both technical and non-technical audiences",
+        "Education: Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field (or equivalent experience)",
+        "Experience working in a crypto focused company or startup environment",
+        "Familiarity with blockchain protocols and decentralized technologies",
+        "Proficiency with cloud-based data solutions (e.g., AWS, GCP)",
+        "Understanding of ETL processes and data pipeline development.",
+        "Passion for building cutting-edge, user-centric software products"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "API",
+        "AWS",
+        "GCP",
+        "design"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager- Backend (Data).txt"
+    }
+  },
+  {
+    "job_id": "senior_software_engineer_design_systems",
+    "title": "Senior Software Engineer, Design Systems",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Create a unified component library for use across all Uniswap products",
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility",
+        "Know when to create abstractions vs. one-off features",
+        "Ensure that components are functional, elegant, performant, and mobile-friendly",
+        "Understand when and how to run UI tests"
+      ],
+      "requirements": [
+        "6+ years of software engineering experience",
+        "At least 3 years of React experience",
+        "A deep understanding of the architecture of modern client-side React applications",
+        "Prior experience working with component libraries or design teams in user-facing applications",
+        "A desire to keep up with modern best practices in web development"
+      ],
+      "nice_to_haves": [
+        "Prior experience creating a design system or component library",
+        "Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)",
+        "Familiarity with React Hooks",
+        "Experience with TypeScript in React",
+        "Degree in computer science"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "React",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Software Engineer, Design Systems.txt"
+    }
+  },
+  {
+    "job_id": "senior_backend_engineer",
+    "title": "Senior Backend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Write high quality and well tested code, and review code from other team members.",
+        "Collaborate with engineers, designers, and product managers to turn requirements into products and lead the execution end to end.",
+        "Provide guidance and technical leadership to peers in navigating architectural and coding tradeoffs.",
+        "Take charge of driving strategic technical initiatives across engineering pods that impact the entire engineering organization."
+      ],
+      "requirements": [
+        "6+ years of software engineering experience",
+        "Excellent coding skills, deep understanding of cloud architectures, algorithms, and strong debugging capabilities.",
+        "Consistently manage projects comprehensively, starting from gathering requirements and designing, to debugging and testing, and finally to release management and operational monitoring.",
+        "Design, build, and maintain a large-scale production system on the cloud, ensuring smooth operation and high availability.",
+        "Be able to build systems from the ground up, on a 0→1 fashion.",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services.",
+        "Mentored junior engineers"
+      ],
+      "nice_to_haves": [
+        "Has previously been a Technical Lead",
+        "Prior experience with time-series based monitoring / observability systems",
+        "Degree in computer science",
+        "Experience with Typescript",
+        "Experience with AWS"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "Design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Backend Engineer_2.txt"
+    }
+  },
+  {
+    "job_id": "senior_backend_engineer_platform",
+    "title": "Senior Backend Engineer, Platform",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Our platform team plays a critical role in ensuring our products are scalable, secure, and efficient. We are looking for a Backend Engineer to help build and maintain the shared services that power our ecosystem. We are headquartered in SoHo in New York City, and this role has the option to be partially or fully re...",
+      "responsibilities": [
+        "Design, develop, and maintain backend systems that support all shared services at Uniswap Labs.",
+        "Write high quality and well tested code, and review code from other team members.",
+        "Provide guidance and technical leadership to peers in navigating architectural and coding tradeoffs.",
+        "Take charge of driving strategic technical initiatives across engineering pods that impact the entire engineering organization.",
+        "Improve developer productivity and system reliability through automation and best practices."
+      ],
+      "requirements": [
+        "6+ years of software engineering experience with a focus on infrastructure.",
+        "Proficiency in TypeScript, Go, or Rust,",
+        "Excellent coding skills, deep understanding of AWS cloud constructs and architecture, algorithms, and strong debugging capabilities.",
+        "Design, build, and maintain a large-scale production system on the cloud, ensuring smooth operation and high availability.",
+        "Be able to build systems from the ground up, in a 0→1 fashion.",
+        "A passion for building scalable, reliable systems that enable high-quality feature development."
+      ],
+      "nice_to_haves": [
+        "Experience or a strong interest in infrastructure-as-code tools (Pulumi is a plus).",
+        "Experience with distributed systems, authentication, and developer tooling.",
+        "Degree in computer science",
+        "Background in blockchain or DeFi",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "API",
+        "AWS",
+        "Design",
+        "Go",
+        "Rust",
+        "TypeScript"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Backend Engineer, Platform.txt"
+    }
+  },
+  {
+    "job_id": "senior_backend_engineer",
+    "title": "Senior Backend Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet.",
+      "responsibilities": [
+        "Write high quality and well tested code, and review code from other team members.",
+        "Collaborate with engineers, designers, and product managers to turn requirements into products and lead the execution end to end.",
+        "Provide guidance and technical leadership to peers in navigating architectural and coding tradeoffs.",
+        "Take charge of driving strategic technical initiatives across engineering pods that impact the entire engineering organization."
+      ],
+      "requirements": [
+        "6+ years of software engineering experience",
+        "Excellent coding skills, deep understanding of cloud architectures, algorithms, and strong debugging capabilities.",
+        "Consistently manage projects comprehensively, starting from gathering requirements and designing, to debugging and testing, and finally to release management and operational monitoring.",
+        "Design, build, and maintain a large-scale production system on the cloud, ensuring smooth operation and high availability.",
+        "Be able to build systems from the ground up, on a 0→1 fashion.",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services.",
+        "Mentored junior engineers"
+      ],
+      "nice_to_haves": [
+        "Has previously been a Technical Lead",
+        "Prior experience with time-series based monitoring / observability systems",
+        "Degree in computer science",
+        "Experience with Typescript",
+        "Experience with AWS"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "API",
+        "Design"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Backend Engineer_3.txt"
+    }
+  },
+  {
+    "job_id": "data_science_intern",
+    "title": "Data Science Intern",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Hello future interns! We will be receiving applicants through January 15th. We'll review your resume and will be in touch if it's a good fit. Thanks for your interest and patience. We’re looking for an enthusiastic, self-motivated engineering intern to help us build the next generation of financial products. As an intern, you will get a chance to touch all parts of our stack and rapidly launch features along the way. You will be part of all the conversations from idea, design and execution. You will be responsible (with support from a mentor) for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals and more. Location and timing: The Software Engineering Internship will take place in New York City at our office in S...",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "analytics",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Data Science Intern.txt"
+    }
+  },
+  {
+    "job_id": "developer_experience_engineer",
+    "title": "Developer Experience Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Developer Experience Engineer_1.txt"
+    }
+  },
+  {
+    "job_id": "software_engineer_intern",
+    "title": "Software Engineer Intern",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Work closely with design, product and rest of engineering to deliver production ready features",
+        "Own as much of the stack end to end as you demonstrate capacity for or deep dive into a specific area to become an expert"
+      ],
+      "requirements": [
+        "Genuine excitement to learn and contribute to DeFi and Uniswap",
+        "Experience (either personal projects or paid) with some of the DeFi/crypto tools",
+        "Experience with one of React/Redux, Node, TypeScript, Python, or Solidity"
+      ],
+      "nice_to_haves": [
+        "2024 grad or 2+ summers of relevant internship experience",
+        "Studying towards a degree in Computer Science or related-field",
+        "Past internship at a well-respected engineering organization",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "Python",
+        "React",
+        "TypeScript",
+        "design",
+        "rest"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Software Engineer Intern.txt"
+    }
+  },
+  {
+    "job_id": "senior_data_engineer",
+    "title": "Senior Data Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol and Uniswap Platform. The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. About the role We are seeking a highly skilled and experienced Senior Data Analytics Engineer to join our dynamic data engineering team. The ideal candidate will be responsible for designing, impleme...",
+      "responsibilities": [
+        "Design, develop, and maintain scalable data pipelines to collect, process, and store large volumes of structured and unstructured data.",
+        "Implement data integration solutions to consolidate data from various sources, ensuring data quality and integrity.",
+        "Optimize data storage and retrieval processes for performance and scalability.",
+        "Develop and maintain data models, dashboards, and reports to support business analytics and decision-making.",
+        "Collaborate with data scientists, analysts, and other stakeholders to understand their data needs and provide robust solutions.",
+        "Conduct exploratory data analysis to discover trends, patterns, and insights that drive business strategy.",
+        "Implement data validation and monitoring processes to ensure data accuracy and consistency.",
+        "Establish and enforce data governance policies and best practices.",
+        "Conduct regular audits and data quality assessments to identify and resolve data issues.",
+        "Work closely with cross-functional teams, including product, engineering, and business teams, to understand data requirements and deliver solutions that meet business needs."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Engineering, Statistics, or a related field.",
+        "5+ years of experience in data engineering, data analytics, or a related field.",
+        "Strong proficiency in SQL and experience with relational databases (e.g., PostgreSQL, MySQL).",
+        "Experience with big data technologies (e.g., Hadoop, Spark) and data warehousing solutions (e.g., BigQuery, Snowflake).",
+        "Proficiency in programming languages such as Python or Scala.",
+        "Experience with data visualization tools (e.g., Tableau, Power BI, Looker).",
+        "Strong understanding of ETL processes, data modeling, and data warehousing concepts.",
+        "Excellent problem-solving skills and attention to detail.",
+        "Strong communication and interpersonal skills, with the ability to work effectively in a collaborative environment.",
+        "Experience with cloud data platforms (e.g., AWS, GCP, Azure)."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience",
+        "AWS",
+        "Analytics",
+        "Azure",
+        "Design",
+        "GCP",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "analytics",
+        "strategy"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Data Engineer.txt"
+    }
+  },
+  {
+    "job_id": "it_operations_engineer",
+    "title": "IT Operations Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Protocol is the largest decentralized trading and automated market making protocol (often called a DEX, “Decentralized Exchange”) on Ethereum. The Uniswap Labs team was a major contributor to the Uniswap Protocol and now focuses on building a suite of products to support the Uniswap Labs ecosystem. Our team is one of the most impactful in crypto. We are headquartered in SoHo in New York City. We are looking for an IT Operations Engineer to work out of our Soho NYC HQ Office. This individual will be responsible for the performance and maintenance of the IT infrastructure and services in the Soho office location (must be willing to be onsite) and for our remote employees. What you will do",
+      "responsibilities": [
+        "Configure, deploy, maintain, troubleshoot and support our fleet of Mac laptops (with a few windows ones), printers, mobile devices, testing phones and other computer and telecommunications equipment",
+        "Take ownership of IT incidents and ensure issue resolution and employee satisfaction",
+        "Support security in maintaining access to applications via SSO, adding and managing SSO applications as well as ensuring MDM configurations are up to date",
+        "Manage our MDM tools and configurations and make sure they are working correctly",
+        "Ensure all users are running the latest updated and patched applications and remediate where necessary",
+        "Provide support for Multifactor Authentication and SSO (Single Sign On)",
+        "Contribute to the continuous process improvement of IT Support, IT incident handling and overall IT systems",
+        "Provide employees with a single point of contact for IT Service activities, problems, incidents and request items",
+        "Create and maintain user accounts in our SaaS tools (Google Workspace, Okta, etc)",
+        "Keep accurate notes of issues and troubleshooting steps taken within our ticketing system"
+      ],
+      "requirements": [
+        "5+ years of experience in an IT/Corp Sec role",
+        "Experience configuring, deploying, and maintaining Mac OS and Windows-based systems",
+        "Ability to troubleshoot and resolve a wide range of IT issues in a timely and effective manner",
+        "Proficiency in managing and troubleshooting video conferencing systems and collaboration tools",
+        "Familiarity with administering SaaS products and cloud-based tools (e.g., Okta for Single Sign-On)",
+        "Excellent technical support and customer service skills, with an emphasis on clear and effective communication",
+        "Strong organizational skills and the ability to manage multiple tasks and projects simultaneously",
+        "This position is required to be full-time in our SoHo office",
+        "Minimum full-time salary of $137,000-$190,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include unlimited and encouraged time off, company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) participation, annual $1,500 education stipend, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility)."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience",
+        "Operations"
+      ],
+      "salary_range": "$137,000-$190,000",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/IT Operations Engineer.txt"
+    }
+  },
+  {
+    "job_id": "tech_lead_site_reliability_engineering_sre",
+    "title": "Tech Lead, Site Reliability Engineering (SRE)",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are looking for an experienced and highly motivated Tech Lead to spearhead our Site Reliability Engineering (SRE) team. As the Tech Lead, you will be responsible for establishing and maintaining the reliability, perf...",
+      "responsibilities": [
+        "Design, implement, and maintain systems and processes that enhance the reliability, availability, and performance of our services.",
+        "Design, implement and maintain CICD tools and processes to increase reliability",
+        "Design, implement and maintain cloud constructs to increase reliability",
+        "Develop and manage monitoring, alerting, and incident response strategies to minimize downtime and ensure rapid recovery from incidents.",
+        "Conduct root cause analysis of system failures and implement preventative measures.",
+        "Optimize system performance and automate repetitive tasks to improve operational efficiency."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.",
+        "5+ years of experience in site reliability engineering, DevOps, or a related field, with at least 2 years in a leadership or senior technical role.",
+        "Strong understanding of reliability engineering principles, practices, and tools.",
+        "Proficiency in monitoring and alerting tools (e.g., Prometheus, Grafana, Nagios).",
+        "Experience with cloud platforms (AWS, Azure, GCP) and container orchestration systems (Kubernetes, Docker).",
+        "Proficiency in scripting and automation tools, such as Python, Bash, Ansible, or Terraform.",
+        "Excellent problem-solving skills and the ability to work under pressure in a fast-paced environment.",
+        "Strong communication and interpersonal skills, with the ability to influence and lead teams."
+      ],
+      "nice_to_haves": [
+        "Experience with continuous integration and continuous deployment (CI/CD) practices and tools.",
+        "Knowledge of configuration management tools (e.g., Puppet, Chef).",
+        "Experience with database management and optimization.",
+        "Familiarity with compliance frameworks and security best practices.",
+        "Relevant certifications such as AWS Certified DevOps Engineer, Google Professional SRE, or equivalent."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "5+ years experience",
+        "AWS",
+        "Azure",
+        "Design",
+        "Docker",
+        "GCP",
+        "Kubernetes",
+        "Python"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Tech Lead, Site Reliability Engineering (SRE).txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager_web",
+    "title": "Engineering Manager, Web",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an experienced engineering manager to help us grow our engineering team. You will focus on the people and process of Uniswap Labs engineering so that we can continue to ship great technical work. You're excited to support engineers and help them reach their full potential. Join us!",
+      "responsibilities": [
+        "Directly manage individual contributor frontend web engineers",
+        "Ensure the engineering team is able to deliver quality projects at a fast pace",
+        "Provide career growth advice and performance feedback",
+        "Focus on improving team processes",
+        "Recruit and hire new engineers to the team",
+        "Collaborate with product and design to deliver a roadmap"
+      ],
+      "requirements": [
+        "2+ years of management experience growing & managing a team of engineers",
+        "A deep understanding of web technologies and front end architecture best practices",
+        "Knowledge and passion for software engineering best practices",
+        "Knowledge of Crypto and DeFi",
+        "High emotional intelligence"
+      ],
+      "nice_to_haves": [
+        "Willingness to work out of our NYC office regularly",
+        "Understanding of protocols and blockchain architecture",
+        "Full-stack experience",
+        "Minimum full-time salary of $220,000-$240,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager, Web_1.txt"
+    }
+  },
+  {
+    "job_id": "developer_experience_engineer",
+    "title": "Developer Experience Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Work closely with Product, Design and other members of the Engineering team to define and build an interactive developer experience across Uniswap Labs’ portfolio",
+        "Build tools, SDKs, and documentation to help developers use Uniswap",
+        "Review existing offerings and be part of all new launches to ensure a high bar for documentation",
+        "Interact with developers in the Uniswap community to better understand their needs and solve their problems"
+      ],
+      "requirements": [
+        "Passionate and opinionated about developer tooling",
+        "Enjoy working across the stack, from frontend to backend with developers as the ultimate customers",
+        "Passion for explaining complicated subjects to a wide range of technical audiences",
+        "BS in CS or related field",
+        "2+ years writing software"
+      ],
+      "nice_to_haves": [
+        "Interested to engage with developers over Slack, Discord, Email, or hackathons",
+        "Experience working in Web3",
+        "Experience maintaining open source projectsLove for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "Design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Developer Experience Engineer.txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager_web",
+    "title": "Engineering Manager, Web",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We’re looking for an experienced engineering manager to help us create a world-class engineering team with a strong focus on instilling best coding practices, creating efficient processes, and shipping the best products for our users. In this role, you will be responsible for the evolution and maintenance of our flagship web app that serves as an interface to the Uniswap protocol. You will help us build delightful and intuitive experiences for our users as well as fortify the foundations of the app to ensure its continued stability. Join us!",
+      "responsibilities": [
+        "Directly manage individual contributor frontend web engineers",
+        "Ensure the engineering team is able to deliver quality projects at a fast pace",
+        "Provide career growth advice and performance feedback",
+        "Focus on improving team processes",
+        "Recruit and hire new engineers to the team",
+        "Collaborate with product and design to deliver a roadmap"
+      ],
+      "requirements": [
+        "2+ years of management experience growing & managing a team of engineers",
+        "Previous experience in Web technologies",
+        "High emotional intelligence",
+        "Technical knowledge to discuss issues, approaches, and solutions in depth",
+        "Knowledge and passion for software engineering best practices",
+        "Interest in crypto"
+      ],
+      "nice_to_haves": [
+        "Experience in the Web3/crypto space",
+        "Willingness to work out of our NYC office regularly",
+        "Understanding of blockchain architecture",
+        "Full-stack experience"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager, Web.txt"
+    }
+  },
+  {
+    "job_id": "software_engineer_docs_product",
+    "title": "Software Engineer, Docs Product",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Build and improve the tools and systems that enable Uniswap Labs to produce and maintain high-quality documentation",
+        "Implement new documentation experiences and gather a solid understanding of how developers integrate with Uniswap Protocol",
+        "Assess current authoring systems and make it easier to create, maintain, and deploy accurate documentation for our developer interfaces (protocol, smart contracts, SDKs, and APIs)",
+        "Raise the bar for product quality while ensuring the documentation continues to grow in scope with the evolutions of the Uniswap Protocol"
+      ],
+      "requirements": [
+        "Have a passion for building engaging and intuitive user experiences, and a keen eye for detail",
+        "Enjoy working across the stack, from frontend to backend, to solve complex challenges and delight our users",
+        "Experience with React, Next.js, and other frontend technologies",
+        "Understanding of SSG best practices, SEO",
+        "Ability to streamline and automate contribution pipelines, CI, testing, and release cycles"
+      ],
+      "nice_to_haves": [
+        "Prior experience developing markdown-driven static sites.",
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "React"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Software Engineer, Docs Product.txt"
+    }
+  },
+  {
+    "job_id": "software_engineer",
+    "title": "Software Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Software Engineer_1.txt"
+    }
+  },
+  {
+    "job_id": "developer_advocate_engineer",
+    "title": "Developer Advocate Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Developer Advocate Engineer.txt"
+    }
+  },
+  {
+    "job_id": "react_native_engineer_wallet",
+    "title": "React Native Engineer (Wallet)",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated engineer to help us build the next generation of financial products. This role’s primary focus will be on the Uniswap Wallet suite of products, which consists of mobile ...",
+      "responsibilities": [
+        "Consistently produce high quality code and well thought out architecture docs",
+        "Manage large, impactful projects staffed with several engineers with minimal day-to-day assistance from more senior engineers or managers",
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility and ensure that components are functional, elegant, and performant",
+        "Know when to create abstractions vs. one-off features"
+      ],
+      "requirements": [
+        "3+ years of software engineering experience",
+        "Experience building React Native applications",
+        "Strong track record of engineering excellence working on large projects end-to-end",
+        "Familiarity with the web3 frontend stack (e.g., ethers.js, web3.js, viem)",
+        "Experience with TypeScript",
+        "A desire to keep up with modern best practices in web/mobile development"
+      ],
+      "nice_to_haves": [
+        "Experience working fullstack",
+        "Experience in native mobile (e.g., Swift, Kotlin)",
+        "Experience with React Native for Web",
+        "Degree in computer science",
+        "Prior experience creating a design system or component library"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "React",
+        "TypeScript",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/React Native Engineer (Wallet).txt"
+    }
+  },
+  {
+    "job_id": "application_security_engineer",
+    "title": "Application Security Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an Application Security Engineer to join Uniswap Labs. You’ll collaborate with engineers from many disciplines to design and implement secure and usable solutions, tooling, and detection mechanisms to protect Uniswap’s users and applications. We are headquartered in SoHo in New York City and this ...",
+      "responsibilities": [
+        "Work with developers to improve the security of our products and services",
+        "Participate in technical efforts such as developing solutions to address security weaknesses and work with stakeholders to implement them",
+        "Partner with engineering team to assess threats and provide security guidance and documentation",
+        "Collaborate with the eng team to build systems at scale and prevent classes of vulnerabilities",
+        "Assist with security incident response as needed"
+      ],
+      "requirements": [
+        "2+ years of experience in web security, mobile security, or cryptography",
+        "Demonstrated proficiency in software development",
+        "Excitement for user privacy and security",
+        "Expertise in authentication protocols",
+        "Expertise in cryptography based security"
+      ],
+      "nice_to_haves": [
+        "Prior experience building in crypto/DeFi",
+        "Technical degree in Computer Science or related field",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $203,000 - $225,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility)."
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "2+ years experience",
+        "API",
+        "design"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Application Security Engineer_1.txt"
+    }
+  },
+  {
+    "job_id": "senior_react_native_engineer_wallet",
+    "title": "Senior React Native Engineer (Wallet)",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated engineer to help us build the next generation of financial products. This role’s primary focus will be on the Uniswap Wallet suite of products, which consists of mobile ...",
+      "responsibilities": [
+        "Consistently produce high quality code and well thought out architecture docs",
+        "Manage large, impactful projects staffed with several engineers with minimal day-to-day assistance from more senior engineers or managers",
+        "Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility and ensure that components are functional, elegant, and performant",
+        "Know when to create abstractions vs. one-off features"
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "Experience building React Native applications",
+        "Strong track record of engineering excellence working on large projects end-to-end",
+        "Familiarity with the web3 frontend stack (e.g., ethers.js, web3.js, viem)",
+        "Experience with TypeScript",
+        "A desire to keep up with modern best practices in web/mobile development"
+      ],
+      "nice_to_haves": [
+        "Experience as a Tech Lead",
+        "Experience working fullstack",
+        "Experience in native mobile (e.g., Swift, Kotlin)",
+        "Experience with React Native for Web",
+        "Degree in computer science"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "React",
+        "TypeScript",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior React Native Engineer (Wallet).txt"
+    }
+  },
+  {
+    "job_id": "product_manager_developer_experience",
+    "title": "Product Manager, Developer Experience",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Product Manager, Developer Experience.txt"
+    }
+  },
+  {
+    "job_id": "director_of_engineering",
+    "title": "Director of Engineering",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Director of Engineering.txt"
+    }
+  },
+  {
+    "job_id": "product_manager",
+    "title": "Product Manager",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Product Manager.txt"
+    }
+  },
+  {
+    "job_id": "senior_software_engineer",
+    "title": "Senior Software Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Lead discussions with product and design to rapidly iterate, experiment and launch products",
+        "Design and build systems with an eye for performance & scalability",
+        "Own products end to end and work across the stack as needed, including backend, infrastructure, UI, testing, etc.",
+        "Mentor team members on engineering best practices and career development"
+      ],
+      "requirements": [
+        "5+ years of software engineering experience",
+        "Experience building and maintaining a production system at scale",
+        "Experience with AWS, GCP or similar cloud providers",
+        "Deep understanding of the architecture of modern applications",
+        "Experience leading and aligning cross-functional stakeholders such as designers, engineers, and product managers to launch products",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "AWS",
+        "Design",
+        "GCP",
+        "UI",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Software Engineer.txt"
+    }
+  },
+  {
+    "job_id": "engineering_director",
+    "title": "Engineering Director",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Directly manage individual contributor engineers",
+        "Ensure the engineering team is able to deliver quality projects at a fast pace",
+        "Provide career growth advice and performance feedback",
+        "Focus on improving team processes",
+        "Recruit and hire new engineers to the team",
+        "Collaborate with product and design to deliver a roadmap"
+      ],
+      "requirements": [
+        "Experience growing and managing a team of engineers",
+        "High emotional intelligence",
+        "Technical knowledge to discuss issues, approaches, and solutions in depth",
+        "Knowledge and passion for software engineering best practices",
+        "Interested in crypto"
+      ],
+      "nice_to_haves": [
+        "Experience in the Web3/crypto space",
+        "Willingness to work out of our NYC office regularly",
+        "Understanding of blockchain architecture",
+        "Previous experience with common dev tools in the space - Solidity, Ethers, etc"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Director.txt"
+    }
+  },
+  {
+    "job_id": "integrations_engineer",
+    "title": "Integrations Engineer",
+    "department": "Engineering",
+    "sections": {
+      "intro": "We're looking for an enthusiastic, self-motivated professional to join our team.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "mid",
+      "skills": [],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Integrations Engineer.txt"
+    }
+  },
+  {
+    "job_id": "engineering_manager_-_security__sre",
+    "title": "Engineering Manager - Security & SRE",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are seeking a highly skilled and experienced Engineering Manager to lead our Security and Site Reliability Engineering (SRE) teams. This role is crucial in ensuring the security, reliability, and efficiency of our in...",
+      "responsibilities": [
+        "Lead and mentor a team of security engineers and site reliability engineers, fostering a collaborative and innovative work environment.",
+        "Develop and execute strategies for improving security and reliability across all systems and services.",
+        "Set clear goals and performance metrics for the team, conducting regular performance reviews and providing constructive feedback.",
+        "Oversee the design, implementation, and maintenance of security measures across the organization’s infrastructure and applications.",
+        "Ensure compliance with industry standards and regulatory requirements.",
+        "Conduct regular security assessments, vulnerability testing, and threat modeling to identify and mitigate risks.",
+        "Develop and maintain security policies, procedures, and best practices.",
+        "Manage the reliability, availability, and performance of the company’s services and infrastructure.",
+        "Implement and maintain monitoring, alerting, and incident response processes.",
+        "Optimize system performance and automate repetitive tasks to improve efficiency."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.",
+        "7+ years of experience in security engineering and/or site reliability engineering, with at least 3 years in a leadership or management role.",
+        "Strong understanding of security principles, practices, and technologies, including encryption, authentication, access control, and network security.",
+        "Proven experience with reliability engineering practices such as monitoring, alerting, incident response, and performance tuning.",
+        "Proficiency in scripting and automation tools, such as Python, Bash, Ansible, or Terraform.",
+        "Experience with cloud platforms (AWS, Azure, GCP) and container orchestration systems (Kubernetes, Docker).",
+        "Excellent problem-solving skills and the ability to work under pressure in a fast-paced environment.",
+        "Strong communication and interpersonal skills, with the ability to influence and inspire teams.",
+        "Relevant certifications such as CISSP, CISM, or SANS GIAC.",
+        "Experience with DevOps practices and tools, such as CI/CD pipelines, GitOps, and infrastructure as code."
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "7+ years experience",
+        "AWS",
+        "Azure",
+        "Docker",
+        "GCP",
+        "Kubernetes",
+        "Python",
+        "design"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Engineering Manager - Security & SRE.txt"
+    }
+  },
+  {
+    "job_id": "software_engineer_protocols",
+    "title": "Software Engineer, Protocols",
+    "department": "Engineering",
+    "sections": {
+      "intro": "The Uniswap Protocol is the largest decentralized trading and automated market making protocol (often called a DEX, “Decentralized Exchange”) on Ethereum. The Uniswap Labs team was a major contributor to the Uniswap Protocol and now focuses on building a suite of products to support the Uniswap Labs ecosystem. Our team is one of the most impactful in crypto. We are headquartered in SoHo in New York City with the option to be partially or fully remote depending on the position. We are looking for a junior engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for designing and implementing systems and protocols that build upon the Ethereum blockchain.",
+      "responsibilities": [
+        "Build and maintain low level backend services that interact with the Uniswap Protocol",
+        "Research and contribute to Ethereum Improvement Proposals (EIPs)",
+        "Participate in discussions from the initial product ideas to launch"
+      ],
+      "requirements": [
+        "1+ years of experience working on blockchains, consensus algorithms, p2p, or applied cryptography",
+        "Deep knowledge of Ethereum and the EVM",
+        "Broad understanding of the Ethereum roadmap",
+        "Understanding of different blockchain designs, their tradeoffs, and the cryptography underpinning blockchains",
+        "Strong understanding of distributed systems and computer science fundamentals",
+        "Fluency in Typescript, Go, Rust, or a similar language"
+      ],
+      "nice_to_haves": [
+        "Experience with cloud infrastructure, networking or orchestration with AWS (e.g. Docker, ECS, CDK, DynamoDB)",
+        "Experience writing smart contracts",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $180,000-$210,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.",
+        "Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) participation, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility)."
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [
+        "1+ years experience",
+        "Go",
+        "Rust",
+        "Typescript"
+      ],
+      "salary_range": "",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Software Engineer, Protocols.txt"
+    }
+  },
+  {
+    "job_id": "security_engineer_intern",
+    "title": "Security Engineer Intern",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Hello future interns! We will be receiving applicants through 12 pm EST on February 23rd. We'll review your resume and will be in touch if it's a good fit. Thanks for your interest and patience. We’re looking for an enthusiastic, self-motivated security intern to help us build the next generation of financial products. You will be responsible (with support from a mentor) for writing detections, automation, engaging in security research and more. Location and timing: The Security Engineering Internship will take place in New York City at our office in Soho during the summer of 2024. Responsibilities: Requirements: Nice to have: Hourly rate of $57.69. Disclosure in accordance with New York City's Pay Transparency Law.",
+      "responsibilities": [
+        "Collaborate with team members to achieve goals",
+        "Contribute to project planning and execution",
+        "Maintain high quality standards in all work"
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "junior",
+      "skills": [],
+      "salary_range": "$57",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Security Engineer Intern.txt"
+    }
+  },
+  {
+    "job_id": "senior_backend_engineer_unichain",
+    "title": "Senior Backend Engineer, Unichain",
+    "department": "Engineering",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. As part of our onchain journey, we recently launched an Optimism L2 chain that we want to scale and expand. We're looking for an enthus...",
+      "responsibilities": [
+        "Write high quality and well tested code, and review code from other team members.",
+        "Take charge of driving strategic technical initiatives to ensure the reliability and scalability of the chain.",
+        "Consistently able to manage projects comprehensively, starting from gathering requirements and designing, to debugging and testing, and finally to release management and operational monitoring.",
+        "Design, build, and maintain a large-scale production system on the cloud, ensuring smooth operation and high availability.",
+        "Be part of the on-call rotation to guarantee the chain is running 24/7 without outages.",
+        "Provide guidance and technical leadership to peers in navigating architectural and coding tradeoffs. Help onboard new and existing members to the Unichain specifics."
+      ],
+      "requirements": [
+        "5+ years of software engineering experience, including 2+ years of software engineering experience on EVM related chains.",
+        "Excellent coding skills, deep understanding of cloud architectures, algorithms, and strong debugging capabilities.",
+        "Experience building backend systems from the ground up, on a 0→1 fashion.",
+        "Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services.",
+        "Experiencing mentoring junior engineers"
+      ],
+      "nice_to_haves": [
+        "Experience with working on an Optimism chain either contributing to the OP code itself or a different rollup chain",
+        "Experience with Solidity",
+        "Prior experience with time-series based monitoring / observability systems",
+        "Experience with Go/Typescript",
+        "Experience with AWS"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "API",
+        "Design"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/engineering/Senior Backend Engineer, Unichain.txt"
+    }
+  }
+]

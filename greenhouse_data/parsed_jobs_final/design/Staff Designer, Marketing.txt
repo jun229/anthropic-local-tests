@@ -1,0 +1,35 @@
+===JD_START===
+TITLE: Staff Designer, Marketing
+DEPARTMENT: Design
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $3 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated designer to help us show and tell the story for the next generation of financial products. You’ll be joining a small, close-knit design team known for delivering creative strategies and outputs that strengthen the brand, deliver powerful messages, and drive busin...
+
+---RESPONSIBILITIES---
+- Act as a strategic design lead, collaborating as a lead with cross-functional peers to generate ideas, content, and create effective design solutions
+- Independently lead and drive lead medium to large projects, including but not limited to social content, microsites, physical buildouts, brand identities, and presentations.
+- Define and communicate creative strategy and direction, for self or other designers to create high-quality, compelling designs
+- Develop and maintain a visual language cohesive with the Uniswap brand
+- Drive design teams to become AI-native, integrating GenAI tools and technologies into workflows and processes to enhance efficiency and creativity
+- Sought out as a design mentor and expert within the company
+- Have a pulse on design, crypto, and marketing trends
+- Serve as a recognized design mentor and subject matter expert across the organization
+- Design with a focus on both brand and business outcomes
+- Solve ambiguous and complex design challenges apply design expertise to resolve complex issues in creative and effective ways
+
+---REQUIREMENTS---
+- 10+ years designing in a range of styles and media — static, dynamic, and interactive
+- Familiarity with crypto and using dapps
+- Collaborative, low ego, and open-minded
+- Sharp attention to detail and strong understanding of design principles, typography, and layout
+- Fluency in Figma and Adobe Suite
+- Ability to context-switch and handle multiple design projects
+- Ability to pivot quickly to new information, opinions, and direction
+- Ability to identify problems, generate and socialize solutions
+- Having wide-ranging experience, uses professional concepts and company objectives to resolve complex issues in creative and effective ways.
+- Nice-to-haves:
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

@@ -1,0 +1,25 @@
+===JD_START===
+TITLE: Software Engineer, Docs Product
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Build and improve the tools and systems that enable Uniswap Labs to produce and maintain high-quality documentation
+- Implement new documentation experiences and gather a solid understanding of how developers integrate with Uniswap Protocol
+- Assess current authoring systems and make it easier to create, maintain, and deploy accurate documentation for our developer interfaces (protocol, smart contracts, SDKs, and APIs)
+- Raise the bar for product quality while ensuring the documentation continues to grow in scope with the evolutions of the Uniswap Protocol
+
+---REQUIREMENTS---
+- Have a passion for building engaging and intuitive user experiences, and a keen eye for detail
+- Enjoy working across the stack, from frontend to backend, to solve complex challenges and delight our users
+- Experience with React, Next.js, and other frontend technologies
+- Understanding of SSG best practices, SEO
+- Ability to streamline and automate contribution pipelines, CI, testing, and release cycles
+
+---NICE_TO_HAVES---
+- Prior experience developing markdown-driven static sites.
+- Love for unicorns :)
+
+===JD_END===

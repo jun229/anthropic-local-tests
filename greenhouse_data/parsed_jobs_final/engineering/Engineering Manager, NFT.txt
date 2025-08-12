@@ -1,0 +1,30 @@
+===JD_START===
+TITLE: Engineering Manager, NFT
+DEPARTMENT: Engineering
+
+---INTRO---
+We’re looking for an engineering manager to lead our NFT engineering org at Uniswap Labs. This is an exciting opportunity to influence our NFT roadmap and own a full-stack team of talented engineers.
+
+---RESPONSIBILITIES---
+- Directly manage individual contributor engineers
+- Ensure the engineering team is able to deliver quality projects at a fast pace
+- Provide career growth advice and performance feedback
+- Focus on improving team processes
+- Recruit and hire new engineers to the team
+- Collaborate with product and design to deliver a roadmap
+
+---REQUIREMENTS---
+- 2+ years of management experience growing & managing a team of engineers
+- Previous experience in consumer products and/or technologies
+- High emotional intelligence
+- Technical knowledge to discuss issues, approaches, and solutions in depth
+- Knowledge and passion for software engineering best practices
+- Interest in crypto/NFTs
+
+---NICE_TO_HAVES---
+- Experience in the Web3/crypto space
+- Willingness to work out of our NYC office regularly
+- Understanding of blockchain architecture
+- Minimum full-time salary of $215,000-$245,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

@@ -1,0 +1,26 @@
+===JD_START===
+TITLE: Product Manager, Developer Experience
+DEPARTMENT: Product Management
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Work closely with engineers and designers to create product specs based on needs of our external developers
+- Be the glue (or the grease) that runs our product development engine
+- Launch new products and features, test their performance, and iterate quickly
+- Understand markets, competition, and user requirements in depth
+
+---REQUIREMENTS---
+- 2-5 years of experience in a highly technical developer facing product
+- You are an empathetic communicator and natural collaborator who can work with people across the org
+- You have built and shipped Web2 developer products at scale
+- You understand value of data/analytics and have an instinct to build great products
+- You have a strong interest in Crypto/blockchain space
+
+---NICE_TO_HAVES---
+- Prior experience building in crypto/DeFi
+- Technical degree in Computer Science or related field
+- Love for unicorns :)
+
+===JD_END===

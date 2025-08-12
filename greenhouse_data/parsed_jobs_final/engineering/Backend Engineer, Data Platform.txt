@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Backend Engineer, Data Platform
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Design and build end-to-end data infrastructure to support ML products
+- Lead discussions with product and design to rapidly iterate, experiment and launch products
+- Design and build systems with an eye for performance & scalability
+- Own products end to end and work across the stack as needed, including backend, infrastructure, UI, testing, etc.
+- Mentor team members on engineering best practices and career development
+
+---REQUIREMENTS---
+- 5+ years of software engineering experience
+- Experience building data infrastructure that supports production ML systems.
+- Experience building and maintaining a production system at scale
+- Experience with AWS, GCP or similar cloud providers
+- Deep understanding of the architecture of modern applications
+- Experience leading and aligning cross-functional stakeholders such as designers, engineers, and product managers to launch products
+- Desire to keep up with modern best practices in software development/Web3, and shape our tech stack as we build out new systems and services
+
+---NICE_TO_HAVES---
+- Experience in machine learning applications such as recommendation systems, search, spam filtering, etc.
+- Love for unicorns :)
+
+===JD_END===

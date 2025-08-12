@@ -1,0 +1,25 @@
+===JD_START===
+TITLE: Product Designer
+DEPARTMENT: Product Management
+
+---INTRO---
+We’re looking for an enthusiastic, self-motivated designer to help us build the next generation of financial products. You’ll be joining a small but close knit product team known for developing category-defining UX. As a Product Designer you’ll be deep in solving cutting edge human computer interface problems, developing new mental models for the next million users of decentralized finance, and defining the design culture of a small but growing organization.
+
+---RESPONSIBILITIES---
+- Work closely with the entire team to design, research and ship new and improved products that increase clarity and user agency of decentralized finance.
+- Wrangle difficult problems in emerging technology, help invent new mental models, and design cutting edge interactions.
+- Define the design culture at Uniswap through writing, external communication, and new processes.
+- Create a unified design language that increases the velocity of the frontend engineering team.
+
+---REQUIREMENTS---
+- 1-3 years of product design experience including research, prototyping and implementation of user-facing applications.
+- Prior experience working with component libraries or design systems.
+- A desire to design within the context of web3/blockchain/decentralized finance.
+- Experience designing with Figma, Framer or other modern design tools.
+
+---NICE_TO_HAVES---
+- Familiarity with the web3/Ethereum (wallets, tokens, transactions etc.)
+- High fidelity prototyping experience
+- Love for unicorns :)
+
+===JD_END===

@@ -1,0 +1,30 @@
+===JD_START===
+TITLE: Customer Support Associate 
+DEPARTMENT: Customer Experience
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Uniswap Labs is hiring a Customer Support Associate. You will have the opportunity to shape our customer support values, function, systems and processes. We are often an early touch point for web3 users, and receive inq...
+
+---RESPONSIBILITIES---
+- Provide user support via Zendesk
+- Act as an advocate and onboarding specialist for users
+- The first touch point for all user issues, responsible for ensuring that every inquiry is handled in accordance to our SLAs
+- Synthesize insights from user interactions and surface critical issues to the Engineering team
+- Assist in designing, implementing and operating user support processes to ensure the team meets goals
+- Systematically communicate feedback to key stakeholders, providing guidance and input on new product features
+- Keep internal and external informational resources up to date in an environment of rapid iteration
+
+---REQUIREMENTS---
+- 2+ years experience doing customer support in a high growth environment
+- Strong written and verbal communication skills that can effectively distill complex concepts into simple ones
+- You are motivated by helping others and are the type of person who prides themselves on turning an angry user into a 5-star rating
+- You can help solve complex problems end-to-end so as to mitigate delegation as much as possible
+
+---NICE_TO_HAVES---
+- Experience with user onboarding at a software company
+- Experience with DeFi, knowledge of blockchains, and experience using crypto wallets is a (big) plus!
+- Love for the unicorns 🦄
+- Minimum full-time salary of $134,000-$142,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+
+===JD_END===

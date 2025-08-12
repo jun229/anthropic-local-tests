@@ -1,0 +1,38 @@
+===JD_START===
+TITLE: API Sales Manager
+DEPARTMENT: Business Development
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. The Uniswap API team mission is to Unlock universal ownership and exchange at scale via our suite of trading and data APIs. These APIs power both Uniswap Labs apps, which support billions of dollars in trading volume ea...
+
+---RESPONSIBILITIES---
+- Drive sales of API products to institutional users, guiding them through integrations and the post-sales process to ensure effective utilization.
+- Build and nurture relationships with retail and institutional partners, supporting their needs and maintaining strong client satisfaction.
+- Prospect, develop, and manage a pipeline of opportunities for retail integrations and institutional use cases.
+- Engage with institutional users to understand their needs and provide feedback to Product and Engineering teams for feature improvements.
+- Collaborate with market makers, prospecting for UniswapX filler roles, and driving system improvements.
+- Work closely with Product Managers, Engineering, Legal, Communications, and Growth Marketing teams to align on product delivery and strategic goals.
+- Maintain a deep understanding of financial market structures and the institutional crypto landscape.
+- Gather market feedback and relay insights to Product and Engineering teams to support continuous improvement.
+- Represent Uniswap Labs internationally, contributing to growth efforts.
+- Deliver compelling pitches and influence external stakeholders, including potential customers and regulators, to adopt Uniswap solutions.
+
+---REQUIREMENTS---
+- 5-8 years of professional experience, including:
+
+5-6 years in investment banking, sales, or trading.
+1-2 years in crypto-native roles with demonstrated knowledge of the industry.
+- 5-6 years in investment banking, sales, or trading.
+- 1-2 years in crypto-native roles with demonstrated knowledge of the industry.
+- Strong understanding of financial market structures and trading systems.
+- Expertise in Uniswap protocols, product suite, and the broader crypto institutional landscape.
+- Exceptional communication and interpersonal skills, with the ability to articulate complex concepts to diverse audiences.
+- Proven ability to influence and persuade external stakeholders effectively.
+- Willingness to travel up to 3-4 weeks annually to support global business development initiatives.
+- 5-6 years in investment banking, sales, or trading.
+- 1-2 years in crypto-native roles with demonstrated knowledge of the industry.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

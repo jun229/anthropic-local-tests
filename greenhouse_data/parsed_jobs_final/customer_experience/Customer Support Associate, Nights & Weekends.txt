@@ -1,0 +1,31 @@
+===JD_START===
+TITLE: Customer Support Associate, Nights & Weekends
+DEPARTMENT: Customer Experience
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. As a Customer Support Associate, Nights & Weekends at Uniswap Labs, you’ll be the frontline for assisting users, triaging issues, and ensuring smooth platform operations outside of Eastern Time (EST/EDT) business hours. You’ll engage directly with the community, troubleshoot and diagnose technical concerns, and esc...
+
+---RESPONSIBILITIES---
+- Provide Tier 1 user support via Zendesk email
+- Act as an advocate and onboarding specialist for users
+- Communicate effectively with the broader support and engineering teams to flag incidents or issues that require escalation
+- Be the first touch point for all user issues, responsible for ensuring that every inquiry is handled in accordance to our SLAs
+- Synthesize insights from user interactions and surface critical issues to the Engineering team
+- Provide prompt, accurate, and friendly support, answering customer queries via Zendesk email. Ensuring that every inquiry is handled in accordance to our SLAs
+- Diagnose and resolve non-complex technical issues, escalating complex problems to the appropriate teams and following up to ensure resolution
+- Act as the voice of the customer, sharing feedback and insights with the Product and Engineering teams
+- Maintain accurate records of customer interactions and communications
+- Contribute to the ongoing improvement of the Customer Support processes and resources
+
+---REQUIREMENTS---
+- Experience in customer support or similar in a high growth environment is ideal, but not required to apply
+- Strong written and verbal communication skills that can effectively distill complex concepts into simple ones
+- You are motivated by helping others and are the type of person who prides themselves on turning an angry user into a 5-star rating
+- You can help solve complex problems end-to-end so as to mitigate delegation as much as possible
+
+---NICE_TO_HAVES---
+- Experience with DeFi, knowledge of blockchains, and experience using crypto wallets is a (big) plus!
+- Love for the unicorns 🦄
+- Minimum hourly rate of $37-$41/hr. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

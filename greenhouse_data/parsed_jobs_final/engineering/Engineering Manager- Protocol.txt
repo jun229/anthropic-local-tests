@@ -1,0 +1,30 @@
+===JD_START===
+TITLE: Engineering Manager- Protocol 
+DEPARTMENT: Engineering
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of the team reshaping how value flows on the internet. As Engineering Manager for the Protocols team, you’ll guide the engineers who design, build, and harden the smart-contract systems that power Uniswap V4, UniswapX and beyond.
+
+---RESPONSIBILITIES---
+- People Leadership: Hire, coach, and grow a diverse team of world-class smart-contract engineers while fostering a security-first, inclusive, high-performance culture. Provide clear growth paths, feedback, and mentorship.
+- Technical Direction: Own the architecture and roadmap for Uniswap’s Solidity-based protocol (hooks, cross-chain deployments, governance upgrades) and champion best practices in gas optimization, modular design, and upgrade-safe patterns.
+- Security & Audits: Drive a rigorous SDLC that includes threat modeling, formal verification, fuzzing, and multiple external audit loops. Coordinate with leading audit firms and run our internal red-team / bug-bounty triage.
+- Project Execution: Translate product and research goals into executable engineering plans, then prioritize and track work to hit aggressive but realistic milestones across multiple chains.
+- Cross-functional Collaboration: Partner with Product, Legal, Security, Design, and Community teams to ship features that delight users while protecting billions in TVL.
+
+---REQUIREMENTS---
+- 8+ years total software engineering experience, including 3+ years building production EVM smart-contract systems in Solidity (or low-level languages like Huff/Yul) and 2+ years managing engineers.
+- Proven track record shipping contracts that have held significant TVL and zero critical exploits.
+- Deep knowledge of the EVM and DeFi mechanics (AMMs, oracles, bridges).
+- Hands-on experience leading smart contract security efforts including external security audits, formal verification, static analysis etc.
+- Excellent written and verbal communication skills; able to explain complex protocol trade-offs to both engineers and non-technical stakeholders.
+- B.S./M.S. in Computer Science, Engineering, or equivalent real-world experience.
+- Contributions to open-source DeFi protocols or Ethereum Improvement Proposals.
+- Familiarity with L2s, cross-chain messaging, account abstraction (ERC-4337), or zero-knowledge proofs.
+- Experience with Foundry, Hardhat, Slither, Echidna, Certora, MythX, or similar tooling.
+- Minimum full-time salary of $360,000- $390,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

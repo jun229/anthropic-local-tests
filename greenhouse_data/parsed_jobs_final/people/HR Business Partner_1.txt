@@ -1,0 +1,21 @@
+===JD_START===
+TITLE: HR Business Partner
+DEPARTMENT: People
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Collaborate with team members to achieve goals
+- Contribute to project planning and execution
+- Maintain high quality standards in all work
+
+---REQUIREMENTS---
+- Relevant experience in the field
+- Strong communication and collaboration skills
+- Ability to work in a fast-paced environment
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

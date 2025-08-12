@@ -1,0 +1,29 @@
+===JD_START===
+TITLE: Senior Recruiter
+DEPARTMENT: People
+
+---INTRO---
+As we enter into this next phase of growth, we are looking to more than double our team and implement creative talent processes and strategies that can preserve and grow our culture of innovation. We are looking to make our first talent acquisition hire to help us scale and build out a world-class team. While the majority of our hiring will be for technical roles, we are looking for a technical recruiter to help us build a leading and diverse engineering team.
+
+---RESPONSIBILITIES---
+- Develop overall talent acquisition strategy
+- Build out processes and tools necessary to manage TA at scale
+- End-to-end recruitment from sourcing through to close
+- Understand business goal and manage internal stakeholders to drive outcomes
+- Partner with hiring managers to develop and execute systematic hiring process across all searches
+- Develop and maintain an excellent candidate experience
+- Identify, source, and interview candidates
+- Manage recruiting support team
+
+---REQUIREMENTS---
+- 2+ years of talent acquisition at a high growth company
+- Experience recruiting for technical and non technical positions
+- Ability to think strategically about how to achieve goals and the humility and execution orientation necessary to achieve them
+- Equally comfortable sourcing candidates as you interviewing and building relationships with them
+- Team management experience desired but not required
+- Passion for crypto and decentralized finance
+
+---NICE_TO_HAVES---
+- Love for unicorns <3
+
+===JD_END===

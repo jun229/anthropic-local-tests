@@ -1,0 +1,30 @@
+===JD_START===
+TITLE: Staff Frontend Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated engineer to help us build the next generation of financial products. As a dedicated frontend hire, you will gain ownership over our existing suite of web products, as we...
+
+---RESPONSIBILITIES---
+- Work across client, server, architecture, and infrastructure that powers all of our web products. This includes the Uniswap web app, UniswapX, etc
+- Take charge of driving strategic technical initiatives across engineering pods that impact the entire engineering organization.
+- Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility and ensure that components are functional, elegant, performant, and mobile-friendly
+- Know when to create abstractions vs. one-off features
+- Provide mentorship and feedback to other engineers on the team through both code and design doc reviews
+
+---REQUIREMENTS---
+- 8+ years of software engineering experience
+- A deep understanding of the architecture of modern client-side React applications
+- Prior experience creating a design system or component library
+- Proven individual contributor or previously a Tech Lead with experience planning and leading end to end large projects with long-term impact on one or more systems or a team.
+- Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)
+- A desire to keep up with modern best practices in web development
+
+---NICE_TO_HAVES---
+- Experience with TypeScript in React
+- Degree in computer science
+- Love for unicorns :)
+- Minimum full-time salary of $240,000-$267,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+
+===JD_END===

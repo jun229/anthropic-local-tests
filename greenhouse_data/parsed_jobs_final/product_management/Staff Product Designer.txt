@@ -1,0 +1,34 @@
+===JD_START===
+TITLE: Staff Product Designer
+DEPARTMENT: Product Management
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains.When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are looking for a driven designer to define the next generation of financial products. You would be joining a talented design team and product team known for developing category-defining UX and solving cutting-edge, hu...
+
+---RESPONSIBILITIES---
+- Lead medium to large projects from discovery to launch, balancing attention to detail with low fidelity sketches as needed
+- Own the end-to-end user journey
+- Design experiences across mobile and web
+- Present and advocate design solutions effectively
+- Sought out as a design mentor and expert within the company
+- Engage in the design reviews, offering, and receiving feedback on design work
+- Collaborate as a lead with cross-functional peers to drive product strategy and great user experiences
+- Design with a focus on both customer experience and business outcomes
+- Apply design expertise to resolve complex issues in creative and effective ways
+
+---REQUIREMENTS---
+- 8+ years of Product Design experience
+- Experience with crypto and using dapps
+- Collaborative, low ego and open-minded
+- Sharp attention to detail and strong understanding of craft: visual design, interaction design, and prototyping
+- Expertise of patterns, best practices, and design standards
+- Fluency in Figma, component, design systems, and writing implementation specs
+- Ability to identify problems, generate and socialize solutions
+- Ability to own design process end-to-end from discovery to launch
+- Ability to collaborate and partner strategically with Leadership, Product, and Engineering partners to drive and influence product decisions
+- Nice-to-haves:
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

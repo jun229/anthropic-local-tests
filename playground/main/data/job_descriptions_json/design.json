@@ -1,0 +1,135 @@
+[
+  {
+    "job_id": "senior_product_designer",
+    "title": "Senior Product Designer",
+    "department": "Design",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet. We're looking for an enthusiastic, self-motivated designer to help us build the next generation of financial products. You'll be joining a small but close knit product team known for developing category-defining UX. As a Senior Product Designer at Uniswap Labs, you'll solve cutting edge human computer or mobil...",
+      "responsibilities": [
+        "Own and deliver end-to-end design projects for new and improved consumer products that increase clarity and user agency in decentralized finance and web3",
+        "Tackle complex challenges in emerging technology by inventing new mental models and designing cutting-edge interactions with minimal oversight",
+        "Use a human-centered approach that incorporates qualitative and quantitative data to create conceptual wireframes, prototypes, and high-fidelity designs.",
+        "Effectively collaborate cross-functionally with engineering, product, and research partners to influence product strategy and roadmap.",
+        "Contribute to the development and maintenance of a unified design system that increases the velocity and consistency of the frontend engineering team.",
+        "Mentor junior designers and help define best practices through feedback, documentation, and team crit.",
+        "Contribute to the broader design culture through writing, presentations, and external community engagement."
+      ],
+      "requirements": [
+        "5 years of product design experience, including research, prototyping, and implementation of user-facing applications. With some experience in FinTech or adjacent industries through relevant design work.",
+        "Demonstrated experience working with component libraries or design systems.A strong desire to design within the context of web3/blockchain/decentralized finance.",
+        "Proficiency in modern design tools such as Figma, Framer, or equivalent.",
+        "Excellent visual design and interaction design skills, with a strong portfolio that reflects independent project ownership and high-quality execution.Strong communication skills with the ability to clearly articulate design decisions and rationale to cross-functional teams."
+      ],
+      "nice_to_haves": [
+        "Familiarity with the web3/Ethereum ecosystem (wallets, tokens, transactions etc.)",
+        "High fidelity prototyping experience",
+        "Regular use of AI in design and prototyping workflows",
+        "Love for unicorns :)",
+        "Minimum full-time salary of $238,000-$265,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type."
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "API",
+        "Figma",
+        "UX",
+        "design",
+        "finance",
+        "strategy"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/design/Senior Product Designer.txt"
+    }
+  },
+  {
+    "job_id": "senior_design_lead",
+    "title": "Senior Design Lead",
+    "department": "Design",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an experienced and self-directed design leader to help craft and communicate the Uniswap story. As a key member of our close-knit design team, you’ll drive creative strategy and execution across a range of mediums, helping evolve Uniswap into one of the most trusted, recognizable, and influential ...",
+      "responsibilities": [
+        "Lead and execute complex design projects across brand, marketing, and events. This includes conceiving and scoping social campaigns, brand identities, physical spaces, and executive presentations.",
+        "Partner with cross-functional leads to shape creative strategies and deliver design solutions that drive both brand and business outcomes.",
+        "Define and evolve Uniswap's visual language, ensuring consistency and innovation across all touchpoints.",
+        "Act as a mentor and design thought leader within the organization. Help grow a culture of excellence, curiosity, and low-ego collaboration.",
+        "Lead recruitment, onboarding, and performance development for internal designers and external contractors or agencies.",
+        "Stay on the pulse of visual design, crypto, and marketing trends to inform and inspire the team.",
+        "Solve ambiguous design challenges through systems thinking, storytelling, and strategic judgment.",
+        "Manage designers and own the success of your team by setting direction, delegating effectively, and ensuring delivery of high-quality work. Own team goal achievement and drive measurable design impact aligned with broader company objectives.",
+        "Proactively identify opportunities to improve efficiency, collaboration, and design impact.",
+        "Oversee planning, staffing, and performance management for your group. Make key decisions related to hiring, structure, and creative operations. Leverage a deep understanding of Uniswap's business model, products, and strategy to inform team priorities and design decisions."
+      ],
+      "requirements": [
+        "Relevant experience in the field",
+        "Strong communication and collaboration skills",
+        "Ability to work in a fast-paced environment"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "API",
+        "design",
+        "marketing",
+        "operations",
+        "strategy"
+      ],
+      "salary_range": "$2",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/design/Senior Design Lead.txt"
+    }
+  },
+  {
+    "job_id": "staff_designer_marketing",
+    "title": "Staff Designer, Marketing",
+    "department": "Design",
+    "sections": {
+      "intro": "Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $3 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an enthusiastic, self-motivated designer to help us show and tell the story for the next generation of financial products. You’ll be joining a small, close-knit design team known for delivering creative strategies and outputs that strengthen the brand, deliver powerful messages, and drive busin...",
+      "responsibilities": [
+        "Act as a strategic design lead, collaborating as a lead with cross-functional peers to generate ideas, content, and create effective design solutions",
+        "Independently lead and drive lead medium to large projects, including but not limited to social content, microsites, physical buildouts, brand identities, and presentations.",
+        "Define and communicate creative strategy and direction, for self or other designers to create high-quality, compelling designs",
+        "Develop and maintain a visual language cohesive with the Uniswap brand",
+        "Drive design teams to become AI-native, integrating GenAI tools and technologies into workflows and processes to enhance efficiency and creativity",
+        "Sought out as a design mentor and expert within the company",
+        "Have a pulse on design, crypto, and marketing trends",
+        "Serve as a recognized design mentor and subject matter expert across the organization",
+        "Design with a focus on both brand and business outcomes",
+        "Solve ambiguous and complex design challenges apply design expertise to resolve complex issues in creative and effective ways"
+      ],
+      "requirements": [
+        "10+ years designing in a range of styles and media — static, dynamic, and interactive",
+        "Familiarity with crypto and using dapps",
+        "Collaborative, low ego, and open-minded",
+        "Sharp attention to detail and strong understanding of design principles, typography, and layout",
+        "Fluency in Figma and Adobe Suite",
+        "Ability to context-switch and handle multiple design projects",
+        "Ability to pivot quickly to new information, opinions, and direction",
+        "Ability to identify problems, generate and socialize solutions",
+        "Having wide-ranging experience, uses professional concepts and company objectives to resolve complex issues in creative and effective ways.",
+        "Nice-to-haves:"
+      ],
+      "nice_to_haves": [
+        "Love for unicorns :)"
+      ]
+    },
+    "metadata": {
+      "seniority": "senior",
+      "skills": [
+        "AI",
+        "API",
+        "Adobe",
+        "Design",
+        "Figma",
+        "design",
+        "marketing",
+        "strategy"
+      ],
+      "salary_range": "$3",
+      "file_path": "../../greenhouse_data/parsed_jobs_final/design/Staff Designer, Marketing.txt"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+===JD_START===
+TITLE: Director of Product Management 
+DEPARTMENT: Product Management
+
+---INTRO---
+We’re looking for a seasoned product leader with a solid technical background, experience driving strategic clarity, sound judgment, and a proven ability to support growing teams to support our one of our product verticals. Reporting to our VP of Product, you’ll support the current team of product managers responsible for products at Uniswap Labs as well as their long-term strategy. You’ll work closely with engineers and your PM team to prioritize and build new products. We expect our product area to grow meaningfully over time once you further define the strategy and opportunities.
+
+---RESPONSIBILITIES---
+- Lead one of our product verticals and manage a team of product managers building them
+- Collaborate and build partnerships with with internal stakeholders (including executives, design, engineering, partnerships) and external stakeholders to create and iterate on products that serve our customers
+- Use data, research, and intuition to influence product strategy and guide teams across the company on how to execute that strategy
+
+---REQUIREMENTS---
+- 8+ years of Product Management experience
+- 4+ years of management experience, ideally managing other Product Managers
+- Experience building products that developers have integrated into what they’re building (and the relevant technical skills to lead this work)
+- Experience collaborating effectively with internal stakeholders (including executives, design, engineering, sales, partnerships) and external stakeholders (developers and other businesses)
+- Strong analytical skills and ability to strategize across multiple product areas and potential business opportunities
+
+---NICE_TO_HAVES---
+- Prior experience building in crypto/DeFi or financial services
+- Technical degree in Computer Science or related field
+- Love for unicorns :)
+- Minimum full-time salary of $275,000-300,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

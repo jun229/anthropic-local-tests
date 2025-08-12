@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Community Manager - LATAM
+DEPARTMENT: Customer Experience
+
+---INTRO---
+The Uniswap Labs team is building DeFi protocols to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. The Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol. The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet.
+
+---RESPONSIBILITIES---
+- To grow Uniswap Labs via organic and community efforts in LATAM. Also, to continually share product feedback and market intel to drive Uniswap Labs’ growth and success in LATAM.
+- Be in the mix, be deep in the local crypto community. Represent Uniswap Labs everywhere — and share market intel back with HQ
+- Serve as representative in Discord, triaging across internal Uniswap Labs teams, spanning support, developer relations, and community
+- Actively advocate for Uniswap Labs’ brand and technology in relevant community channels, including Telegram,  to develop a local, loyal and growing community
+- Organize small local meet-ups with clear outcome of educating and promoting Uniswap Labs’ developer tools
+- Propose joint efforts with relevant crypto projects in the region to increase activation
+- Provide weekly reports on activities, metrics, and new proposals
+- Background as a community manager with deep technical expertise on trading protocols
+- Self-identified crypto degen who has deep involvement in the crypto and in particular the crypto trading community over several years in LATAM
+- Deep understanding of Uniswap protocol and related products to the point where they can answer most questions about how to use, value props, comparison to other products/protocols, etc.
+
+---REQUIREMENTS---
+- Relevant experience in the field
+- Strong communication and collaboration skills
+- Ability to work in a fast-paced environment
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

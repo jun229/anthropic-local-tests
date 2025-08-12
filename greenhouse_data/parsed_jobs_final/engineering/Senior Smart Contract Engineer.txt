@@ -1,0 +1,25 @@
+===JD_START===
+TITLE: Senior Smart Contract Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are looking for an experienced smart contract engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for implementing and designing smart contracts for the next generation of the most popular decentralized trading protocol on Ethereum. We are headquartered in SoHo in New Y...
+
+---RESPONSIBILITIES---
+- Contribute to the Uniswap protocol by designing and implement smart contracts
+- Research, apply, and invent new smart contract paradigms
+- Design and implement peripheral mechanisms to the Uniswap protocol
+
+---REQUIREMENTS---
+- 4+ years of experience building and releasing production grade Solidity contracts
+- A deep understanding of the Ethereum Virtual Machine
+- Prior experience deploying complex smart contract systems to the Ethereum mainnet
+
+---NICE_TO_HAVES---
+- Degree in math or computer science
+- Experience implementing complex math in Solidity
+- Experience with React, Redux and other frontend technologies
+- Love for unicorns :)
+- Minimum full-time salary of $290,000-$325,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

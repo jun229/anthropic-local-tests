@@ -1,0 +1,26 @@
+===JD_START===
+TITLE: Product Marketing Manager, Consumer Apps
+DEPARTMENT: Marketing
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. We’re looking for an enthusiastic, collaborative, and communicative senior product marketer to spearhead user research, develop detailed user personas, and drive the go-to-market strategy for the Uniswap Web App, Wallet and Extension. This individual will work closely with our product, growth marketing, and content leads to bring new products to market, lead user and competitor research, and deliver creative, impact...
+
+---RESPONSIBILITIES---
+- Collaborate with team members to achieve goals
+- Contribute to project planning and execution
+- Maintain high quality standards in all work
+
+---REQUIREMENTS---
+- 8+ years of Product Marketing experience working with technical B2C products, ideally in crypto or fintech
+- Obsessed with crypto, DeFi, and Web3 as transformative opportunities, with personal or professional experience using a self-custody wallet, engaging with dApps, NFTs, or participating in DAOs
+- Ability to lead through influence, develop strong relationships with technical teams, and drive alignment across teams
+- Incredibly clear written communication and desire to document everything
+- Very organized, able to stay on top of several moving projects at once
+- Minimum full-time salary of $197,405 - $219,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+- Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

@@ -1,0 +1,27 @@
+===JD_START===
+TITLE: Research Lead
+DEPARTMENT: Research
+
+---INTRO---
+Uniswap Labs is hiring a Research Lead who will work in a highly collaborative and cross-functional team setting to further our understanding of the protocol and product usage, and to contribute toward future innovations through research.Active areas of study include decentralized exchange market dynamics and participant behaviors, liquidity provision in decentralized exchanges, price improvement through novel mechanism design, and the monitoring and reduction of systemic risk. Candidates must have strong curiosity and familiarity with the DeFi market, interest in applying research to application, and a desire to share knowledge broadly.
+
+---RESPONSIBILITIES---
+- Work as an integral part of the business strategy, product, engineering and policy team and as a key cross-functional leader engaged with relevant stakeholders on Uniswap’s protocol, applications, and value proposition.
+- Establish Uniswap Labs as a thought leader in DeFi by contributing to cutting-edge research related to decentralized markets, market structure and market design.
+- Actively lead conversations with regulators, policy makers and traditional institutions to bridge DeFi to the mainstream.
+- Oversee collaboration with, and provide guidance to, third party researchers.
+- Lead and build a research & data science team that drives analyses to inform overall business strategy, product features, and future protocol developments.
+
+---REQUIREMENTS---
+- A professor or Ph.D with at least 7+ years of research experience in market design, market structure or empirical financial economics.
+- A proven track record of thought leadership, such as academic publications in peer-reviewed journals, or significant contributions to policy discussions / market innovations.
+- Demonstrated abilities to engage in external conversations involving regulators, policy makers and institutional stakeholders.
+- Highly effective communications skills, including the ability to explain advanced technical concepts in an adaptive and relatable manner to different audiences.
+- Ability to manage a team of researchers and data scientists to deliver on multiple projects on different timelines.
+- Strong understanding of crypto market, DeFi, automated market making, decentralized exchanges.
+- Minimum full-time salary of $200,000-$250,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

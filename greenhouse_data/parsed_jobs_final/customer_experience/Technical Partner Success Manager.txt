@@ -1,0 +1,33 @@
+===JD_START===
+TITLE: Technical Partner Success Manager
+DEPARTMENT: Customer Experience
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Uniswap Labs is seeking a Technical Partner Success Manager to support the growing ecosystem of businesses and developers integrating with UniswapX and our Trading APIs. This role sits at the intersection of B2B custome...
+
+---RESPONSIBILITIES---
+- Develop a deep understanding of UniswapX, Trading APIs, and Uniswap protocols (v2, v3, v4, and UniswapX) to support integrations effectively.
+- Own and manage all technical partner relationships, acting as the bridge between business partners and internal engineering teams.
+- Improve and scale processes, such as ticketing systems and automation, to enhance partner support efficiency.
+- Maintain a timely response rate for integration requests, technical questions, and configuration changes.
+- Proactively troubleshoot and resolve issues, escalating only when necessary to engineering or product teams.
+- Oversee API key creation and management, ensuring partners have the correct configurations.
+- Be present and communicate with partners in all relevant communication channels, including private partner groups and public developer forums.
+- Update and maintain developer documentation to enhance self-serve integration capabilities.
+- Advocate for partner needs internally, influencing product improvements based on feedback.
+
+---REQUIREMENTS---
+- 5+ years of relevant experience in a technical customer success function or similar relevant work experience
+- Customer-focused and relationship-driven, comfortable engaging with executives, business partners, and developers to ensure a high-quality experience.
+- Technically proficient, able to understand and troubleshoot complex integration challenges.
+- Strategic thinker who can identify inefficiencies and build scalable processes for managing partner interactions.
+- Proactive and independent, taking ownership of challenges and driving solutions.
+- Interested in DeFi and blockchain technologies, with a willingness to learn and grow in the space.
+- Minimum full-time salary of $171,000-$189,000 Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+- Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

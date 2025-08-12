@@ -1,0 +1,39 @@
+===JD_START===
+TITLE: Content Marketer
+DEPARTMENT: Business Operations & Strategy
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 11+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet.
+
+---RESPONSIBILITIES---
+- We’re looking for a detail-oriented, creative content marketer to join the team!
+- The Content Marketer will help to develop and execute content strategies that drive engagement, growth, and support our overall marketing goals. This person will be responsible for creating, managing, and optimizing a variety of content across different channels and mediums (including blogs, learning resources, product landing pages, and more).
+- The person in this role is dedicated to making complex concepts simple, focusing on the user, and always starting with “why”. You’ll also act as a steward for the Uniswap brand across the organization, helping field copy requests and other types of content requests across the Marketing team.
+- As the Uniswap brand expands to more and more users, we’re excited to bring someone on who helps us scale how and where we tell our story to new audiences. 🦄
+- We are headquartered in SoHo in New York City and this role will be NYC based.
+- Content Execution
+- Develop on engaging educational content that simplifies complex concepts to users that are new to crypto and Uniswap Labs’ products
+- Support the Growth Marketing team on creating content for landing pages, blog articles, web pages, in-product notifications, banner ads, and more
+- Improve SEO performance of existing blogs, support articles, and landing pages through content updates & technical optimization, in tandem with Growth Marketer & Customer Experience teams
+- Monitor and report out on weekly performance of new and existing content pieces
+
+---REQUIREMENTS---
+- Must haves
+- Strong written communication skills
+- 2+ years of experience working as a content marketer, copywriter, or journalist
+- Be a no-task-too-big, no-task-too-small team member
+- Strong time management and prioritization skills with a proven track record to execute against deliverables
+- NYC-based
+- Experience working with agencies and contractors to build content for brands
+- Familiarity with Contentful, Framer, Google Search Console, and other comparable marketing platforms
+- Attention to detail and high bar for quality
+- Passion for bringing new audiences onchain
+
+---NICE_TO_HAVES---
+- Experience creating short-form and/or long-form educational video content
+- Experience developing video screen-capture content, static screenshots, GIFs
+- Experience working in international markets or on content internationalization efforts
+- Deep understanding of the crypto ecosystem
+- Minimum full-time salary of $121,000-$135,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

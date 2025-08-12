@@ -1,0 +1,22 @@
+===JD_START===
+TITLE: Product Marketing Manager
+DEPARTMENT: Marketing
+
+---INTRO---
+We’re looking for an enthusiastic, collaborative, and communicative product marketer to help drive go-to-market execution, contribute to user research, and help develop user personas for Unichain, v4, and the Uniswap Trading API. This individual will work closely with our product, growth marketing, and content teams to help bring new products to market, contribute to user and competitor research, and deliver creative, impactful, and relevant marketing campaigns. This role requires a strong understanding of web2 and web3 marketing strategies, experience with product positioning, user segmentation, and the ability to contribute to creative messaging. This role is responsible for collaborating cross-functionally to ensure that each feature update and launch is well-positioned and clearly comm...
+
+---RESPONSIBILITIES---
+- Collaborate with team members to achieve goals
+- Contribute to project planning and execution
+- Maintain high quality standards in all work
+
+---REQUIREMENTS---
+- 2+ years of Product Marketing experience working with technical B2C products, ideally in crypto or fintech
+- Strong interest in crypto, DeFi, and Web3, with personal or professional experience using a self-custody crypto wallet, engaging with dApps, NFTs, or participating in DAOs
+- Ability to influence with strong collaboration with clear communication and documentation skills
+- Highly organized, with the ability to juggle multiple projects and execute against deadlines
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

@@ -1,0 +1,29 @@
+===JD_START===
+TITLE: Application Security Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an Application Security Engineer to join Uniswap Labs. You’ll collaborate with engineers from many disciplines to design and implement secure and usable solutions, tooling, and detection mechanisms to protect Uniswap’s users and applications. We are headquartered in SoHo in New York City and this ...
+
+---RESPONSIBILITIES---
+- Work with developers to improve the security of our products and services
+- Participate in technical efforts such as developing solutions to address security weaknesses and work with stakeholders to implement them
+- Partner with engineering team to assess threats and provide security guidance and documentation
+- Collaborate with the eng team to build systems at scale and prevent classes of vulnerabilities
+- Assist with security incident response as needed
+
+---REQUIREMENTS---
+- 2+ years of experience in web security, mobile security, or cryptography
+- Demonstrated proficiency in software development
+- Excitement for user privacy and security
+- Expertise in authentication protocols
+- Expertise in cryptography based security
+
+---NICE_TO_HAVES---
+- Prior experience building in crypto/DeFi
+- Technical degree in Computer Science or related field
+- Love for unicorns :)
+- Minimum full-time salary of $203,000 - $225,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+
+===JD_END===

@@ -1,0 +1,25 @@
+===JD_START===
+TITLE: Staff Smart Contract Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+We are looking for an experienced smart contract engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for implementing and designing smart contracts for the next generation of the most popular decentralized trading protocol on Ethereum.
+
+---RESPONSIBILITIES---
+- Contribute to the Uniswap protocol by designing and implement smart contracts
+- Research, apply, and invent new smart contract paradigms
+- Design and implement peripheral mechanisms to the Uniswap protocol
+
+---REQUIREMENTS---
+- 4+ years of experience building and releasing production grade Solidity contracts
+- A deep understanding of the Ethereum Virtual Machine
+- Prior experience deploying complex smart contract systems to the Ethereum mainnet
+
+---NICE_TO_HAVES---
+- Degree in math or computer science
+- Experience implementing complex math in Solidity
+- Experience with React, Redux and other frontend technologies
+- Love for unicorns :)
+- Minimum full-time salary of $210,000-$240,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

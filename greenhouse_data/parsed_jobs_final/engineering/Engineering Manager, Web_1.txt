@@ -1,0 +1,29 @@
+===JD_START===
+TITLE: Engineering Manager, Web
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an experienced engineering manager to help us grow our engineering team. You will focus on the people and process of Uniswap Labs engineering so that we can continue to ship great technical work. You're excited to support engineers and help them reach their full potential. Join us!
+
+---RESPONSIBILITIES---
+- Directly manage individual contributor frontend web engineers
+- Ensure the engineering team is able to deliver quality projects at a fast pace
+- Provide career growth advice and performance feedback
+- Focus on improving team processes
+- Recruit and hire new engineers to the team
+- Collaborate with product and design to deliver a roadmap
+
+---REQUIREMENTS---
+- 2+ years of management experience growing & managing a team of engineers
+- A deep understanding of web technologies and front end architecture best practices
+- Knowledge and passion for software engineering best practices
+- Knowledge of Crypto and DeFi
+- High emotional intelligence
+
+---NICE_TO_HAVES---
+- Willingness to work out of our NYC office regularly
+- Understanding of protocols and blockchain architecture
+- Full-stack experience
+- Minimum full-time salary of $220,000-$240,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

@@ -1,0 +1,34 @@
+===JD_START===
+TITLE: Business Operations Manager
+DEPARTMENT: Business Operations & Strategy
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Role Overview: We are seeking a strategic, data-driven, and resourceful Business Operations (BizOps) Manager to join our growing team. Reporting to the Head of BizOps, this role offers the unique opportunity to lead and...
+
+---RESPONSIBILITIES---
+- Strategic Leadership: Drive multiple strategic initiatives from scoping to implementation, aligning with Uniswap Labs' goals and broader company strategy
+- Cross-functional Collaboration: Act as a central point of coordination, ensuring effective communication and alignment across teams and executives. Soliciting and appreciating different perspectives especially when those opinions are counter to their own
+- Data-Driven Insights: Conduct advanced data analyses merging on- and off-chain data to uncover key insights about business performance and strategic opportunities.
+- Revenue Modeling: Work closely with the FP&A team to own the company’s revenue model, keeping it updated with knowledge of key revenue drivers and new revenue streams to produce growth insights.
+- Communication: Present findings and recommendations to stakeholders, delivering insights in a clear, actionable, and impactful manner.
+- Execution Excellence: Partner with teams to operationalize strategic initiatives, ensuring successful implementation and measurable outcomes.
+
+---REQUIREMENTS---
+- 8+ years of experience, or 6+ years of experience and an MBA, including:
+
+3+ years of strategic experience, preferably at a top-tier consulting firm, investment bank, or similar.
+2+ years of operating experience at a business operations role in an operating company is preferred.
+- 3+ years of strategic experience, preferably at a top-tier consulting firm, investment bank, or similar.
+- 2+ years of operating experience at a business operations role in an operating company is preferred.
+- Proficient in programmatic data analysis (e.g., SQL, Python), from exploration to insight to communication.
+- Exceptional communication skills at both the executive and peer cross-functional level
+- Strong problem-solving abilities and a proactive, results-oriented mindset.
+- 3+ years of strategic experience, preferably at a top-tier consulting firm, investment bank, or similar.
+- 2+ years of operating experience at a business operations role in an operating company is preferred.
+- Nice-to-Haves:
+- Experience with on-chain data analysis is a strong plus.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

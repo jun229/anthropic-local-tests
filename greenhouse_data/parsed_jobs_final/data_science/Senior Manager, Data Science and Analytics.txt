@@ -1,0 +1,33 @@
+===JD_START===
+TITLE: Senior Manager, Data Science and Analytics
+DEPARTMENT: Data Science
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. As the Senior Manager, Data Science and Analytics, you will lead our efforts in leveraging data to drive strategic decisions, optimize our products, and enhance user experiences across our platforms. You will build and lead a high-performing team of data scientists and analysts to unlock insights from on-chain and ...
+
+---RESPONSIBILITIES---
+- Lead and manage the data science and analytics team, providing mentorship, guidance, and professional development opportunities.
+- Collaborate closely with cross-functional teams including Product, Engineering, Marketing, and Finance to define data-driven strategies and priorities (how can data be used to drive 10x business impact?) and set the data science roadmap, optimizing for impact.
+- Drive collaboration between data science + product/eng to deliver insights that drive current product development and help to prioritize future product roadmap items.
+- Ensure high quality, timely work by the data science team that is translated in the most impactful way to stakeholders.
+- Design and execute experiments to measure the impact of new product features and initiatives.
+- Establish and maintain scalable processes for data collection, preprocessing, modeling, and analysis.
+- Communicate findings and recommendations to executive leadership and stakeholders in a clear and concise manner on regular basis that allows insights to inform actions on an ongoing basis.
+- Stay current with industry trends and advancements in data science, machine learning, AI, and blockchain technology, and apply them to enhance our products and services.
+
+---REQUIREMENTS---
+- Master’s or PhD in Computer Science, Statistics, Mathematics, Economics, or a related quantitative field.
+- Proven experience (12+ years) in a data science or analytics role, with at least 5 years in a leadership position.
+- Strong proficiency in statistical analysis, machine learning techniques, and programming languages such as Python, R, and SQL.
+- Experience working with large-scale datasets and distributed computing frameworks
+- Deep understanding of blockchain technology and cryptocurrency markets is highly desirable.
+- Excellent communication skills with the ability to translate complex findings into actionable insights for non-technical stakeholders.
+- Entrepreneurial mindset with a track record of driving innovation and delivering results in a fast-paced environment.
+- Minimum full-time salary of $240,000 - $266,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+- Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

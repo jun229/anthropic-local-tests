@@ -1,0 +1,29 @@
+===JD_START===
+TITLE: Senior QA Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap website and mobile wallet has been used by millions of people to exchange value across digital assets and access the broader web3 ecosystem. We are seeking a detail-oriented, collaborative QA Engineer. As our first QA engineering hire, you will own and iterate on our manual and automated testing processes to enable us to continue quickly shipping high quality features and products.
+
+---RESPONSIBILITIES---
+- Shape a test-driven engineering culture that prioritizes creating high quality products.
+- Collaborate with Engineering to establish and evolve formal QA processes, ensuring that the team uses best practices.
+- Develop and execute test cases, plans, and procedures for web and mobile applications, spanning both frontend UI and backend services.
+- Reproduce issues and work with engineers and project leads to triaged and prioritize issues for resolution.
+- Perform stress and performance testing, and partner with Engineering to develop scalable and reliable automated testing frameworks.
+
+---REQUIREMENTS---
+- 5+ years experience in Quality Assurance and/or Software development.
+- Excellent written and verbal communication skills.
+- Proven experience designing and executing on test plans.
+- Ability to collaborate with and guide engineering partners, and provide technical guidance to other team members.
+- Knowledge of application UI (React/React Native), API (Node JS) and BDD automation technologies + test management tools.
+- Strong knowledge in continuous testing and experience integrating automation scripts in CI/CD pipeline.
+- Experience troubleshooting issues and identifying the root cause, and writing easy-to-reproduce tickets in tools like Linear/JIRA.
+
+---NICE_TO_HAVES---
+- Love of unicorns and the color pink
+- Experience testing/building financial or crypto products
+- Minimum full-time salary of $145,000-$155,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

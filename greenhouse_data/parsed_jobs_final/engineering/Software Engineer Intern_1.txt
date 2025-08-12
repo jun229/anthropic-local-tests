@@ -1,0 +1,23 @@
+===JD_START===
+TITLE: Software Engineer Intern
+DEPARTMENT: Engineering
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Work closely with design, product and rest of engineering to deliver production ready features
+- Own as much of the stack end to end as you demonstrate capacity for or deep dive into a specific area to become an expert
+
+---REQUIREMENTS---
+- Genuine excitement to learn and contribute to DeFi and Uniswap
+- Experience (either personal projects or paid) with some of the DeFi/crypto tools
+- Experience with one of React/Redux, Node, TypeScript, Python, or Solidity
+
+---NICE_TO_HAVES---
+- 2024 grad or 2+ summers of relevant internship experience
+- Studying towards a degree in Computer Science or related-field
+- Past internship at a well-respected engineering organization
+- Love for unicorns :)
+
+===JD_END===

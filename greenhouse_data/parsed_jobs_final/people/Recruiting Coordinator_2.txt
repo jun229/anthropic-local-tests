@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Recruiting Coordinator
+DEPARTMENT: People
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are headquartered in SoHo in New York City and this role will be NYC based. The Uniswap Labs team is looking to add a Recruiting Coordinator as we continue to build the team that's creating the next generation of fin...
+
+---RESPONSIBILITIES---
+- Coordinate phone, video, and in-person interviews for candidates, ensuring a smooth and efficient process for all
+- Take ownership of candidates' interview process by working closely with recruiters, interviewers, and hiring managers
+- Host candidates in our office
+- Ensure candidates have a great experience throughout the recruiting process
+- Assist in planning, coordinating and setting up networking and recruiting events
+- 1+ years of previous recruiting coordination experience
+- Proficiency with an Applicant Tracking System (we use Greenhouse!) or willingness to quickly learn
+- Comfortable working with Google Calendar and managing events on multiple calendars
+- Autonomy and ability to work without heavy direction
+- Ability to multi-task and shuffle priorities
+
+---REQUIREMENTS---
+- Relevant experience in the field
+- Strong communication and collaboration skills
+- Ability to work in a fast-paced environment
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

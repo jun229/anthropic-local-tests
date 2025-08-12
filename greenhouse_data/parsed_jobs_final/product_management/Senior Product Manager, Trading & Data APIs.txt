@@ -1,0 +1,29 @@
+===JD_START===
+TITLE: Senior Product Manager, Trading & Data APIs
+DEPARTMENT: Product Management
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol and Uniswap Platform. The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. About the role The Uniswap API team mission is to Unlock universal ownership and exchange at scale via our suite of trading and data APIs. These APIs power both Uniswap Labs apps, which support billi...
+
+---RESPONSIBILITIES---
+- Lead product strategy and vision across internal and external Uniswap API products. Drive cross-functional milestones towards realization of that vision, and a mentor and strong collaborator on the API product team.
+- Define a world-class developer experience and lead initiatives to achieve it.
+- Use metrics, industry trends, and customer insights to identify and execute new growth opportunities for our Platform API products.
+- Partner closely with business development to own the relationship with external Uniswap API customers and partners
+
+---REQUIREMENTS---
+- A bachelor's degree in computer science or equivalent job experience as a software engineer or product manager building facing developer products
+- 6+ years of product management experience building B2B or enterprise facing platforms
+- Strong communication and writing skills
+- Ability to influence and drive alignment with senior Leadership and Business Stakeholders, taking in differing perspectives & translating into action
+- Experience building, executing and prioritizing in a fast-paced environment
+- Experience leveraging data to build products and solve user needs
+- Strong interest in the Crypto/blockchain space
+
+---NICE_TO_HAVES---
+- Prior experience building in the crypto or fintech product space
+- Minimum full-time salary of $239,000 - $264,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+- Uniswap Labs is committed to diversity in our workforce and is proud to be an Equal Opportunity Employer (EEO). We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability (including gender dysphoria and similar gender-related conditions), sex, gender identity or expression, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), veteran status, military status, domestic violence victim status, reproductive health decision making or any other protected category. In addition, Uniswap Labs participates in E-Verify. You can view the E-Verify poster here and the Right to Work poster here.
+
+===JD_END===

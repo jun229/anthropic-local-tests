@@ -1,0 +1,21 @@
+===JD_START===
+TITLE: Data Science Intern
+DEPARTMENT: Engineering
+
+---INTRO---
+Hello future interns! We will be receiving applicants through January 15th. We'll review your resume and will be in touch if it's a good fit. Thanks for your interest and patience. We’re looking for an enthusiastic, self-motivated engineering intern to help us build the next generation of financial products. As an intern, you will get a chance to touch all parts of our stack and rapidly launch features along the way. You will be part of all the conversations from idea, design and execution. You will be responsible (with support from a mentor) for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals and more. Location and timing: The Software Engineering Internship will take place in New York City at our office in S...
+
+---RESPONSIBILITIES---
+- Collaborate with team members to achieve goals
+- Contribute to project planning and execution
+- Maintain high quality standards in all work
+
+---REQUIREMENTS---
+- Relevant experience in the field
+- Strong communication and collaboration skills
+- Ability to work in a fast-paced environment
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

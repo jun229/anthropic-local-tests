@@ -1,0 +1,35 @@
+===JD_START===
+TITLE: Staff Application Security Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We are seeking a highly skilled and experienced Staff Application Security Engineer to take on a technical leadership role within our organization. You will be responsible for driving the security of our applications, m...
+
+---RESPONSIBILITIES---
+- Lead the application security team, setting technical direction and priorities.
+- Mentor and guide junior security engineers, fostering a culture of continuous learning and improvement.
+- Conduct regular code reviews and security audits to ensure high standards of security practices are maintained.
+- Design, implement, and maintain security measures for our software applications to protect against threats and vulnerabilities.
+- Understand browser based attack vectors as well as android and iOS attack vectors
+- Understand cryptographic primitive and their security applications
+- Perform threat modeling, security code reviews, and vulnerability assessments.
+- Develop and maintain secure coding guidelines and best practices for developers.
+- Work closely with development teams to integrate security into the software development lifecycle (SDLC).
+- Lead incident response efforts for application security incidents, including investigation, mitigation, and post-incident analysis.
+
+---REQUIREMENTS---
+- Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+- 7+ years of experience in application security or related fields, with at least 3 years in a leadership or senior technical role.
+- Deep understanding of application security principles, practices, and technologies.
+- Experience with security testing tools and methodologies (e.g., static and dynamic analysis, penetration testing).
+- Proficiency in programming and scripting languages (e.g., Java, Python, JavaScript).
+- Strong knowledge of web application security standards (e.g., OWASP Top Ten, SANS/CWE Top 25).
+- Experience with cloud security (AWS, Azure, GCP) and container security (Docker, Kubernetes).
+- Excellent problem-solving skills and the ability to work under pressure in a fast-paced environment.
+- Strong communication and interpersonal skills, with the ability to influence and lead teams.
+- Relevant certifications such as CISSP, CEH, OSCP, or CSSLP.
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

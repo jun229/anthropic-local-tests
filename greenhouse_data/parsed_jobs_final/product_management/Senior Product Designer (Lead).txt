@@ -1,0 +1,27 @@
+===JD_START===
+TITLE: Senior Product Designer (Lead)
+DEPARTMENT: Product Management
+
+---INTRO---
+We’re looking for an enthusiastic, self-motivated designer to help us build the next generation of financial products. You’ll be joining a small but close knit product team known for developing category-defining UX. As a Senior Product Designer at Uniswap Labs, you’ll solve cutting edge human computer or mobile interface problems as well as developing new mental models for the next million users of decentralized finance.
+
+---RESPONSIBILITIES---
+- Enthusiastically lead the design of new and improved consumer products that increase clarity and user agency of decentralized finance and web3.
+- Wrangle difficult problems in emerging technology, help invent new mental models, and design cutting edge interactions.
+- Use a human-centered approach that incorporates qualitative and quantitative data in order to create conceptual wireframes, prototypes and high fidelity designs.
+- Help to define the design culture of a growing design team through writing, external communication, and new processes.
+- Contribute to creation of a unified design system that increases the velocity of the frontend engineering team.
+
+---REQUIREMENTS---
+- 6+ years of product design experience including research, prototyping and implementation of user-facing applications.
+- Prior experience working with component libraries or design systems.
+- A desire to design within the context of web3/blockchain/decentralized finance.
+- Experience designing with Figma, Framer or other modern design tools.
+
+---NICE_TO_HAVES---
+- Familiarity with the web3/Ethereum (wallets, tokens, transactions etc.)
+- High fidelity prototyping experience
+- Love for unicorns :)
+- Minimum full-time salary of $180,000-$220,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

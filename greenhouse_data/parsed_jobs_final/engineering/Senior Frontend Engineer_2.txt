@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Senior Frontend Engineer
+DEPARTMENT: Engineering
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet.
+
+---RESPONSIBILITIES---
+- Rapidly implement functional UI elements from design mocks, with an eye toward performance and accessibility
+- Know when to create abstractions vs. one-off features
+- Ensure that components are functional, elegant, performant, and mobile-friendly
+- Understand when and how to run UI tests
+
+---REQUIREMENTS---
+- 5+ years of software engineering experience
+- At least 3 years of React experience
+- A deep understanding of the architecture of modern client-side React applications
+- Prior experience working with component libraries or design teams in user-facing applications
+- A desire to keep up with modern best practices in web development
+
+---NICE_TO_HAVES---
+- Prior experience creating a design system or component library
+- Familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)
+- Familiarity with React Hooks
+- Experience with TypeScript in React
+- Degree in computer science
+
+===JD_END===

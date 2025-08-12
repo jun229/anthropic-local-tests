@@ -1,0 +1,32 @@
+===JD_START===
+TITLE: Senior Data Scientist
+DEPARTMENT: Data Science
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap Labs, you become part of a team that's reshaping the way value flows on the internet. We are seeking a Senior Data Scientist who will work in a highly collaborative and cross-functional setting to empower data-driven decision-making at the company level. The successful candidate should possess exceptional analytical and problem-solving skills, as well as the ability to communicate results in a ...
+
+---RESPONSIBILITIES---
+- Tackle open-ended business questions through in-depth analysis using on-chain and off-chain data, delivering insights and strategic recommendations that influence team direction.
+- Take responsibility for the end-to-end data pipelines—ranging from data collection and instrumentation to building clear, impactful visualizations.
+- Lead technical reviews, support teammates with strong SQL and Python skills, and develop reliable, well-documented ETL processes.
+- Uphold strong standards for analytical rigor—design and execute experiments and causal studies that earn stakeholder trust and support sound decisions.
+
+---REQUIREMENTS---
+- Bachelors degree in a quantitative field (Computer Science, Statistics, Math, Economics) with 5+ years of relevant Data Science experience, or a Master’s/PhD in a quantitative field with with ≥3+ years of relevant Data Science experience
+- Proven track record of leading high-impact data science projects in ambiguous problem spaces
+- Hands-on experience using advanced modeling techniques to solve real-world business challenges
+- Familiarity with blockchain data and analytics tools
+- Professional experience or personal project experience in crypto
+- Demonstrated proficiency in SQL and Python
+- Previous experience using data modeling and pipeline tools like dbt, Dataflow
+- Strong communication skills and the ability to present insights to team members in other domains
+- Ability to prioritize effectively in a highly dynamic start-up environment with limited guidance
+
+---NICE_TO_HAVES---
+- Experience working in fast-paced, high-growth technology companies
+- Professional experience with DeFi/web3
+- Fondness for the color pink
+- Minimum full-time salary of $195,000-$217,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+- Uniswap Labs' Full-Time employee benefits include company-paid medical, dental, & vision for you and your dependents, gym subsidy, 401(k) with 4% employer contribution, annual $1,500 education stipend, unlimited and encouraged time off, up to 16 weeks paid parental leave, home office setup stipend for remote employees and daily lunches at NY headquarters (all benefits are subject to applicable taxes and based on eligibility).
+
+===JD_END===

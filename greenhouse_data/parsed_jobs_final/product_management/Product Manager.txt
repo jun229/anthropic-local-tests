@@ -1,0 +1,26 @@
+===JD_START===
+TITLE: Product Manager
+DEPARTMENT: Product Management
+
+---INTRO---
+We’re looking for an enthusiastic, self-motivated Product thinker and doer. You’ll work closely with engineers and designers to prioritize, spec and build new products and features. You need to have a solid technical background, uncanny attention to detail and a sound judgment.
+
+---RESPONSIBILITIES---
+- Work closely with designers and engineers to create product specs
+- Be the glue (or the grease) that runs our product development engine
+- Launch new products and features, test their performance, and iterate quickly
+- Understand markets, competition, and user requirements in depth
+
+---REQUIREMENTS---
+- 5 years of experience, consumer focused with a growth mindset
+- You are an empathetic communicator and natural collaborator who can work with people across the org
+- You have built and shipped Web2 consumer products at scale (to millions of users at least)
+- You understand value of data/analytics and have an instinct to build great products
+- You have a strong interest in Crypto/blockchain space
+
+---NICE_TO_HAVES---
+- Prior experience building in crypto/DeFi
+- Technical degree in Computer Science or related field
+- Love for unicorns :)
+
+===JD_END===

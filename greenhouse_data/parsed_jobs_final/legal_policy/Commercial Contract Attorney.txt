@@ -1,0 +1,31 @@
+===JD_START===
+TITLE: Commercial Contract Attorney
+DEPARTMENT: Legal & Policy
+
+---INTRO---
+The Uniswap Labs team is building products to unlock value through universal exchange. We envision a future where digital economies flourish, and markets are transparent, global, and equitable. Our products – the Uniswap Interface, the Uniswap Mobile App, and the Uniswap Extension – are powered by the Uniswap Protocol.  The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 8+ additional chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. Uniswap Labs is seeking an experienced commercial contracts attorney. The attorney must be team-oriented and well versed in contract law and industry best practices to inform contract drafting and negotiation strategies...
+
+---RESPONSIBILITIES---
+- Owning and managing all contract lifecycle processes, including tracking key milestones, renewals, and amendments, and maintaining accurate records in contract management systems.
+- Structuring, drafting, negotiating and reviewing a variety of commercial contracts including, but not limited, to vendor agreements, service agreements, licensing agreements, collaboration agreements and consulting agreements.
+- Providing legal guidance and support to various team members on contractual matters, ensuring compliance with company policies and applicable laws and regulations.
+- Leading collaborative efforts with cross-functional teams, such as product, engineering, and business development, to facilitate contract negotiations and resolve contractual disputes in a timely manner.
+- Driving improvements to contract lifecycle processes and operations. Developing and maintaining contract templates, standard clauses, and other legal resources to streamline the contract review and negotiation process.
+
+---REQUIREMENTS---
+- JD degree (or foreign equivalent) with good standing in at least one US state bar.
+- 5+ years of professional experience in commercial contracts.
+- Extensive experience drafting, negotiating and reviewing complex commercial contracts.
+- Strong understanding of contract law principles and commercial transactions.
+- Ability to multitask and prioritize workload in a fast-paced environment.
+- Excellent judgment and the ability to make smart decisions in the face of ambiguity and imperfect information.
+- Strong communication (both written and verbal) and project management skills with a strict attention to detail.
+
+---NICE_TO_HAVES---
+- Experience at an AM Law 100 corporate law firm, and/or working with companies in the technology and/or emerging company space.
+- Experience with drafting intellectual property focused agreements, particularly licenses.
+- Experience implementing, maintaining, and improving contract lifecycle processes.
+- A strong understanding of the Web3/crypto ecosystem.
+- Minimum full-time salary of $203,000-$225,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

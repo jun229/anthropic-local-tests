@@ -1,0 +1,28 @@
+===JD_START===
+TITLE: Senior Design Lead
+DEPARTMENT: Design
+
+---INTRO---
+Uniswap Labs builds products that help millions of people access DeFi simply and securely ‒ from the Uniswap Web App and Wallet to crypto infrastructure like the Uniswap Trading API, and Unichain. Uniswap Labs also contributes to the development of the Uniswap Protocol, which has processed over $2.9 trillion in volume across thousands of tokens on Ethereum and 12+ other chains. When you join Uniswap, you become part of a team that's reshaping the way value flows on the internet. We’re looking for an experienced and self-directed design leader to help craft and communicate the Uniswap story. As a key member of our close-knit design team, you’ll drive creative strategy and execution across a range of mediums, helping evolve Uniswap into one of the most trusted, recognizable, and influential ...
+
+---RESPONSIBILITIES---
+- Lead and execute complex design projects across brand, marketing, and events. This includes conceiving and scoping social campaigns, brand identities, physical spaces, and executive presentations.
+- Partner with cross-functional leads to shape creative strategies and deliver design solutions that drive both brand and business outcomes.
+- Define and evolve Uniswap's visual language, ensuring consistency and innovation across all touchpoints.
+- Act as a mentor and design thought leader within the organization. Help grow a culture of excellence, curiosity, and low-ego collaboration.
+- Lead recruitment, onboarding, and performance development for internal designers and external contractors or agencies.
+- Stay on the pulse of visual design, crypto, and marketing trends to inform and inspire the team.
+- Solve ambiguous design challenges through systems thinking, storytelling, and strategic judgment.
+- Manage designers and own the success of your team by setting direction, delegating effectively, and ensuring delivery of high-quality work. Own team goal achievement and drive measurable design impact aligned with broader company objectives.
+- Proactively identify opportunities to improve efficiency, collaboration, and design impact.
+- Oversee planning, staffing, and performance management for your group. Make key decisions related to hiring, structure, and creative operations. Leverage a deep understanding of Uniswap's business model, products, and strategy to inform team priorities and design decisions.
+
+---REQUIREMENTS---
+- Relevant experience in the field
+- Strong communication and collaboration skills
+- Ability to work in a fast-paced environment
+
+---NICE_TO_HAVES---
+- Love for unicorns :)
+
+===JD_END===

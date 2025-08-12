@@ -1,0 +1,25 @@
+===JD_START===
+TITLE: Senior Technical Sourcer
+DEPARTMENT: People
+
+---INTRO---
+As we enter into this next phase of growth, we are looking to more than double our team and implement creative talent processes and strategies that can preserve and grow our culture of innovation. We are looking to make our first talent sourcer to help us scale and build out a world-class engineering team.
+
+---RESPONSIBILITIES---
+- Develop creative and effective sourcing strategies across multiple engineering skillsets
+- Monitor pipeline health, identify bottlenecks, and propose solutions to areas of opportunity
+- Provide exceptional candidate experience
+- Leverage data to influence strategy and decisions
+- Partner effectively with recruiting team & internal stakeholders to understand goals and drive outcomes
+
+---REQUIREMENTS---
+- 5+ years of technical sourcing experience at a high-growth company
+- Experience sourcing for technical positions, such as mobile, frontend, backend, and full-stack
+- Proficiency using data to propose solutions and drive results
+- Passion for crypto and decentralized finance
+
+---NICE_TO_HAVES---
+- Love for unicorns <3
+- Experienced with our core recruiting product suite - Greenhouse, Gem, LinkedIn Recruiter, etc.
+
+===JD_END===

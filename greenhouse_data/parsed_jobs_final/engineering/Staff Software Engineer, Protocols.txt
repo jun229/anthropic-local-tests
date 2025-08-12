@@ -1,0 +1,27 @@
+===JD_START===
+TITLE: Staff Software Engineer, Protocols
+DEPARTMENT: Engineering
+
+---INTRO---
+We are looking for an experienced engineer to help us build the next generation of the Uniswap Protocol. You will be responsible for designing and implementing systems and protocols that build upon the Ethereum blockchain.
+
+---RESPONSIBILITIES---
+- Build and maintain low level backend services that interact with the Uniswap Protocol
+- Research and contribute to Ethereum Improvement Proposals (EIPs)
+- Participate in discussions from the initial product ideas to launch
+
+---REQUIREMENTS---
+- 3+ years of experience working on blockchains, consensus algorithms, p2p, or applied cryptography
+- Deep knowledge of Ethereum and the EVM
+- Broad understanding of the Ethereum roadmap
+- Strong Understanding of different blockchain designs, their tradeoffs, and the cryptography underpinning blockchains
+- Strong understanding of distributed systems and computer science fundamentals
+- Fluency in Go, Rust, or a similar language
+
+---NICE_TO_HAVES---
+- Experience writing smart contracts
+- Experience with cloud infrastructure, networking or orchestration with AWS (e.g. Docker, ECS, CDK, DynamoDB)
+- Love for unicorns :)
+- Minimum full-time salary of $210,000-$240,000. Disclosure in accordance with New York City's Pay Transparency Law. Full Time employees at Uniswap Labs are also eligible for other compensation elements, including equity, tokens, and benefits, dependent on the position type.
+
+===JD_END===

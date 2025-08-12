@@ -1,0 +1,34 @@
+===JD_START===
+TITLE: Community Lead
+DEPARTMENT: Business Operations & Strategy
+
+---INTRO---
+We're looking for an enthusiastic, self-motivated professional to join our team.
+
+---RESPONSIBILITIES---
+- Understand Uniswap’s tone and messaging and apply this by engaging with users on twitter and in our discord
+- Deep technical understanding of Uniswap’s mechanisms and ability to answer questions and speak to users and integration partners
+- Manage support requests
+- Attend virtual and in person conferences and hackathons, support hackers, and generally engage with the developer community around Uniswap
+- Create fun community engagement programs, such as giveaways or virtual events
+- Host a monthly Uniswap community call
+- Manage our mailing list and create periodic newsletter updates
+- Create dank memes
+- Develop new ways of engaging with our users and community
+- Work with the business development team to turn community engagement into active BD opportunities
+
+---REQUIREMENTS---
+- Experience working in community management for a crypto project
+- Organizational skills
+- Self-directed worker
+- Ability to respond very quickly across all of our platforms
+- Sense of humor
+
+---NICE_TO_HAVES---
+- Degree in computer science/self-taught engineer
+- Active following on twitter
+- Existing relationships in the crypto space
+- Fondness for the color pink
+- Love for unicorns :)
+
+===JD_END===
